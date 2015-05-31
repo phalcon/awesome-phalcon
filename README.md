@@ -147,7 +147,6 @@ A curated list of awesome Phalcon libraries and resources. Inspired by [awesome-
 
 * [phalcon-widget](https://github.com/serebro/phalcon-widget) Widgets for Phalcon apps
 * [Phalcony](https://github.com/ovr/phalcony) - Library for expansion the base functional of Phalcon Framework
-* [phalcon-datatables](https://github.com/m1ome/phalcon-datatables) - Phalcon adapter for DataTables
 
 
 ## ORM
@@ -194,6 +193,7 @@ A curated list of awesome Phalcon libraries and resources. Inspired by [awesome-
 
 *Searching tools & libraries.*
 
+* [phalcon-datatables](https://github.com/m1ome/phalcon-datatables) - Phalcon adapter for DataTables
 * [phalcon-elasticsearch](https://github.com/ovr/phalcon-elasticsearch) - Phalcon + Elastic
 * [Searcher](https://github.com/stanislav-web/Searcher) - Database searcher for Phalcon Framework
 
