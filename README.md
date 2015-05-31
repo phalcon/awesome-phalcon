@@ -23,6 +23,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/s
     - [DI](#di)
     - [Events](#events)
     - [Forms](#forms)
+    - [i18n](#i18n)
     - [Jobs](#jobs)
     - [Mail](#mail)
     - [Media](#media)
@@ -129,6 +130,13 @@ Please take a quick gander at the [contribution guidelines](https://github.com/s
 *Libraries for working with forms.*
 
 * [halcon-form-decorators](https://github.com/Michal-St/phalcon-form-decorators) - Form decorators to Phalcon PHP Framework
+
+
+## i18n
+
+*List of i18n and l10n libraries and services.*
+
+* [Phalcon Translate Service](https://github.com/stanislav-web/phalcon-translate) - Phalcon Translate Service. Simple way to translate your costom part of templates
 
 
 ## Jobs
