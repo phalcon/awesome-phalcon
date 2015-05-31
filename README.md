@@ -29,6 +29,7 @@ A curated list of awesome Phalcon libraries and resources. Inspired by [awesome-
     - [SMS](#sms)
     - [Web Tools](#web-tools)
     - [Websites](#websites)
+    - [Jobs](#jobs)
 
 
 ## ACL
@@ -214,8 +215,8 @@ A curated list of awesome Phalcon libraries and resources. Inspired by [awesome-
 * [Phalcon Tips](http://phalcontip.com) - Phalcon Tips
 * [Phalcon Twitter](https://twitter.com/phalconphp) - Phalcon Twitter
 * [Phalcon.io](http://phalcon.io) - Articles, tutorials, tips, documentation and much more
-* [Phalconist](https://github.com/phalconist/phalconist) - Resources catalog for Phalcon Framework on [Phalconist](http://phalconist.com)
-
+* [Phalconist](https://github.com/phalconist/phalconist) - Resources catalog for Phalcon Framework on  [Phalconist](http://phalconist.com)
+* [Sitepoint](http://www.sitepoint.com/?s=phalcon) Articles, tutorials and so more
 
 ## Web Tools
 
@@ -223,3 +224,8 @@ A curated list of awesome Phalcon libraries and resources. Inspired by [awesome-
 
 * [Password Manager](https://github.com/mrspartak/phalconPasswordManager) - Password manager for selfuse
 * [URL-Shortener](https://github.com/blackbunny/Url-Shortener) - Simple Fast Url-Shortener application
+
+## Jobs
+*List jobs for Phalcon Developer.*
+
+* [Phalcon jobs](https://phalconjobs.com) - Collection Phalcon Jobs.
