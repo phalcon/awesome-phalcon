@@ -225,7 +225,7 @@ A curated list of awesome Phalcon libraries and resources. Inspired by [awesome-
 * [Password Manager](https://github.com/mrspartak/phalconPasswordManager) - Password manager for selfuse
 * [URL-Shortener](https://github.com/blackbunny/Url-Shortener) - Simple Fast Url-Shortener application
 
-## Phalcon Jobs
+## Jobs
 *List jobs for Phalcon Developer.*
 
 *[Phalcon jobs](https://phalconjobs.com) - Collection Phalcon Jobs.
