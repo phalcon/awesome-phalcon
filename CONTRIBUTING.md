@@ -1,6 +1,6 @@
 This resource was made by the Phalcon community and wouldn't be possible without you! We appreciate and recognize all [contributors](https://github.com/sergeyklay/awesome-phalcon/graphs/contributors).
 
-Join us on Slack at #general on Phalcon Chat [web access](https://phalconchats.slack.com).
+Join us on Slack at **#general** on Phalcon Chat [web access](https://phalconchats.slack.com).
 
 
 # Contribution Guidelines
@@ -12,7 +12,7 @@ To set this list excellent, awesome-phalcon is a specially curated list for high
 
 - List items should be sorted *alphabetically*.
 - Each item should be limited to one link
-- The link should be the name of the package or project
+- The link should be the name of the library or project
 - Descriptions should be clear, concise, and non-promotional
 - Descriptions should follow the link, on the same line
 
