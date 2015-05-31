@@ -18,6 +18,7 @@ A curated list of awesome Phalcon libraries and resources. Inspired by [awesome-
     - [DI](#di)
     - [Events](#events)
     - [Forms](#forms)
+    - [Jobs](#jobs)
     - [Mail](#mail)
     - [Media](#media)
     - [Miscellaneous](#miscellaneous)
@@ -30,7 +31,6 @@ A curated list of awesome Phalcon libraries and resources. Inspired by [awesome-
     - [Templating](#templating)
     - [Web Tools](#web-tools)
     - [Websites](#websites)
-    - [Jobs](#jobs)
 
 
 ## ACL
@@ -45,6 +45,7 @@ A curated list of awesome Phalcon libraries and resources. Inspired by [awesome-
 *Various application skeletons.*
 
 * [Base App](https://github.com/mruz/base-app) - The base application in Phalcon Framework
+* [invo](https://github.com/phalcon/invo) - Sample application for the Phalcon Framework
 * [nest](https://github.com/nexik/nest) - Phalcon SOLID Bootstrap for Rapid Application Development
 * [phalanx](https://github.com/Swader/phalanx) - A starter app with Phalcon Framework and Angular
 * [Phalcon Boilerplate](https://github.com/mikegioia/phalcon-boilerplate) - Template for building large-scale Phalcon Applications
@@ -125,6 +126,13 @@ A curated list of awesome Phalcon libraries and resources. Inspired by [awesome-
 * [halcon-form-decorators](https://github.com/Michal-St/phalcon-form-decorators) - Form decorators to Phalcon Framework
 
 
+## Jobs
+
+*List jobs for Phalcon Developer.*
+
+* [Phalcon jobs](https://phalconjobs.com) - Collection Phalcon Jobs.
+
+
 ## Mail
 
 *Mail services.*
@@ -145,6 +153,7 @@ A curated list of awesome Phalcon libraries and resources. Inspired by [awesome-
 
 *These libraries were placed here because none of the other categories seemed to fit*
 
+* [phalcon-recaptcha](https://github.com/pavlosadovyi/phalcon-recaptcha) - Minimalist wrapper with which you can easily integrate [reCAPTCHA](http://www.google.com/recaptcha) into your application based on Phalcon Framework
 * [phalcon-widget](https://github.com/serebro/phalcon-widget) Widgets for Phalcon apps
 * [Phalcony](https://github.com/ovr/phalcony) - Library for expansion the base functional of Phalcon Framework
 
@@ -154,6 +163,7 @@ A curated list of awesome Phalcon libraries and resources. Inspired by [awesome-
 *Libraries that implement Object-Relational Mapping or datamapping techniques.*
 
 * [EagerLoading](https://github.com/stibiumz/phalcon.eager-loading) - Solves N+1 query problem in Phalcon Model
+* [phalcon-mssql](https://github.com/fishjerky/phalcon-mssql) - A Phalcon Framework MSSQL PDO db adapter
 
 
 ## RESTful
@@ -187,6 +197,7 @@ A curated list of awesome Phalcon libraries and resources. Inspired by [awesome-
 * [phalcon-boilerplate](https://github.com/enajeeb/phalcon-boilerplate) - Boilerplate template for Phalcon Framework. Its includes Authentication, Database Abstraction, etc.
 * [Phalcon Boilerplate](https://github.com/mikegioia/phalcon-boilerplate) - Template for building large-scale Phalcon Applications
 * [phalcon-bootstrap](https://github.com/JimmDiGrizli/phalcon-bootstrap) - Bootstrap component for a quick start developing applications on Phalcon Framework
+* [vagrant](https://github.com/phalcon/vagrant) - Simple Vagrant setup to get loaded with core development tools to build a powerful PHP application focused on Phalcon Framework
 
 
 ## Searching
@@ -231,8 +242,3 @@ A curated list of awesome Phalcon libraries and resources. Inspired by [awesome-
 
 * [Password Manager](https://github.com/mrspartak/phalconPasswordManager) - Password manager for selfuse
 * [URL-Shortener](https://github.com/blackbunny/Url-Shortener) - Simple Fast Url-Shortener application
-
-## Jobs
-*List jobs for Phalcon Developer.*
-
-* [Phalcon jobs](https://phalconjobs.com) - Collection Phalcon Jobs.
