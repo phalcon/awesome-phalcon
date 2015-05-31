@@ -77,7 +77,7 @@ A curated list of awesome Phalcon libraries and resources. Inspired by [awesome-
 * [phalconBlog](https://github.com/eristoddle/phalconBlog) - A blog using the Phalcon Framework
 * [Talon](https://github.com/adamdama/Talon) - CMS built on Phalcon Framework
 * [Vegas CMF](https://github.com/vegas-cmf) - Vegas CMF for Phalcon Framework
-* [Yona CMS](https://github.com/oleksandr-torosh/yona-cms) - CMS based on Phalcon PHP Framework with modular structure
+* [Yona CMS](https://github.com/oleksandr-torosh/yona-cms) - CMS based on Phalcon Framework with modular structure
 
 
 ## Dashboard
@@ -107,7 +107,7 @@ A curated list of awesome Phalcon libraries and resources. Inspired by [awesome-
 *Dependency Injection.*
 
 * [phalcon-autoload-services](https://github.com/JimmDiGrizli/phalcon-autoload-services) - Components for automatic registration services in Dependency Injection
-* [phalcon-service-loader](https://github.com/serebro/phalcon-service-loader) - Service loader for Phalcon PHP Framework
+* [phalcon-service-loader](https://github.com/serebro/phalcon-service-loader) - Service loader for Phalcon Framework
 
 
 ## Events
@@ -166,7 +166,7 @@ A curated list of awesome Phalcon libraries and resources. Inspired by [awesome-
 * [PhalconRest](https://github.com/cmoore4/phalcon-rest) - A Base project for APIs using the Phalcon Framework
 * [phest](https://github.com/ovide/phest) - Rest API library for Phalcon
 * [php-hmac-rest-api](https://github.com/jeteokeeffe/php-hmac-rest-api) - PHP HMAC Restful API that uses Phalcon Micro Application
-* [PhREST API](https://github.com/phrest/api) - Phalcon PHP REST API Package
+* [PhREST API](https://github.com/phrest/api) - Phalcon Framework REST API Package
 * [rest-seed](https://github.com/michaelkrone/rest-seed) - Scaffold a REST API Application Phalcon (multi module), Angular and Bootstrap (using Yeoman, Bower and Grunt)
 
 
@@ -181,11 +181,11 @@ A curated list of awesome Phalcon libraries and resources. Inspired by [awesome-
 
 *Various scaffolding tools.*
 
-* [ansible-phalcon-role](https://github.com/sarrubia/ansible-phalcon-role) - Ansible Role to install Phalcon PHP Framework in Debian/Ubuntu 
-* [generator-phalcon](https://github.com/michaelkrone/generator-phalcon) - Yeoman generator for Phalcon PHP multi-module applications
+* [ansible-phalcon-role](https://github.com/sarrubia/ansible-phalcon-role) - Ansible Role to install Phalcon Framework in Debian/Ubuntu 
+* [generator-phalcon](https://github.com/michaelkrone/generator-phalcon) - Yeoman generator for Phalcon Multi-Module Aplications
 * [perfect-php-vagrant](https://github.com/ovr/perfect-php-vagrant) - Web development Vagrant machine with PHP + Phalcon/Lynx/Zephir, Nginx, Node+Bower/Gulp/Grunt
-* [phalcon-boilerplate](https://github.com/enajeeb/phalcon-boilerplate) - Boilerplate template for PHP Phalcon Framework. Its includes Authentication, Database Abstraction
-* [Phalcon Boilerplate](https://github.com/mikegioia/phalcon-boilerplate) - Template for building large-scale Phalcon PHP applications
+* [phalcon-boilerplate](https://github.com/enajeeb/phalcon-boilerplate) - Boilerplate template for Phalcon Framework. Its includes Authentication, Database Abstraction, etc.
+* [Phalcon Boilerplate](https://github.com/mikegioia/phalcon-boilerplate) - Template for building large-scale Phalcon Applications
 * [phalcon-bootstrap](https://github.com/JimmDiGrizli/phalcon-bootstrap) - Bootstrap component for a quick start developing applications on Phalcon Framework
 
 
@@ -215,7 +215,7 @@ A curated list of awesome Phalcon libraries and resources. Inspired by [awesome-
 * [Phalcon Tips](http://phalcontip.com) - Phalcon Tips
 * [Phalcon Twitter](https://twitter.com/phalconphp) - Phalcon Twitter
 * [Phalcon.io](http://phalcon.io) - Articles, tutorials, tips, documentation and much more
-* [Phalconist](https://github.com/phalconist/phalconist) - Resources catalog for Phalcon Framework on  [Phalconist](http://phalconist.com)
+* [Phalconist](https://github.com/phalconist/phalconist) - Resources catalog for Phalcon Framework on [Phalconist](http://phalconist.com)
 * [Sitepoint](http://www.sitepoint.com/?s=phalcon) Articles, tutorials and so more
 
 ## Web Tools
