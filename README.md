@@ -27,6 +27,7 @@ A curated list of awesome Phalcon libraries and resources. Inspired by [awesome-
     - [Scaffolding](#scaffolding)
     - [Searching](#searching)
     - [SMS](#sms)
+    - [Templating](#templating)
     - [Web Tools](#web-tools)
     - [Websites](#websites)
     - [Jobs](#jobs)
@@ -203,6 +204,12 @@ A curated list of awesome Phalcon libraries and resources. Inspired by [awesome-
 
 * [Multiple SMS Sender factory](https://github.com/stanislav-web/phalcon-sms-factory) - Phalcon SMS Factory
 
+
+## Templating
+
+*Adapters for templating engine.*
+
+* [phalcon-xslt-view-engine](https://github.com/racztiborzoltan/phalcon-xslt-view-engine) - Adapter to use XSLT as templating engine for Phalcon Framework
 
 ## Websites
 
