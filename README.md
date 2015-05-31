@@ -159,7 +159,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/s
 *These libraries were placed here because none of the other categories seemed to fit*
 
 * [phalcon-recaptcha](https://github.com/pavlosadovyi/phalcon-recaptcha) - Minimalist wrapper with which you can easily integrate [reCAPTCHA](http://www.google.com/recaptcha) into your application based on Phalcon PHP Framework
-* [phalcon-widget](https://github.com/serebro/phalcon-widget) Widgets for Phalcon apps
+* [phalcon-widget](https://github.com/serebro/phalcon-widget) - Widgets for Phalcon apps
 * [Phalcony](https://github.com/ovr/phalcony) - Library for expansion the base functional of Phalcon PHP Framework
 
 
@@ -235,12 +235,12 @@ Please take a quick gander at the [contribution guidelines](https://github.com/s
 * [Phalcon Blog](http://blog.phalconphp.com) - Phalcon Blog
 * [Phalcon Documentation](http://docs.phalconphp.com) - Phalcon Documentation
 * [Phalcon Forums](http://forum.phalconphp.com) - Phalcon Forums
-* [Phalcon PDF Documentation](https://media.readthedocs.org/pdf/phalcon-php-framework-documentation/latest/phalcon-php-framework-documentation.pdf) Phalcon PHP Framework Documentation
+* [Phalcon PDF Documentation](https://media.readthedocs.org/pdf/phalcon-php-framework-documentation/latest/phalcon-php-framework-documentation.pdf) - Phalcon PHP Framework Documentation
 * [Phalcon Tips](http://phalcontip.com) - Phalcon Tips
 * [Phalcon Twitter](https://twitter.com/phalconphp) - Phalcon Twitter
 * [Phalcon.io](http://phalcon.io) - Articles, tutorials, tips, documentation and much more
 * [Phalconist](https://github.com/phalconist/phalconist) - Resources catalog for Phalcon PHP Framework on [Phalconist](http://phalconist.com)
-* [Sitepoint](http://www.sitepoint.com/?s=phalcon) Articles, tutorials and so more
+* [Sitepoint](http://www.sitepoint.com/?s=phalcon) - Articles, tutorials and so more
 
 ## Web Tools
 
