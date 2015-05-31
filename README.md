@@ -215,8 +215,8 @@ A curated list of awesome Phalcon libraries and resources. Inspired by [awesome-
 * [Phalcon Tips](http://phalcontip.com) - Phalcon Tips
 * [Phalcon Twitter](https://twitter.com/phalconphp) - Phalcon Twitter
 * [Phalcon.io](http://phalcon.io) - Articles, tutorials, tips, documentation and much more
-* [Phalconist](https://github.com/phalconist/phalconist) - Resources catalog for Phalcon Framework on [Phalconist](http://phalconist.com)
-
+* [Phalconist](https://github.com/phalconist/phalconist) - Resources catalog for Phalcon Framework on  [Phalconist](http://phalconist.com)
+* [Sitepoint](http://www.sitepoint.com/?s=phalcon) Articles, tutorials and so more
 
 ## Web Tools
 
