@@ -228,4 +228,4 @@ A curated list of awesome Phalcon libraries and resources. Inspired by [awesome-
 ## Jobs
 *List jobs for Phalcon Developer.*
 
-*[Phalcon jobs](https://phalconjobs.com) - Collection Phalcon Jobs.
+* [Phalcon jobs](https://phalconjobs.com) - Collection Phalcon Jobs.
