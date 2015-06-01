@@ -1,6 +1,6 @@
 <?php
 
-$documentLines = file('README.md');
+$documentLines = file(realpath(dirname(__DIR__)) . '/README.md');
 $indexLines    = [];
 
 $copyStart     = null;
