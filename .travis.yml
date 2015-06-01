@@ -1,11 +1,8 @@
-language: php
+language: go
 
-php:
-  - 5.5
+go:
+  - 1.4
 
-before_script:
-  - composer self-update
-  - composer update
-
-script:
-  - php tests/test.php
+install:
+  - go get github.com/russross/blackfriday
+  - go get github.com/PuerkitoBio/goquery
