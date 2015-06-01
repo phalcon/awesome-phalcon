@@ -27,7 +27,6 @@ Please take a quick gander at the [contribution guidelines](https://github.com/s
     - [Exception](#exception)
     - [Forms](#forms)
     - [i18n](#i18n)
-    - [Jobs](#jobs)
     - [Mail](#mail)
     - [Media](#media)
     - [Miscellaneous](#miscellaneous)
@@ -38,11 +37,19 @@ Please take a quick gander at the [contribution guidelines](https://github.com/s
     - [Searching](#searching)
     - [Shopping](#shopping)
     - [SMS](#sms)
-    - [Templating](#templating)
+    - [Template Engines](#template-engines)
     - [Validators](#validators)
     - [Web Tools](#web-tools)
-    - [Websites](#websites)
 
+- [Server Applications](#server-applications)
+
+- [Resources](#resources)
+    - [Jobs](#jobs)
+    - [Conferences](#conferences)
+    - [E-Books](#e-books)
+    - [Twitter](#twitter)
+    - [Websites](#websites)
+        - [Tutorials](#tutorials)
 
 ## ACL
 
@@ -89,7 +96,6 @@ Please take a quick gander at the [contribution guidelines](https://github.com/s
 *Content management systems & blogs.*
 
 * [blog](https://github.com/duythien/blog) - Blog project with multi-lingual support
-* [Blog Tutorial](https://github.com/phalcon/blog-tutorial) - Blog Tutorial (source code for [Blog Tutorial](http://blog.phalconphp.com/post/36648855158/tutorial-your-first-encounter-with-phalcon-part-2)) 
 * [giada-www](https://github.com/monocasual/giada-www) - Official website of [Giada Loop Machine](http://www.giadamusic.com)
 * [phalconBlog](https://github.com/eristoddle/phalconBlog) - A blog using the Phalcon PHP Framework
 * [PhalconEye](https://github.com/lantian/PhalconEye) - PhalconEye CMS
@@ -160,14 +166,6 @@ Please take a quick gander at the [contribution guidelines](https://github.com/s
 
 * [Phalcon Translate Service](https://github.com/stanislav-web/phalcon-translate) - Phalcon Translate Service. Simple way to translate your costom part of templates
 
-
-## Jobs
-
-*List jobs for Phalcon Developer.*
-
-* [Phalcon jobs](https://phalconjobs.com) - Collection Phalcon Jobs.
-
-
 ## Mail
 
 *Mail services.*
@@ -227,13 +225,10 @@ Please take a quick gander at the [contribution guidelines](https://github.com/s
 
 *Various scaffolding tools.*
 
-* [ansible-phalcon-role](https://github.com/sarrubia/ansible-phalcon-role) - Ansible Role to install Phalcon PHP Framework in Debian/Ubuntu 
 * [generator-phalcon](https://github.com/michaelkrone/generator-phalcon) - Yeoman generator for Phalcon Multi-Module Aplications
-* [perfect-php-vagrant](https://github.com/ovr/perfect-php-vagrant) - Web development Vagrant machine with PHP + Phalcon/Lynx/Zephir, Nginx, Node+Bower/Gulp/Grunt
 * [Phalcon Boilerplate](https://github.com/mikegioia/phalcon-boilerplate) - Template for building large-scale Phalcon Applications
 * [phalcon-boilerplate](https://github.com/enajeeb/phalcon-boilerplate) - Boilerplate template for Phalcon PHP Framework. Its includes Authentication, Database Abstraction, etc.
 * [phalcon-bootstrap](https://github.com/JimmDiGrizli/phalcon-bootstrap) - Bootstrap component for a quick start developing applications on Phalcon PHP Framework
-* [vagrant](https://github.com/phalcon/vagrant) - Simple Vagrant setup to get loaded with core development tools to build a powerful PHP application focused on Phalcon PHP Framework
 
 
 ## Searching
@@ -261,7 +256,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/s
 
 ## Templating
 
-*Adapters for templating engine.*
+*Libraries and tools for templating.*
 
 * [jade-phalcon](https://github.com/kylekatarnls/jade-phalcon) - Jade Template Engine for Phalcon PHP Framework
 * [phalcon-xslt-view-engine](https://github.com/racztiborzoltan/phalcon-xslt-view-engine) - Adapter to use XSLT as templating engine for Phalcon PHP Framework
@@ -276,22 +271,6 @@ Please take a quick gander at the [contribution guidelines](https://github.com/s
 * [zvps-phalcon-validators](https://github.com/zVPS/zvps-phalcon-validators) - Additional form and data validators extending the inbuilt Phalcon validate interface
 
 
-## Websites
-
-*Tips sites, online documentation & chats.*
-
-* [Built With](http://builtwith.phalconphp.com) - Gallery of applications, demos and projects built with Phalcon PHP Framework
-* [Phalcon Blog](http://blog.phalconphp.com) - Phalcon Blog
-* [Phalcon Chats](https://phalconchats.slack.com) - Phalcon Chats
-* [Phalcon Documentation](http://docs.phalconphp.com) - Phalcon Documentation
-* [Phalcon Forums](http://forum.phalconphp.com) - Phalcon Forums
-* [Phalcon PDF Documentation](https://media.readthedocs.org/pdf/phalcon-php-framework-documentation/latest/phalcon-php-framework-documentation.pdf) - Phalcon PHP Framework Documentation
-* [Phalcon Tips](http://phalcontip.com) - Phalcon Tips
-* [Phalcon Twitter](https://twitter.com/phalconphp) - Phalcon Twitter
-* [Phalcon.io](http://phalcon.io) - Articles, tutorials, tips, documentation and much more
-* [Phalconist](https://github.com/phalconist/phalconist) - Resources catalog for Phalcon PHP Framework on [Phalconist](http://phalconist.com)
-* [Sitepoint](http://www.sitepoint.com/?s=phalcon) - Articles, tutorials and so more
-
 ## Web Tools
 
 *Web tools & libraries.*
@@ -300,4 +279,50 @@ Please take a quick gander at the [contribution guidelines](https://github.com/s
 * [URL-Shortener](https://github.com/blackbunny/Url-Shortener) - Simple Fast Url-Shortener application
 
 
-## End
+# Server Applications
+
+* [ansible-phalcon-role](https://github.com/sarrubia/ansible-phalcon-role) - Ansible Role to install Phalcon PHP Framework in Debian/Ubuntu
+* [perfect-php-vagrant](https://github.com/ovr/perfect-php-vagrant) - Web development Vagrant machine with PHP + Phalcon/Lynx/Zephir, Nginx, Node+Bower/Gulp/Grunt
+* [vagrant](https://github.com/phalcon/vagrant) - Simple Vagrant setup to get loaded with core development tools to build a powerful PHP application focused on Phalcon PHP Framework
+
+# Resources
+
+*Where to discover new Phalcon libraries.*
+
+
+## Jobs
+
+* [Phalcon jobs](https://phalconjobs.com) - Collection Phalcon Jobs.
+
+
+## Conferences
+
+* [Phalcon Forums](http://forum.phalconphp.com) - Phalcon Forums
+* [Phalcon Chats](https://phalconchats.slack.com) - Phalcon Chats
+
+
+## E-Books
+
+* [Phalcon PDF Documentation](https://media.readthedocs.org/pdf/phalcon-php-framework-documentation/latest/phalcon-php-framework-documentation.pdf) - Phalcon PHP Framework Documentation
+
+
+## Twitter
+
+* [@phalconphp](https://twitter.com/phalconphp) - Phalcon Twitter
+
+
+## Websites
+
+* [Built With](http://builtwith.phalconphp.com) - Gallery of applications, demos and projects built with Phalcon PHP Framework
+* [Phalcon Blog](http://blog.phalconphp.com) - Phalcon Blog
+* [Phalconist](https://github.com/phalconist/phalconist) - Resources catalog for Phalcon PHP Framework on [Phalconist](http://phalconist.com)
+
+
+### Tutorials
+
+* [Blog Tutorial](https://github.com/phalcon/blog-tutorial) - Blog Tutorial (source code for [Blog Tutorial](http://blog.phalconphp.com/post/36648855158/tutorial-your-first-encounter-with-phalcon-part-2))
+* [Phalcon Documentation](http://docs.phalconphp.com) - Phalcon Documentation
+* [Phalcon Tips](http://phalcontip.com) - Phalcon Tips
+* [Phalcon.io](http://phalcon.io) - Articles, tutorials, tips, documentation and much more
+* [Sitepoint](http://www.sitepoint.com/?s=phalcon) - Articles, tutorials and so more
+* [StackOverflow](http://stackoverflow.com/questions/tagged/phalcon) - StackOverflow Tagged Questions
