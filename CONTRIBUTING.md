@@ -12,9 +12,13 @@ To set this list excellent, awesome-phalcon is a specially curated list for high
 
 - List items should be sorted *alphabetically*.
 - Each item should be limited to one link
+- For links use the following format: `[List Name](link)`
 - The link should be the name of the library or project
 - Descriptions should be clear, concise, and non-promotional
 - Descriptions should follow the link, on the same line
+- New categories or improvements to the existing categorization are welcome
+- Make sure your text editor is set to remove trailing whitespace
+- Make an individual pull request for each suggestion
 
 Please contribute links to libraries/projects/resources you have used or are familiar with. This will help ensure high-quality entries.
 
