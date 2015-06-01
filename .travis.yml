@@ -1,7 +1,8 @@
-language: php
+language: go
 
-php:
-  - 5.5
+go:
+  - 1.4
 
-script:
-  - php test.php
+install:
+  - go get github.com/russross/blackfriday
+  - go get github.com/PuerkitoBio/goquery
