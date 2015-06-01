@@ -4,13 +4,10 @@ $documentLines = file('README.md');
 $indexLines    = [];
 
 $copyStart     = null;
-$copyEnd       = null;
-$i = 1;
 
 $testLines     = [];
 $testPass      = true;
 $testMessages  = [];
-
 
 foreach ($documentLines as $index => $line) {
   $line = rtrim($line);
