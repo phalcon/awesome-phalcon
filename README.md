@@ -8,6 +8,8 @@ A curated list of awesome Phalcon libraries and resources. Inspired by [awesome-
 
 Please take a quick gander at the [contribution guidelines](https://github.com/sergeyklay/awesome-phalcon/blob/master/CONTRIBUTING.md) first. Thanks to all [contributors](https://github.com/sergeyklay/awesome-phalcon/graphs/contributors); you rock!
 
+[Join us on Slack](https://phalconchats.slack.com) to chat with other awesome-phalcon maintainers!
+
 
 ### Contents
 
