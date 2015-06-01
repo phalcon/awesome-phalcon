@@ -30,7 +30,6 @@ foreach ($documentLines as $index => $line) {
 foreach ($testLines as $topic => $lines) {
   $topic = trim($topic);
   $original = [];
-  $sorted   = [];
 
   foreach ($lines as $index => $line) {
     $line = trim($line);
@@ -58,27 +57,49 @@ foreach ($testLines as $topic => $lines) {
   }
 
   $testPass = false;
+  $topic = "\033[40;37m " . $topic . " \033[00m";
+  //$testMessages[$topic] = [];
 
   foreach ($compare as $index => $name) {
-    $testMessages[] = sprintf(
-      "For \033[40;37m %s \033[00m section expected \033[40;32m %s \033[00m but actual is \033[40;31m %s \033[00m",
-      $topic,
+    $testMessages[$topic][] = sprintf(
+      "Expected \033[40;32m %s \033[00m but actual is \033[40;31m %s \033[00m",
       $sorted[$index],
       $original[$index]
     );
   }
 }
 
+$errorMessage = function($msg) {
+  return "\033[41;37m$msg\033[00m";
+};
+
+$successMessage = function($msg) {
+  return "\033[42;37m$msg\033[00m";
+};
+
+$lineBorder = function($msg) {
+  return str_repeat(' ', strlen($msg));
+};
+
 if (!$testPass) {
   echo PHP_EOL;
+  $totalErrorsCount = 0;
 
-  foreach ($testMessages as $message) {
-    echo $message, PHP_EOL;
+  foreach ($testMessages as $topic => $messages) {
+    echo $topic, PHP_EOL;
+
+    foreach ($messages as $message) {
+      $totalErrorsCount++;
+      echo ' * ', $message, PHP_EOL;
+    }
   }
-
+  
+  $message = "   The tests failed! Total errors count: $totalErrorsCount   ";
+  printf("\n%s\n%s\n%s\n\n", $errorMessage($lineBorder($message)), $errorMessage($message), $errorMessage($lineBorder($message)));
   exit(1);
 } else {
-  echo "\033[40;37m The tests successfully passed \033[00m", PHP_EOL;
+  $message = "   Ok. The tests successfully passed; you rock!   ";
+  printf("\n%s\n%s\n%s\n\n", $successMessage($lineBorder($message)), $successMessage($message), $successMessage($lineBorder($message)));
   exit(0);
 }
 
