@@ -4,4 +4,4 @@ php:
   - 5.5
 
 script:
-  - php test.php
+  - php tests/test.php
