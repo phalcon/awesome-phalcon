@@ -17,12 +17,12 @@ Please take a quick gander at the [contribution guidelines](https://github.com/s
     - [ACL](#acl)
     - [Application Skeleton](#application-skeleton)
     - [Authentication & OAuth](#authentication--oauth)
-    - [Command Line](#command-line)
     - [CMS & Blogs](#cmsblogs)
+    - [Command Line](#command-line)
     - [Dashboard](#dashboard)
     - [Debug](#debug)
-    - [Docs](#docs)
     - [DI](#di)
+    - [Docs](#docs)
     - [Events](#events)
     - [Exception](#exception)
     - [Forms](#forms)
@@ -44,9 +44,9 @@ Please take a quick gander at the [contribution guidelines](https://github.com/s
 - [Server Applications](#server-applications)
 
 - [Resources](#resources)
-    - [Jobs](#jobs)
     - [Conferences](#conferences)
     - [E-Books](#e-books)
+    - [Jobs](#jobs)
     - [Twitter](#twitter)
     - [Websites](#websites)
         - [Tutorials](#tutorials)
@@ -83,14 +83,6 @@ Please take a quick gander at the [contribution guidelines](https://github.com/s
 * [phalcon-oauth2-server](https://github.com/sumeko/phalcon-oauth2-server) - Phalcon wrapper for Oauth2 [thephpleague/oauth2-server](https://github.com/thephpleague/oauth2-server)
 
 
-## Command Line
-
-*Command line applications & tools.*
-
-* [phalcon-console](https://github.com/viebig/phalcon-console) - Sample boostraping application for command line applications using the outstanding Phalcon PHP Framework
-* [php-cli-app-phalcon](https://github.com/jeteokeeffe/php-cli-app-phalcon) - Command Line Application built using Phalcon PHP Framework
-
-
 ## CMS & Blogs
 
 *Content management systems & blogs.*
@@ -102,6 +94,14 @@ Please take a quick gander at the [contribution guidelines](https://github.com/s
 * [Talon](https://github.com/adamdama/Talon) - CMS built on Phalcon PHP Framework
 * [Vegas CMF](https://github.com/vegas-cmf) - Vegas CMF for Phalcon PHP Framework
 * [Yona CMS](https://github.com/oleksandr-torosh/yona-cms) - CMS based on Phalcon PHP Framework with modular structure
+
+
+## Command Line
+
+*Command line applications & tools.*
+
+* [phalcon-console](https://github.com/viebig/phalcon-console) - Sample boostraping application for command line applications using the outstanding Phalcon PHP Framework
+* [php-cli-app-phalcon](https://github.com/jeteokeeffe/php-cli-app-phalcon) - Command Line Application built using Phalcon PHP Framework
 
 
 ## Dashboard
@@ -121,19 +121,20 @@ Please take a quick gander at the [contribution guidelines](https://github.com/s
 * [Prophiler](https://github.com/fabfuel/prophiler) - PHP Profiler & Developer Toolbar (built for Phalcon)
 
 
-## Docs
-
-*Libraries for doc generate & management.*
-
-* [phaldoc](https://github.com/Riu/phaldoc) - Create, translate and control changes in documentation for Phalcon & others projects
-
-
 ## DI
 
 *Dependency Injection.*
 
 * [phalcon-autoload-services](https://github.com/JimmDiGrizli/phalcon-autoload-services) - Components for automatic registration services in Dependency Injection
 * [phalcon-service-loader](https://github.com/serebro/phalcon-service-loader) - Service loader for Phalcon PHP Framework
+
+
+## Docs
+
+*Libraries for doc generate & management.*
+
+* [phaldoc](https://github.com/Riu/phaldoc) - Create, translate and control changes in documentation for Phalcon & others projects
+
 
 
 ## Events
@@ -226,8 +227,6 @@ Please take a quick gander at the [contribution guidelines](https://github.com/s
 *Various scaffolding tools.*
 
 * [generator-phalcon](https://github.com/michaelkrone/generator-phalcon) - Yeoman generator for Phalcon Multi-Module Aplications
-* [Phalcon Boilerplate](https://github.com/mikegioia/phalcon-boilerplate) - Template for building large-scale Phalcon Applications
-* [phalcon-boilerplate](https://github.com/enajeeb/phalcon-boilerplate) - Boilerplate template for Phalcon PHP Framework. Its includes Authentication, Database Abstraction, etc.
 * [phalcon-bootstrap](https://github.com/JimmDiGrizli/phalcon-bootstrap) - Bootstrap component for a quick start developing applications on Phalcon PHP Framework
 
 
@@ -290,20 +289,21 @@ Please take a quick gander at the [contribution guidelines](https://github.com/s
 *Where to discover new Phalcon libraries.*
 
 
-## Jobs
-
-* [Phalcon jobs](https://phalconjobs.com) - Collection Phalcon Jobs.
-
-
 ## Conferences
 
+*Conferences, IRC, Forums, etc..*
+
 * [Phalcon Forums](http://forum.phalconphp.com) - Phalcon Forums
-* [Phalcon Chats](https://phalconchats.slack.com) - Phalcon Chats
 
 
 ## E-Books
 
 * [Phalcon PDF Documentation](https://media.readthedocs.org/pdf/phalcon-php-framework-documentation/latest/phalcon-php-framework-documentation.pdf) - Phalcon PHP Framework Documentation
+
+
+## Jobs
+
+* [Phalcon jobs](https://phalconjobs.com) - Collection Phalcon Jobs.
 
 
 ## Twitter
