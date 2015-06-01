@@ -1,4 +1,4 @@
-# Awesome Phalcon
+# Awesome Phalcon [![Build Status](https://travis-ci.org/sergeyklay/awesome-phalcon.svg?branch=master)](https://travis-ci.org/sergeyklay/awesome-phalcon)
 
 
 A curated list of awesome Phalcon libraries and resources. Inspired by [awesome-go](https://github.com/avelino/awesome-go).
@@ -89,8 +89,8 @@ Please take a quick gander at the [contribution guidelines](https://github.com/s
 * [blog](https://github.com/duythien/blog) - Blog project with multi-lingual support
 * [Blog Tutorial](https://github.com/phalcon/blog-tutorial) - Blog Tutorial (source code for [Blog Tutorial](http://blog.phalconphp.com/post/36648855158/tutorial-your-first-encounter-with-phalcon-part-2)) 
 * [giada-www](https://github.com/monocasual/giada-www) - Official website of [Giada Loop Machine](http://www.giadamusic.com)
-* [PhalconEye](https://github.com/lantian/PhalconEye) - PhalconEye CMS
 * [phalconBlog](https://github.com/eristoddle/phalconBlog) - A blog using the Phalcon PHP Framework
+* [PhalconEye](https://github.com/lantian/PhalconEye) - PhalconEye CMS
 * [Talon](https://github.com/adamdama/Talon) - CMS built on Phalcon PHP Framework
 * [Vegas CMF](https://github.com/vegas-cmf) - Vegas CMF for Phalcon PHP Framework
 * [Yona CMS](https://github.com/oleksandr-torosh/yona-cms) - CMS based on Phalcon PHP Framework with modular structure
@@ -204,9 +204,9 @@ Please take a quick gander at the [contribution guidelines](https://github.com/s
 
 *Representational state transfer.*
 
-* [phalcon-api-ouath2](https://github.com/goors/phalcon-api-ouath2) - Full Phalcon REST API example with is own Ouath2 server
 * [Phalcon Development Boards](https://github.com/stanislav-web/Phalcon-development) - An example development of the REST application by Phalcon PHP Framework
 * [Phalcon Restful Webservice](https://github.com/Atriedes/phalcon-restful-webservice) - Base project for creating powerful webservice based on Phalcon PHP Framework 
+* [phalcon-api-ouath2](https://github.com/goors/phalcon-api-ouath2) - Full Phalcon REST API example with is own Ouath2 server
 * [PhalconRest](https://github.com/cmoore4/phalcon-rest) - A Base project for APIs using the Phalcon PHP Framework
 * [phest](https://github.com/ovide/phest) - Rest API library for Phalcon
 * [php-hmac-rest-api](https://github.com/jeteokeeffe/php-hmac-rest-api) - PHP HMAC Restful API that uses Phalcon Micro Application
@@ -228,8 +228,8 @@ Please take a quick gander at the [contribution guidelines](https://github.com/s
 * [ansible-phalcon-role](https://github.com/sarrubia/ansible-phalcon-role) - Ansible Role to install Phalcon PHP Framework in Debian/Ubuntu 
 * [generator-phalcon](https://github.com/michaelkrone/generator-phalcon) - Yeoman generator for Phalcon Multi-Module Aplications
 * [perfect-php-vagrant](https://github.com/ovr/perfect-php-vagrant) - Web development Vagrant machine with PHP + Phalcon/Lynx/Zephir, Nginx, Node+Bower/Gulp/Grunt
-* [phalcon-boilerplate](https://github.com/enajeeb/phalcon-boilerplate) - Boilerplate template for Phalcon PHP Framework. Its includes Authentication, Database Abstraction, etc.
 * [Phalcon Boilerplate](https://github.com/mikegioia/phalcon-boilerplate) - Template for building large-scale Phalcon Applications
+* [phalcon-boilerplate](https://github.com/enajeeb/phalcon-boilerplate) - Boilerplate template for Phalcon PHP Framework. Its includes Authentication, Database Abstraction, etc.
 * [phalcon-bootstrap](https://github.com/JimmDiGrizli/phalcon-bootstrap) - Bootstrap component for a quick start developing applications on Phalcon PHP Framework
 * [vagrant](https://github.com/phalcon/vagrant) - Simple Vagrant setup to get loaded with core development tools to build a powerful PHP application focused on Phalcon PHP Framework
 
@@ -279,8 +279,8 @@ Please take a quick gander at the [contribution guidelines](https://github.com/s
 *Tips sites, online documentation & chats.*
 
 * [Built With](http://builtwith.phalconphp.com) - Gallery of applications, demos and projects built with Phalcon PHP Framework
-* [Phalcon Chats](https://phalconchats.slack.com) - Phalcon Chats
 * [Phalcon Blog](http://blog.phalconphp.com) - Phalcon Blog
+* [Phalcon Chats](https://phalconchats.slack.com) - Phalcon Chats
 * [Phalcon Documentation](http://docs.phalconphp.com) - Phalcon Documentation
 * [Phalcon Forums](http://forum.phalconphp.com) - Phalcon Forums
 * [Phalcon PDF Documentation](https://media.readthedocs.org/pdf/phalcon-php-framework-documentation/latest/phalcon-php-framework-documentation.pdf) - Phalcon PHP Framework Documentation

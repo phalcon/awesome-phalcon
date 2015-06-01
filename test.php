@@ -52,7 +52,7 @@ foreach ($testLines as $topic => $lines) {
   }
 
   $sorted = $original;
-  sort($sorted);
+  sort($sorted, SORT_STRING | SORT_FLAG_CASE);
 
   $compare = array_diff_assoc($sorted, $original);
   
