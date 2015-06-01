@@ -34,6 +34,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/s
     - [Routing](#routing)
     - [Scaffolding](#scaffolding)
     - [Searching](#searching)
+    - [Shopping](#shopping)
     - [SMS](#sms)
     - [Templating](#templating)
     - [Validators](#validators)
@@ -238,6 +239,13 @@ Please take a quick gander at the [contribution guidelines](https://github.com/s
 * [phalcon-elasticsearch](https://github.com/ovr/phalcon-elasticsearch) - Phalcon + Elastic
 * [Searcher](https://github.com/stanislav-web/Searcher) - Database searcher for Phalcon PHP Framework
 
+
+## Shopping
+
+*Shopping carts and online store services.*
+
+* [phalcon_cart](https://github.com/uno-de-piera/phalcon_cart) - Complete cart system for Phalcon PHP Framework
+* [phasty](https://github.com/chaban/phasty) - Shopping Cart on Phalcon PHP Framework
 
 ## SMS
 
