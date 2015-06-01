@@ -59,6 +59,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/s
 * [phalanx](https://github.com/Swader/phalanx) - A starter app with Phalcon PHP Framework and Angular
 * [Phalcon Boilerplate](https://github.com/mikegioia/phalcon-boilerplate) - Template for building large-scale Phalcon Applications
 * [Phalcon Framework App](https://github.com/eristoddle/phalcon-gumby2-experiment) - A project currently using Phalcon PHP Framework and Gumby 2 for RAD
+* [Phalcon HMVC Skeleton](https://github.com/zekiunal/PhalconHMVCSkeletonApplication) - Phalcon HMVC Skeleton with Mustache
 * [Phalcon Module Skeleton](https://github.com/ovr/phalcon-module-skeleton) - Application template for building beauty applications on Phalcon PHP Framework
 * [Phalcon MVC examples](https://github.com/phalcon/mvc) - Examples of MVC file structures you can employ using Phalcon >= 2.0.x
 * [phalcon-skeleton](https://github.com/oleksandr-torosh/phalcon-skeleton) - Phalcon PHP Framework Modular Application with Oleksandr Torosh best practices of development
@@ -77,6 +78,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/s
 
 *Command line applications & tools.*
 
+* [phalcon-console](https://github.com/viebig/phalcon-console) - Sample boostraping application for command line applications using the outstanding Phalcon PHP Framework
 * [php-cli-app-phalcon](https://github.com/jeteokeeffe/php-cli-app-phalcon) - Command Line Application built using Phalcon PHP Framework
 
 
@@ -98,7 +100,8 @@ Please take a quick gander at the [contribution guidelines](https://github.com/s
 
 *Admin Panels & Dashboards.*
 
-* [phmaster](https://github.com/Phalcon-hosting/phmaster) - Phalcon hosting master agent (control panel)
+* [dashboard](https://github.com/phalcon-hosting/dashboard) - The Phalcon dashboard (Control Panel)
+* [dasshy](https://github.com/phalcon/dasshy) - Statistics dashboard with Mongo/Phalcon
 
 
 ## Debug
@@ -258,6 +261,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/s
 
 *Adapters for templating engine.*
 
+* [jade-phalcon](https://github.com/kylekatarnls/jade-phalcon) - Jade Template Engine for Phalcon PHP Framework
 * [phalcon-xslt-view-engine](https://github.com/racztiborzoltan/phalcon-xslt-view-engine) - Adapter to use XSLT as templating engine for Phalcon PHP Framework
 
 
@@ -265,6 +269,8 @@ Please take a quick gander at the [contribution guidelines](https://github.com/s
 
 *ORM and Forrms validators.*
 
+* [Phalcon Validators](https://github.com/renatoneto/phalcon-validators) - Extra validators for Phalcon PHP Framework
+* [phalswag](https://github.com/tomi20v/phalswag) - Validate request input against swagger config in Phalcon PHP Framework
 * [zvps-phalcon-validators](https://github.com/zVPS/zvps-phalcon-validators) - Additional form and data validators extending the inbuilt Phalcon validate interface
 
 
@@ -272,7 +278,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/s
 
 *Tips sites, online documentation & chats.*
 
-* [Built With](http://builtwith.phalconphp.com/) - Gallery of applications, demos and projects built with Phalcon PHP Framework
+* [Built With](http://builtwith.phalconphp.com) - Gallery of applications, demos and projects built with Phalcon PHP Framework
 * [Phalcon Chats](https://phalconchats.slack.com) - Phalcon Chats
 * [Phalcon Blog](http://blog.phalconphp.com) - Phalcon Blog
 * [Phalcon Documentation](http://docs.phalconphp.com) - Phalcon Documentation
