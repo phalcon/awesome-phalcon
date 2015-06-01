@@ -15,7 +15,8 @@
             "homepage": "https://github.com/sergeyklay/awesome-phalcon/graphs/contributors"
         }
     ],
+    "minimum-stability": "dev",
     "require-dev": {
-        "michelf/php-markdown" : "*"
+        "michelf/php-markdown" : "~1.5"
     }
 }
