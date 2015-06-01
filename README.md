@@ -53,7 +53,6 @@ Please take a quick gander at the [contribution guidelines](https://github.com/s
 *Various application skeletons.*
 
 * [Base App](https://github.com/mruz/base-app) - The base application in Phalcon PHP Framework
-* [Blog Tutorial](https://github.com/phalcon/blog-tutorial) - Blog Tutorial (source code for [Blog Tutorial](http://blog.phalconphp.com/post/36648855158/tutorial-your-first-encounter-with-phalcon-part-2)) 
 * [INVO Application](https://github.com/phalcon/invo) - Sample application for the Phalcon PHP Framework
 * [nest](https://github.com/nexik/nest) - Phalcon SOLID Bootstrap for Rapid Application Development
 * [phalanx](https://github.com/Swader/phalanx) - A starter app with Phalcon PHP Framework and Angular
@@ -85,6 +84,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/s
 *Content management systems & blogs.*
 
 * [blog](https://github.com/duythien/blog) - Blog project with multi-lingual support
+* [Blog Tutorial](https://github.com/phalcon/blog-tutorial) - Blog Tutorial (source code for [Blog Tutorial](http://blog.phalconphp.com/post/36648855158/tutorial-your-first-encounter-with-phalcon-part-2)) 
 * [giada-www](https://github.com/monocasual/giada-www) - Official website of [Giada Loop Machine](http://www.giadamusic.com)
 * [PhalconEye](https://github.com/lantian/PhalconEye) - PhalconEye CMS
 * [phalconBlog](https://github.com/eristoddle/phalconBlog) - A blog using the Phalcon PHP Framework
