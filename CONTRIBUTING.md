@@ -1,7 +1,5 @@
 This resource was made by the Phalcon community and wouldn't be possible without you! We appreciate and recognize all [contributors](https://github.com/sergeyklay/awesome-phalcon/graphs/contributors).
 
-Join us on Slack at **#general** on Phalcon Chat [web access](https://phalconchats.slack.com).
-
 
 # Contribution Guidelines
 
