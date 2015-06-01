@@ -22,6 +22,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/s
     - [Docs](#docs)
     - [DI](#di)
     - [Events](#events)
+    - [Exception](#exception)
     - [Forms](#forms)
     - [i18n](#i18n)
     - [Jobs](#jobs)
@@ -35,6 +36,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/s
     - [Searching](#searching)
     - [SMS](#sms)
     - [Templating](#templating)
+    - [Validators](#validators)
     - [Web Tools](#web-tools)
     - [Websites](#websites)
 
@@ -51,14 +53,17 @@ Please take a quick gander at the [contribution guidelines](https://github.com/s
 *Various application skeletons.*
 
 * [Base App](https://github.com/mruz/base-app) - The base application in Phalcon PHP Framework
-* [invo](https://github.com/phalcon/invo) - Sample application for the Phalcon PHP Framework
+* [Blog Tutorial](https://github.com/phalcon/blog-tutorial) - Blog Tutorial (source code for [Blog Tutorial](http://blog.phalconphp.com/post/36648855158/tutorial-your-first-encounter-with-phalcon-part-2)) 
+* [INVO Application](https://github.com/phalcon/invo) - Sample application for the Phalcon PHP Framework
 * [nest](https://github.com/nexik/nest) - Phalcon SOLID Bootstrap for Rapid Application Development
 * [phalanx](https://github.com/Swader/phalanx) - A starter app with Phalcon PHP Framework and Angular
 * [Phalcon Boilerplate](https://github.com/mikegioia/phalcon-boilerplate) - Template for building large-scale Phalcon Applications
 * [Phalcon Framework App](https://github.com/eristoddle/phalcon-gumby2-experiment) - A project currently using Phalcon PHP Framework and Gumby 2 for RAD
 * [Phalcon Module Skeleton](https://github.com/ovr/phalcon-module-skeleton) - Application template for building beauty applications on Phalcon PHP Framework
+* [Phalcon MVC examples](https://github.com/phalcon/mvc) - Examples of MVC file structures you can employ using Phalcon >= 2.0.x
 * [phalcon-skeleton](https://github.com/oleksandr-torosh/phalcon-skeleton) - Phalcon PHP Framework Modular Application with Oleksandr Torosh best practices of development
 * [PhalconPHP-Setup-Example](https://github.com/ewartx/PhalconPHP-Setup-Example) - Phalcon PHP Framework + Grunt + Composer + Bower
+* [Vökuró](https://github.com/phalcon/vokuro) - Sample application for Phalcon PHP Framework (Acl, Auth, Security)
 
 
 ## Authentication & OAuth
@@ -100,6 +105,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/s
 *Debug & profiling tools.*
 
 * [PDW](https://github.com/jymboche/phalcon-debug-widget) - Frontend Debugger for Phalcon Applications
+* [Phalcon Debugbar](https://github.com/snowair/phalcon-debugbar) - Integrates [PHP Debug Bar](http://phpdebugbar.com) with Phalcon PHP Framework
 * [Prophiler](https://github.com/fabfuel/prophiler) - PHP Profiler & Developer Toolbar (built for Phalcon)
 
 
@@ -125,11 +131,21 @@ Please take a quick gander at the [contribution guidelines](https://github.com/s
 * [Phact](https://github.com/wandersonwhcr/phact) -  A Simple Event Propagation with Phalcon PHP Framework
 
 
+## Exception
+
+*Exeption and error handlers.*
+
+* [Pretty Exceptions](https://github.com/phalcon/pretty-exceptions) - Utility to show exceptions/errors/warnings/notices using a nicely visualization. 
+
+
 ## Forms
 
 *Libraries for working with forms.*
 
-* [halcon-form-decorators](https://github.com/Michal-St/phalcon-form-decorators) - Form decorators to Phalcon PHP Framework
+* [Phalcon Preserve Post](https://github.com/JREAM/phalcon-preserve-post) - Preserve Form Data after a `POST` and redirect
+* [phalcon-form-decorators](https://github.com/Michal-St/phalcon-form-decorators) - Form decorators to Phalcon PHP Framework
+* [phalconCssForm](https://github.com/Zheness/phalconCssForm) - Generate a form with a CSS Framework (Bootstrap, Foundation, Pure, etc.)
+* [Superform](https://github.com/encodez/superform) - Simple way to create and validate Phalcon 2 form inpired by the Laravel request
 
 
 ## i18n
@@ -166,6 +182,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/s
 
 *These libraries were placed here because none of the other categories seemed to fit*
 
+* [Incubator](https://github.com/phalcon/incubator) - Repository to publish/share/experiment with new adapters, prototypes or functionality that can potentially be incorporated into the Phalcon PHP Framework
 * [phalcon-recaptcha](https://github.com/pavlosadovyi/phalcon-recaptcha) - Minimalist wrapper with which you can easily integrate [reCAPTCHA](http://www.google.com/recaptcha) into your application based on Phalcon PHP Framework
 * [phalcon-widget](https://github.com/serebro/phalcon-widget) - Widgets for Phalcon apps
 * [Phalcony](https://github.com/ovr/phalcony) - Library for expansion the base functional of Phalcon PHP Framework
@@ -235,10 +252,19 @@ Please take a quick gander at the [contribution guidelines](https://github.com/s
 
 * [phalcon-xslt-view-engine](https://github.com/racztiborzoltan/phalcon-xslt-view-engine) - Adapter to use XSLT as templating engine for Phalcon PHP Framework
 
+
+## Validators
+
+*ORM and Forrms validators.*
+
+* [zvps-phalcon-validators](https://github.com/zVPS/zvps-phalcon-validators) - Additional form and data validators extending the inbuilt Phalcon validate interface
+
+
 ## Websites
 
 *Tips sites, online documentation & chats.*
 
+* [Built With](http://builtwith.phalconphp.com/) - Gallery of applications, demos and projects built with Phalcon PHP Framework
 * [Phalcon Chats](https://phalconchats.slack.com) - Phalcon Chats
 * [Phalcon Blog](http://blog.phalconphp.com) - Phalcon Blog
 * [Phalcon Documentation](http://docs.phalconphp.com) - Phalcon Documentation
