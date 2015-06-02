@@ -197,7 +197,6 @@ Please take a quick gander at the [contribution guidelines](https://github.com/s
 
 *Libraries that implement Object-Relational Mapping or datamapping techniques.*
 
-* [EagerLoading](https://github.com/stibiumz/phalcon.eager-loading) - Solves N+1 query problem in Phalcon Model
 * [phalcon-mssql](https://github.com/fishjerky/phalcon-mssql) - A Phalcon PHP Framework MSSQL PDO db adapter
 
 
