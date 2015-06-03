@@ -295,6 +295,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/s
 *Conferences, IRC, Forums, etc..*
 
 * [Phalcon Forums](http://forum.phalconphp.com) - Phalcon Forums
+* [Phalcon Russian Community Chat](https://gitter.im/phalcon-rus/chat) - Russian Community Chat in Gitter.im
 
 
 ## E-Books
