@@ -192,6 +192,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/s
 * [phalcon-chat](https://github.com/sintsov/phalcon-chat) - Sample classic chat development using Phalcon PHP Framework 
 * [phalcon-recaptcha](https://github.com/pavlosadovyi/phalcon-recaptcha) - Minimalist wrapper with which you can easily integrate [reCAPTCHA](http://www.google.com/recaptcha) into your application based on Phalcon PHP Framework
 * [phalcon-widget](https://github.com/serebro/phalcon-widget) - Widgets for Phalcon apps
+* [PhalconBlacklist](https://github.com/touhonoob/PhalconBlacklist) - PHP IP/CIDR Blacklist Library Built With Phalcon + MySQL
 * [Phalcony](https://github.com/ovr/phalcony) - Library for expansion the base functional of Phalcon PHP Framework
 
 
