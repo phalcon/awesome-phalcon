@@ -91,10 +91,10 @@ Please take a quick gander at the [contribution guidelines](https://github.com/s
 * [giada-www](https://github.com/monocasual/giada-www) - Official website of [Giada Loop Machine](http://www.giadamusic.com)
 * [phalconBlog](https://github.com/eristoddle/phalconBlog) - A blog using the Phalcon PHP Framework
 * [PhalconEye](https://github.com/lantian/PhalconEye) - PhalconEye CMS
+* [Skopy Blog Engine](https://github.com/yuriygr/skopy) - A simple blog engine for those who want to start learning Phalcon
 * [Talon](https://github.com/adamdama/Talon) - CMS built on Phalcon PHP Framework
 * [Vegas CMF](https://github.com/vegas-cmf) - Vegas CMF for Phalcon PHP Framework
 * [Yona CMS](https://github.com/oleksandr-torosh/yona-cms) - CMS based on Phalcon PHP Framework with modular structure
-* [Skopy Blog Engine](https://github.com/yuriygr/skopy) - A simple blog engine for those who want to start learning Phalcon
 
 
 ## Command Line
