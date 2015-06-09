@@ -109,7 +109,6 @@ Please take a quick gander at the [contribution guidelines](https://github.com/s
 
 *Admin Panels & Dashboards.*
 
-* [dashboard](https://github.com/phalcon-hosting/dashboard) - The Phalcon dashboard (Control Panel)
 * [dasshy](https://github.com/phalcon/dasshy) - Statistics dashboard with Mongo/Phalcon
 
 
