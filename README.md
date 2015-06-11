@@ -69,6 +69,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/s
 * [Phalcon Boilerplate](https://github.com/mikegioia/phalcon-boilerplate) - Template for building large-scale Phalcon Applications
 * [Phalcon Framework App](https://github.com/eristoddle/phalcon-gumby2-experiment) - A project currently using Phalcon PHP Framework and Gumby 2 for RAD
 * [Phalcon HMVC Skeleton](https://github.com/zekiunal/PhalconHMVCSkeletonApplication) - Phalcon HMVC Skeleton with Mustache
+* [Phalcon Jumpstart](https://github.com/nguyenducduy/phalcon-jumpstart) - Fast development web apps with CRUD code generator
 * [Phalcon Module Skeleton](https://github.com/ovr/phalcon-module-skeleton) - Application template for building beauty applications on Phalcon PHP Framework
 * [Phalcon MVC examples](https://github.com/phalcon/mvc) - Examples of MVC file structures you can employ using Phalcon >= 2.0.x
 * [phalcon-skeleton](https://github.com/oleksandr-torosh/phalcon-skeleton) - Phalcon PHP Framework Modular Application with Oleksandr Torosh best practices of development
