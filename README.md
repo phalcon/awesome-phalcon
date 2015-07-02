@@ -75,6 +75,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/s
 * [phalcon-skeleton](https://github.com/oleksandr-torosh/phalcon-skeleton) - Phalcon PHP Framework Modular Application with Oleksandr Torosh best practices of development
 * [PhalconPHP-Setup-Example](https://github.com/ewartx/PhalconPHP-Setup-Example) - Phalcon PHP Framework + Grunt + Composer + Bower
 * [Vökuró](https://github.com/phalcon/vokuro) - Sample application for Phalcon PHP Framework (Acl, Auth, Security)
+* [Webird](https://github.com/perchlayer/webird) - Webird was created to merge the latest PHP and Node.js innovations into a single application stack
 
 
 ## Authentication & OAuth
