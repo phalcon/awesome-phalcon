@@ -2,7 +2,7 @@
   "name": "sergeyklay/awesome-phalcon",
   "description": "A curated list of awesome Phalcon libraries and resources",
   "homepage": "https://github.com/sergeyklay/awesome-phalcon",
-  "keywords": ["phalcon", "php", "libraries", "resorces", "links", "doc"],
+  "keywords": ["phalcon", "libraries", "resources", "links", "doc"],
   "license": "MIT",
   "authors": [
     {
