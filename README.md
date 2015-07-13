@@ -37,6 +37,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/s
     - [Searching](#searching)
     - [Shopping](#shopping)
     - [SMS](#sms)
+    - [Talks](#talks)
     - [Template Engines](#template-engines)
     - [Validators](#validators)
     - [Web Tools](#web-tools)
@@ -191,7 +192,6 @@ Please take a quick gander at the [contribution guidelines](https://github.com/s
 *These libraries were placed here because none of the other categories seemed to fit*
 
 * [Incubator](https://github.com/phalcon/incubator) - Repository to publish/share/experiment with new adapters, prototypes or functionality that can potentially be incorporated into the Phalcon PHP Framework
-* [phalcon-chat](https://github.com/sintsov/phalcon-chat) - Sample classic chat development using Phalcon PHP Framework 
 * [phalcon-recaptcha](https://github.com/pavlosadovyi/phalcon-recaptcha) - Minimalist wrapper with which you can easily integrate [reCAPTCHA](http://www.google.com/recaptcha) into your application based on Phalcon PHP Framework
 * [phalcon-widget](https://github.com/serebro/phalcon-widget) - Widgets for Phalcon apps
 * [PhalconBlacklist](https://github.com/touhonoob/PhalconBlacklist) - PHP IP/CIDR Blacklist Library Built With Phalcon + MySQL
@@ -256,6 +256,14 @@ Please take a quick gander at the [contribution guidelines](https://github.com/s
 *SMS services & libraries.*
 
 * [Multiple SMS Sender factory](https://github.com/stanislav-web/phalcon-sms-factory) - Phalcon SMS Factory
+
+
+## Talks
+
+*Conferences, Chats, Forums, etc..*
+
+* [phalcon-chat](https://github.com/sintsov/phalcon-chat) - Sample classic chat development using Phalcon PHP Framework
+* [Phosphorum](https://github.com/phalcon/forum) - The official Phalcon Forum
 
 
 ## Templating
