@@ -138,7 +138,6 @@ Please take a quick gander at the [contribution guidelines](https://github.com/s
 * [phaldoc](https://github.com/Riu/phaldoc) - Create, translate and control changes in documentation for Phalcon & others projects
 
 
-
 ## Events
 
 *Event management.*
@@ -148,7 +147,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/s
 
 ## Exception
 
-*Exeption and error handlers.*
+*Exception and error handlers.*
 
 * [Pretty Exceptions](https://github.com/phalcon/pretty-exceptions) - Utility to show exceptions/errors/warnings/notices using a nicely visualization. 
 
@@ -160,14 +159,15 @@ Please take a quick gander at the [contribution guidelines](https://github.com/s
 * [Phalcon Preserve Post](https://github.com/JREAM/phalcon-preserve-post) - Preserve Form Data after a `POST` and redirect
 * [phalcon-form-decorators](https://github.com/Michal-St/phalcon-form-decorators) - Form decorators to Phalcon PHP Framework
 * [phalconCssForm](https://github.com/Zheness/phalconCssForm) - Generate a form with a CSS Framework (Bootstrap, Foundation, Pure, etc.)
-* [Superform](https://github.com/encodez/superform) - Simple way to create and validate Phalcon 2 form inpired by the Laravel request
+* [Superform](https://github.com/encodez/superform) - Simple way to create and validate Phalcon 2 form inspired by the Laravel request
 
 
 ## i18n
 
 *List of i18n and l10n libraries and services.*
 
-* [Phalcon Translate Service](https://github.com/stanislav-web/phalcon-translate) - Phalcon Translate Service. Simple way to translate your costom part of templates
+* [Phalcon Translate Service](https://github.com/stanislav-web/phalcon-translate) - Phalcon Translate Service. Simple way to translate your custom part of templates
+
 
 ## Mail
 
@@ -231,7 +231,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/s
 
 *Various scaffolding tools.*
 
-* [generator-phalcon](https://github.com/michaelkrone/generator-phalcon) - Yeoman generator for Phalcon Multi-Module Aplications
+* [generator-phalcon](https://github.com/michaelkrone/generator-phalcon) - Yeoman generator for Phalcon Multi-Module Applications
 * [phalcon-bootstrap](https://github.com/JimmDiGrizli/phalcon-bootstrap) - Bootstrap component for a quick start developing applications on Phalcon PHP Framework
 
 
@@ -268,7 +268,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/s
 
 ## Validators
 
-*ORM and Forrms validators.*
+*ORM and Forms validators.*
 
 * [Phalcon Validators](https://github.com/renatoneto/phalcon-validators) - Extra validators for Phalcon PHP Framework
 * [phalswag](https://github.com/tomi20v/phalswag) - Validate request input against swagger config in Phalcon PHP Framework
