@@ -19,7 +19,6 @@ Please take a quick gander at the [contribution guidelines](https://github.com/s
     - [Authentication & OAuth](#authentication--oauth)
     - [CMS & Blogs](#cms--blogs)
     - [Command Line](#command-line)
-    - [Conferences](#conferences)
     - [Dashboard](#dashboard)
     - [Debug](#debug)
     - [DI](#di)
@@ -38,6 +37,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/s
     - [Searching](#searching)
     - [Shopping](#shopping)
     - [SMS](#sms)
+    - [Talks](#talks)
     - [Template Engines](#template-engines)
     - [Validators](#validators)
     - [Web Tools](#web-tools)
@@ -106,14 +106,6 @@ Please take a quick gander at the [contribution guidelines](https://github.com/s
 
 * [phalcon-console](https://github.com/viebig/phalcon-console) - Sample boostraping application for command line applications using the outstanding Phalcon PHP Framework
 * [php-cli-app-phalcon](https://github.com/jeteokeeffe/php-cli-app-phalcon) - Command Line Application built using Phalcon PHP Framework
-
-
-## Conferences
-
-*Conferences, Chats, Forums, etc..*
-
-* [phalcon-chat](https://github.com/sintsov/phalcon-chat) - Sample classic chat development using Phalcon PHP Framework
-* [Phosphorum](https://github.com/phalcon/forum) - The official Phalcon Forum
 
 
 ## Dashboard
@@ -264,6 +256,14 @@ Please take a quick gander at the [contribution guidelines](https://github.com/s
 *SMS services & libraries.*
 
 * [Multiple SMS Sender factory](https://github.com/stanislav-web/phalcon-sms-factory) - Phalcon SMS Factory
+
+
+## Talks
+
+*Conferences, Chats, Forums, etc..*
+
+* [phalcon-chat](https://github.com/sintsov/phalcon-chat) - Sample classic chat development using Phalcon PHP Framework
+* [Phosphorum](https://github.com/phalcon/forum) - The official Phalcon Forum
 
 
 ## Templating
