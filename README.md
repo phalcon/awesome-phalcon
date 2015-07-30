@@ -63,6 +63,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/s
 
 *Various application skeletons.*
 
+* [Album O'Rama](https://github.com/phalcon/album-o-rama) - Sample modular application for the Phalcon PHP Framework
 * [Base App](https://github.com/mruz/base-app) - The base application in Phalcon PHP Framework
 * [INVO Application](https://github.com/phalcon/invo) - Sample application for the Phalcon PHP Framework
 * [nest](https://github.com/nexik/nest) - Phalcon SOLID Bootstrap for Rapid Application Development
