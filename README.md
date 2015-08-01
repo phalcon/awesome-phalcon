@@ -266,6 +266,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/s
 *Conferences, Chats, Forums, etc..*
 
 * [phalcon-chat](https://github.com/sintsov/phalcon-chat) - Sample classic chat development using Phalcon PHP Framework
+* [phalcon-tip](https://github.com/zphalcon/phalcon-tip) - The source for code Phalcon Tip website
 * [Phosphorum](https://github.com/phalcon/forum) - The official Phalcon Forum
 
 
