@@ -267,7 +267,8 @@ Please take a quick gander at the [contribution guidelines](https://github.com/s
 
 * [phalcon-chat](https://github.com/sintsov/phalcon-chat) - Sample classic chat development using Phalcon PHP Framework
 * [phalcon-tip](https://github.com/zphalcon/phalcon-tip) - The source for code Phalcon Tip website
-* [Phosphorum](https://github.com/phalcon/forum) - The official Phalcon Forum
+* [phanbook](https://github.com/phanbook/phanbook/) - The source for code [Phanbook](http://phanbook.com) website
+* [Phosphorum](https://github.com/phalcon/forum) - The source for official Phalcon Forum
 
 
 ## Templating
@@ -312,6 +313,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/s
 
 * [Phalcon Forums](http://forum.phalconphp.com) - Phalcon Forums
 * [Phalcon Russian Community Chat](https://gitter.im/phalcon-rus/chat) - Russian Community Chat in Gitter.im
+* [Phanbook](http://phanbook.com/en/) - A platform for community discussion, answer question and more
 
 
 ## E-Books
