@@ -340,6 +340,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/s
 * [Built With](http://builtwith.phalconphp.com) - Gallery of applications, demos and projects built with Phalcon PHP Framework
 * [Phalcon Blog](http://blog.phalconphp.com) - Phalcon Blog
 * [Phalconist](https://github.com/phalconist/phalconist) - Resources catalog for Phalcon PHP Framework on [Phalconist](http://phalconist.com)
+* [PhVer](http://zvoid.net/phver/) - Phalcon PHP Framework version release history
 
 
 ### Tutorials
