@@ -30,6 +30,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/s
     - [Exception](#exception)
     - [Forms](#forms)
     - [i18n](#i18n)
+    - [Integration](#integration)
     - [Mail](#mail)
     - [Media](#media)
     - [Miscellaneous](#miscellaneous)
@@ -175,6 +176,12 @@ Please take a quick gander at the [contribution guidelines](https://github.com/s
 
 * [Phalcon Translate Service](https://github.com/stanislav-web/phalcon-translate) - Phalcon Translate Service. Simple way to translate your custom part of templates
 
+
+## Integration
+
+*Integration with third party services*
+
+* [phalcon-logentries](https://github.com/sergeyklay/phalcon-logentries) - Sends log messages to the [Logentries](https://logentries.com/) log management service
 
 ## Mail
 
