@@ -70,6 +70,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/s
 * [Album O'Rama](https://github.com/phalcon/album-o-rama) - Sample modular application for the Phalcon PHP Framework
 * [Base App](https://github.com/mruz/base-app) - The base application in Phalcon PHP Framework
 * [INVO Application](https://github.com/phalcon/invo) - Sample application for the Phalcon PHP Framework
+* [MVC](https://github.com/phalcon/mvc) - Examples of Phalcon MVC file structures
 * [nest](https://github.com/nexik/nest) - Phalcon SOLID Bootstrap for Rapid Application Development
 * [phalanx](https://github.com/Swader/phalanx) - A starter app with Phalcon PHP Framework and Angular
 * [Phalcon Boilerplate](https://github.com/mikegioia/phalcon-boilerplate) - Template for building large-scale Phalcon Applications
@@ -77,7 +78,6 @@ Please take a quick gander at the [contribution guidelines](https://github.com/s
 * [Phalcon HMVC Skeleton](https://github.com/zekiunal/PhalconHMVCSkeletonApplication) - Phalcon HMVC Skeleton with Mustache
 * [Phalcon Jumpstart](https://github.com/nguyenducduy/phalcon-jumpstart) - Fast development web apps with CRUD code generator
 * [Phalcon Module Skeleton](https://github.com/ovr/phalcon-module-skeleton) - Application template for building beauty applications on Phalcon PHP Framework
-* [Phalcon MVC examples](https://github.com/phalcon/mvc) - Examples of MVC file structures you can employ using Phalcon >= 2.0.x
 * [phalcon-skeleton](https://github.com/oleksandr-torosh/phalcon-skeleton) - Phalcon PHP Framework Modular Application with Oleksandr Torosh best practices of development
 * [phalcon.angular.bootstrap](https://github.com/zhegwood/phalcon.angular.bootstrap) - Boilerplate for a non single page implementation of Angular, Phalcon, and Bootstrap
 * [PhalconPHP-Setup-Example](https://github.com/ewartx/PhalconPHP-Setup-Example) - Phalcon PHP Framework + Grunt + Composer + Bower
