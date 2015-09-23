@@ -111,6 +111,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/s
 *Command line applications & tools.*
 
 * [phalcon-console](https://github.com/viebig/phalcon-console) - Sample boostraping application for command line applications using the outstanding Phalcon PHP Framework
+* [phalcon-cron](https://github.com/SidRoberts/phalcon-cron) - Cron component for Phalcon
 * [phalcon_cron](https://github.com/temafey/phalcon_cron) - Cron manager library based on Phalcon PHP Framework
 * [php-cli-app-phalcon](https://github.com/jeteokeeffe/php-cli-app-phalcon) - Command Line Application built using Phalcon PHP Framework
 
