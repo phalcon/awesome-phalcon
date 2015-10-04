@@ -256,6 +256,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/s
 
 *Searching tools & libraries.*
 
+* [ElasticsearchIndexer](https://github.com/SidRoberts/phalcon-elasticsearchindexer) - Elasticsearch indexer component for Phalcon
 * [phalcon-datatables](https://github.com/m1ome/phalcon-datatables) - Phalcon adapter for DataTables
 * [phalcon-elasticsearch](https://github.com/ovr/phalcon-elasticsearch) - Phalcon + Elastic
 * [Searcher](https://github.com/stanislav-web/Searcher) - Database searcher for Phalcon PHP Framework
