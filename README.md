@@ -83,7 +83,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/s
 * [PhalconPHP-Setup-Example](https://github.com/ewartx/PhalconPHP-Setup-Example) - Phalcon PHP Framework + Grunt + Composer + Bower
 * [Vökuró](https://github.com/phalcon/vokuro) - Sample application for Phalcon PHP Framework (Acl, Auth, Security)
 * [Webird](https://github.com/perchlayer/webird) - Webird was created to merge the latest PHP and Node.js innovations into a single application stack
-
+* [Slayer](https://github.com/phalconslayer/slayer) - Slayer a re-structured phalcon framework that supports modular applications and inspired with Symfony, Laravel and Ruby on Rails folder structure
 
 ## Authentication & OAuth
 
@@ -145,7 +145,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/s
 
 *Libraries for doc generate & management.*
 
-* [kolibri](https://github.com/philippgerard/kolibri) - A Phalcon based wiki software with simplicity in mind 
+* [kolibri](https://github.com/philippgerard/kolibri) - A Phalcon based wiki software with simplicity in mind
 * [phaldoc](https://github.com/Riu/phaldoc) - Create, translate and control changes in documentation for Phalcon & others projects
 
 
@@ -160,7 +160,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/s
 
 *Exception and error handlers.*
 
-* [Pretty Exceptions](https://github.com/phalcon/pretty-exceptions) - Utility to show exceptions/errors/warnings/notices using a nicely visualization. 
+* [Pretty Exceptions](https://github.com/phalcon/pretty-exceptions) - Utility to show exceptions/errors/warnings/notices using a nicely visualization.
 
 
 ## Forms
@@ -192,7 +192,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/s
 
 * [Phalcon Mailer](https://github.com/vanchelo/phalcon-mailer) - Phalcon Mailer Service
 * [Phalcon Mailer](https://github.com/phalcon-ext/mailer) - Mailer component wrapper over SwiftMailer for Phalcon Framework
-* [phalconphp-mandrill](https://bitbucket.org/tartan/phalconphp-mandrill) - Mandrill wrapper for Phalcon Framework 
+* [phalconphp-mandrill](https://bitbucket.org/tartan/phalconphp-mandrill) - Mandrill wrapper for Phalcon Framework
 * [sendmail](https://github.com/duythien/sendmail) - Sending Confirmation Emails with Phalcon PHP Framework and Swift
 
 
@@ -229,7 +229,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/s
 *Representational state transfer.*
 
 * [Phalcon Development Boards](https://github.com/stanislav-web/Phalcon-development) - An example development of the REST application by Phalcon PHP Framework
-* [Phalcon Restful Webservice](https://github.com/Atriedes/phalcon-restful-webservice) - Base project for creating powerful webservice based on Phalcon PHP Framework 
+* [Phalcon Restful Webservice](https://github.com/Atriedes/phalcon-restful-webservice) - Base project for creating powerful webservice based on Phalcon PHP Framework
 * [phalcon-api-ouath2](https://github.com/goors/phalcon-api-ouath2) - Full Phalcon REST API example with is own Ouath2 server
 * [PhalconRest](https://github.com/cmoore4/phalcon-rest) - A Base project for APIs using the Phalcon PHP Framework
 * [phest](https://github.com/ovide/phest) - Rest API library for Phalcon
