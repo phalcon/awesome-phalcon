@@ -99,7 +99,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/s
 * [blog](https://github.com/duythien/blog) - Blog project with multi-lingual support
 * [giada-www](https://github.com/monocasual/giada-www) - Official website of [Giada Loop Machine](http://www.giadamusic.com)
 * [phalconBlog](https://github.com/eristoddle/phalconBlog) - A blog using the Phalcon PHP Framework
-* [PhalconEye](https://github.com/lantian/PhalconEye) - PhalconEye CMS
+* [PhalconEye](https://github.com/PhalconEye/cms) - PhalconEye CMS
 * [Skopy Blog Engine](https://github.com/yuriygr/skopy) - A simple blog engine for those who want to start learning Phalcon
 * [Talon](https://github.com/adamdama/Talon) - CMS built on Phalcon PHP Framework
 * [Vegas CMF](https://github.com/vegas-cmf) - Vegas CMF for Phalcon PHP Framework
@@ -232,7 +232,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/s
 * [Phalcon Development Boards](https://github.com/stanislav-web/Phalcon-development) - An example development of the REST application by Phalcon PHP Framework
 * [Phalcon REST](https://github.com/olivierandriessen/phalcon-rest) - A flexible library, consisting of interchangeable classes made for the modern REST API
 * [Phalcon Restful Webservice](https://github.com/Atriedes/phalcon-restful-webservice) - Base project for creating powerful webservice based on Phalcon PHP Framework
-* [phalcon-api-ouath2](https://github.com/goors/phalcon-api-ouath2) - Full Phalcon REST API example with is own OAuth2 server
+* [phalcon-api-ouath2](https://github.com/goors/phalcon-api-oauth2) - Full Phalcon REST API example with is own OAuth2 server
 * [PhalconRest](https://github.com/cmoore4/phalcon-rest) - A Base project for APIs using the Phalcon PHP Framework
 * [phest](https://github.com/ovide/phest) - Rest API library for Phalcon
 * [php-hmac-rest-api](https://github.com/jeteokeeffe/php-hmac-rest-api) - PHP HMAC Restful API that uses Phalcon Micro Application
@@ -285,7 +285,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/s
 
 * [phalcon-chat](https://github.com/sintsov/phalcon-chat) - Sample classic chat development using Phalcon PHP Framework
 * [phalcon-tip](https://github.com/zphalcon/phalcon-tip) - The source for code Phalcon Tip website
-* [phanbook](https://github.com/phanbook/phanbook/) - The source for code [Phanbook](http://phanbook.com) website
+* [phanbook](https://github.com/phanbook/phanbook/) - The source for code [Phanbook](http://phanbook.com/en/) website
 * [Phosphorum](https://github.com/phalcon/forum) - The source for official Phalcon Forum
 
 
@@ -329,7 +329,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/s
 
 *Conferences, IRC, Forums, etc..*
 
-* [Phalcon Forums](http://forum.phalconphp.com) - Phalcon Forums
+* [Phalcon Forums](https://forum.phalconphp.com/) - Phalcon Forums
 * [Phalcon Russian Community Chat](https://gitter.im/phalcon-rus/chat) - Russian Community Chat in Gitter.im
 * [Phanbook](http://phanbook.com/en/) - A platform for community discussion, answer question and more
 
@@ -351,15 +351,15 @@ Please take a quick gander at the [contribution guidelines](https://github.com/s
 
 ## Websites
 
-* [Built With](http://builtwith.phalconphp.com) - Gallery of applications, demos and projects built with Phalcon PHP Framework
-* [Phalcon Blog](http://blog.phalconphp.com) - Phalcon Blog
-* [Phalconist](https://github.com/phalconist/phalconist) - Resources catalog for Phalcon PHP Framework on [Phalconist](http://phalconist.com)
+* [Built With](https://builtwith.phalconphp.com/) - Gallery of applications, demos and projects built with Phalcon PHP Framework
+* [Phalcon Blog](https://blog.phalconphp.com/) - Phalcon Blog
+* [Phalconist](https://github.com/phalconist/phalconist) - Resources catalog for Phalcon PHP Framework on [Phalconist](https://phalconist.com/)
 * [PhVer](http://zvoid.net/phver/) - Phalcon PHP Framework version release history
 
 
 ### Tutorials
 
-* [Blog Tutorial](https://github.com/phalcon/blog-tutorial) - Blog Tutorial (source code for [Blog Tutorial](http://blog.phalconphp.com/post/36648855158/tutorial-your-first-encounter-with-phalcon-part-2))
+* [Blog Tutorial](https://github.com/phalcon/blog-tutorial) - Blog Tutorial (source code for [Blog Tutorial](https://blog.phalconphp.com/post/36648855158/tutorial-your-first-encounter-with-phalcon-part-2))
 * [Phalcon Documentation](http://docs.phalconphp.com) - Phalcon Documentation
 * [Phalcon Tips](http://phalcontip.com) - Phalcon Tips
 * [Phalcon.io](http://phalcon.io) - Articles, tutorials, tips, documentation and much more
