@@ -178,6 +178,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/s
 *List of i18n and l10n libraries and services.*
 
 * [Phalcon Translate Service](https://github.com/stanislav-web/phalcon-translate) - Phalcon Translate Service. Simple way to translate your custom part of templates
+* [xgettext-volt](https://github.com/perchlayer/xgettext-webird) - Get translatable strings from templates into Poedit
 
 
 ## Integration
