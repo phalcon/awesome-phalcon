@@ -285,7 +285,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/s
 
 * [phalcon-chat](https://github.com/sintsov/phalcon-chat) - Sample classic chat development using Phalcon PHP Framework
 * [phalcon-tip](https://github.com/zphalcon/phalcon-tip) - The source for code Phalcon Tip website
-* [phanbook](https://github.com/phanbook/phanbook/) - The source for code [Phanbook](http://phanbook.com/en/) website
+* [phanbook](https://github.com/phanbook/phanbook/) - The source for code phanbook.com website
 * [Phosphorum](https://github.com/phalcon/forum) - The source for official Phalcon Forum
 
 
