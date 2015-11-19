@@ -3,6 +3,15 @@ language: go
 go:
   - 1.4
 
+sudo: false
+
 install:
   - go get github.com/russross/blackfriday
   - go get github.com/PuerkitoBio/goquery
+
+notifications:
+  email:
+    recipients:
+      - serghei@phalconphp.com
+    on_success: change
+    on_failure: always
