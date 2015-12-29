@@ -34,6 +34,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/s
     - [Mail](#mail)
     - [Media](#media)
     - [Miscellaneous](#miscellaneous)
+    - [Networking](#networking)
     - [ORM](#orm)
     - [RESTful](#restful)
     - [Routing](#routing)
@@ -218,6 +219,11 @@ Please take a quick gander at the [contribution guidelines](https://github.com/s
 * [PhalconPoll](https://github.com/touhonoob/PhalconPoll) - Simple PHP Poll Service Built With Phalcon PHP Framework + MySQL + Redis
 * [Phalcony](https://github.com/ovr/phalcony) - Library for expansion the base functional of Phalcon PHP Framework
 
+## Networking
+
+*Libraries for working with various layers of the network*
+
+* [phalcon-expressive](https://github.com/theDisco/phalcon-expressive) - Phalcon 2 integration for Zend Expressive
 
 ## ORM
 
