@@ -90,7 +90,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/s
 
 *Libraries for implementing authentications schemes.*
 
-* [phalcon-oauth2-server](https://github.com/sumeko/phalcon-oauth2-server) - Phalcon wrapper for Oauth2 [thephpleague/oauth2-server](https://github.com/thephpleague/oauth2-server)
+* [phalcon-oauth2-server](https://github.com/nueko/phalcon-oauth2-server) - Phalcon wrapper for Oauth2 [thephpleague/oauth2-server](https://github.com/thephpleague/oauth2-server)
 
 
 ## CMS & Blogs
@@ -238,7 +238,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/s
 *Representational state transfer.*
 
 * [Phalcon Development Boards](https://github.com/stanislav-web/Phalcon-development) - An example development of the REST application by Phalcon PHP Framework
-* [Phalcon REST](https://github.com/olivierandriessen/phalcon-rest) - A flexible library, consisting of interchangeable classes made for the modern REST API
+* [Phalcon REST](https://github.com/redound/phalcon-rest) - A flexible library, consisting of interchangeable classes made for the modern REST API
 * [Phalcon Restful Webservice](https://github.com/Atriedes/phalcon-restful-webservice) - Base project for creating powerful webservice based on Phalcon PHP Framework
 * [phalcon-api-ouath2](https://github.com/goors/phalcon-api-oauth2) - Full Phalcon REST API example with is own OAuth2 server
 * [PhalconRest](https://github.com/cmoore4/phalcon-rest) - A Base project for APIs using the Phalcon PHP Framework
