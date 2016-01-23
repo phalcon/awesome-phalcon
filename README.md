@@ -90,7 +90,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/s
 
 *Libraries for implementing authentications schemes.*
 
-* [phalcon-oauth2-server](https://github.com/nueko/phalcon-oauth2-server) - Phalcon wrapper for Oauth2 [thephpleague/oauth2-server](https://github.com/thephpleague/oauth2-server)
+* [phalcon-oauth2-server](https://github.com/nueko/phalcon-oauth2-server) - Phalcon wrapper for oAuth2 [thephpleague/oauth2-server](https://github.com/thephpleague/oauth2-server)
 
 
 ## CMS & Blogs
@@ -180,7 +180,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/s
 *List of i18n and l10n libraries and services.*
 
 * [Phalcon Translate Service](https://github.com/stanislav-web/phalcon-translate) - Phalcon Translate Service. Simple way to translate your custom part of templates
-* [xgettext-volt](https://github.com/perchlayer/xgettext-webird) - Get translatable strings from templates into Poedit
+* [xgettext-volt](https://github.com/perchlayer/xgettext-webird) - Get translatable strings from templates into [Poedit](https://poedit.net/)
 
 
 ## Integration
@@ -242,7 +242,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/s
 * [Phalcon Restful Webservice](https://github.com/Atriedes/phalcon-restful-webservice) - Base project for creating powerful webservice based on Phalcon PHP Framework
 * [phalcon-api-ouath2](https://github.com/goors/phalcon-api-oauth2) - Full Phalcon REST API example with is own OAuth2 server
 * [PhalconRest](https://github.com/cmoore4/phalcon-rest) - A Base project for APIs using the Phalcon PHP Framework
-* [phest](https://github.com/ovide/phest) - Rest API library for Phalcon
+* [phest](https://github.com/ovide/phest) - REST API library for Phalcon
 * [php-hmac-rest-api](https://github.com/jeteokeeffe/php-hmac-rest-api) - PHP HMAC Restful API that uses Phalcon Micro Application
 * [PhREST API](https://github.com/phrest/api) - Phalcon PHP Framework REST API Package
 * [rest-seed](https://github.com/michaelkrone/rest-seed) - Scaffold a REST API Application Phalcon (multi module), Angular and Bootstrap (using Yeoman, Bower and Grunt)
@@ -309,6 +309,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/s
 
 *ORM and Forms validators.*
 
+* [Easy Validation](https://github.com/progsmile/phalcon-validator) - Easy Validation Package for PHP Frameworks, CMS/CMF
 * [Phalcon Validators](https://github.com/renatoneto/phalcon-validators) - Extra validators for Phalcon PHP Framework
 * [phalswag](https://github.com/tomi20v/phalswag) - Validate request input against swagger config in Phalcon PHP Framework
 * [zvps-phalcon-validators](https://github.com/zVPS/zvps-phalcon-validators) - Additional form and data validators extending the inbuilt Phalcon validate interface
