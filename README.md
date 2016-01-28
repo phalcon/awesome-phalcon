@@ -229,6 +229,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/s
 
 *Libraries that implement Object-Relational Mapping or datamapping techniques.*
 
+* [phalcon-boundmodels](https://github.com/SidRoberts/phalcon-boundmodels) - Automatically get models based on dispatcher parameters within the Phalcon framework
 * [phalcon-mssql](https://github.com/fishjerky/phalcon-mssql) - A Phalcon PHP Framework MSSQL PDO db adapter
 * [phalcon-seeder](https://github.com/SidRoberts/phalcon-seeder) - Database seeder component for Phalcon
 
