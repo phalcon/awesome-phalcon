@@ -1,7 +1,7 @@
 # Awesome Phalcon
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-[![Build Status](https://travis-ci.org/sergeyklay/awesome-phalcon.svg?branch=master)](https://travis-ci.org/sergeyklay/awesome-phalcon)
+[![Build Status](https://api.travis-ci.org/sergeyklay/awesome-phalcon.svg?branch=master)](https://travis-ci.org/sergeyklay/awesome-phalcon)
 
 
 A curated list of awesome Phalcon libraries and resources. Inspired by [awesome-go](https://github.com/avelino/awesome-go).
@@ -216,7 +216,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/s
 * [Breadcrumbs](https://github.com/phalcongelist/breadcrumbs) - Powerful and flexible component for building site breadcrumbs in Phalcon 2+.
 * [Incubator](https://github.com/phalcon/incubator) - Repository to publish/share/experiment with new adapters, prototypes or functionality that can potentially be incorporated into the Phalcon PHP Framework
 * [phalcon-demo](https://github.com/Codeception/phalcon-demo) - A modified Phalcon INVO Application to demonstrate basics of Codeception testing.
-* [phalcon-recaptcha](https://github.com/pavlosadovyi/phalcon-recaptcha) - Minimalist wrapper with which you can easily integrate [reCAPTCHA](http://www.google.com/recaptcha) into your application based on Phalcon PHP Framework
+* [phalcon-recaptcha](https://github.com/pavlosadovyi/phalcon-recaptcha) - Minimalist wrapper with which you can easily integrate reCAPTCHA
 * [phalcon-widget](https://github.com/serebro/phalcon-widget) - Widgets for Phalcon apps
 * [PhalconBlacklist](https://github.com/touhonoob/PhalconBlacklist) - PHP IP/CIDR Blacklist Library Built With Phalcon + MySQL
 * [PhalconPoll](https://github.com/touhonoob/PhalconPoll) - Simple PHP Poll Service Built With Phalcon PHP Framework + MySQL + Redis
@@ -296,7 +296,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/s
 *Conferences, Chats, Forums, etc..*
 
 * [phalcon-chat](https://github.com/sintsov/phalcon-chat) - Sample classic chat development using Phalcon PHP Framework
-* [phalcon-tip](https://github.com/zphalcon/phalcon-tip) - The source for code Phalcon Tip website
+* [phalcon-tip](https://github.com/duythien/phalcon-tip) - The source for code Phalcon Tip website
 * [phanbook](https://github.com/phanbook/phanbook/) - The source for code phanbook.com website
 * [Phosphorum](https://github.com/phalcon/forum) - The source for official Phalcon Forum
 
@@ -355,7 +355,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/s
 
 ## Jobs
 
-* [Phalcon jobs](https://phalconjobs.com) - Collection Phalcon Jobs.
+* [Phalcon jobs](http://phalconjobs.com) - Collection Phalcon Jobs.
 
 
 ## Twitter
@@ -368,13 +368,12 @@ Please take a quick gander at the [contribution guidelines](https://github.com/s
 * [Built With](https://builtwith.phalconphp.com/) - Gallery of applications, demos and projects built with Phalcon PHP Framework
 * [Phalcon Blog](https://blog.phalconphp.com/) - Phalcon Blog
 * [Phalconist](https://github.com/phalconist/phalconist) - Resources catalog for Phalcon PHP Framework on [Phalconist](https://phalconist.com/)
-* [PhVer](http://zvoid.net/phver/) - Phalcon PHP Framework version release history
 
 
 ### Tutorials
 
-* [Blog Tutorial](https://github.com/phalcon/blog-tutorial) - Blog Tutorial (source code for [Blog Tutorial](https://blog.phalconphp.com/post/36648855158/tutorial-your-first-encounter-with-phalcon-part-2))
-* [Phalcon Documentation](http://docs.phalconphp.com) - Phalcon Documentation
+* [Blog Tutorial](https://github.com/phalcon/blog-tutorial) - Blog Tutorial (source code for [Blog Tutorial](https://blog.phalconphp.com/post/tutorial-your-first-encounter-with-phalcon-part-2)
+* [Phalcon Documentation](https://docs.phalconphp.com/en/latest/index.html) - Phalcon Documentation
 * [Phalcon Tips](http://phalcontip.com) - Phalcon Tips
 * [Phalcon.io](http://phalcon.io) - Articles, tutorials, tips, documentation and much more
 * [Sitepoint](http://www.sitepoint.com/?s=phalcon) - Articles, tutorials and so more

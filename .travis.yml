@@ -1,13 +1,20 @@
+sudo: required
+dist: trusty
+
 language: go
 
 go:
   - 1.4
 
-sudo: false
+before_script:
+  - gem install awesome_bot
 
 install:
   - go get github.com/russross/blackfriday
   - go get github.com/PuerkitoBio/goquery
+
+script:
+  - awesome_bot README.md
 
 notifications:
   email:
