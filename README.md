@@ -242,9 +242,10 @@ Please take a quick gander at the [contribution guidelines](https://github.com/s
 *Representational state transfer.*
 
 * [Phalcon Development Boards](https://github.com/stanislav-web/Phalcon-development) - An example development of the REST application by Phalcon PHP Framework
-* [Phalcon REST](https://github.com/redound/phalcon-rest) - A flexible library, consisting of interchangeable classes made for the modern REST API
-* [Phalcon Restful Webservice](https://github.com/Atriedes/phalcon-restful-webservice) - Base project for creating powerful webservice based on Phalcon PHP Framework
+* [Phalcon REST](https://github.com/redound/phalcon-rest) - Phalcon REST Library
+* [Phalcon Restful Webservice](https://github.com/praswicaksono/phalcon-restful-webservice) - Base project for creating powerful webservice based on Phalcon PHP Framework
 * [phalcon-api-ouath2](https://github.com/goors/phalcon-api-oauth2) - Full Phalcon REST API example with is own OAuth2 server
+* [phalcon-rest-boilerplate](https://github.com/redound/phalcon-rest-boilerplate) - Phalcon REST Boilerplate
 * [PhalconRest](https://github.com/cmoore4/phalcon-rest) - A Base project for APIs using the Phalcon PHP Framework
 * [phest](https://github.com/ovide/phest) - REST API library for Phalcon
 * [php-hmac-rest-api](https://github.com/jeteokeeffe/php-hmac-rest-api) - PHP HMAC Restful API that uses Phalcon Micro Application
