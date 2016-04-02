@@ -355,11 +355,6 @@ Please take a quick gander at the [contribution guidelines](https://github.com/s
 * [Phalcon PDF Documentation](https://media.readthedocs.org/pdf/phalcon-php-framework-documentation/latest/phalcon-php-framework-documentation.pdf) - Phalcon PHP Framework Documentation
 
 
-## Jobs
-
-* [Phalcon jobs](http://phalconjobs.com) - Collection Phalcon Jobs.
-
-
 ## Twitter
 
 * [@phalconphp](https://twitter.com/phalconphp) - Phalcon Twitter
