@@ -1,5 +1,6 @@
 {
   "name": "sergeyklay/awesome-phalcon",
+  "type": "library",
   "description": "A curated list of awesome Phalcon libraries and resources",
   "homepage": "https://github.com/sergeyklay/awesome-phalcon",
   "keywords": ["phalcon", "libraries", "resources", "links", "doc"],
@@ -7,13 +8,12 @@
   "authors": [
     {
       "name": "Serghei Iakovlev",
-      "email": "sadhooklay@gmail.com",
+      "email": "serghei@phalconphp.com",
       "role": "maintainer"
     },
     {
       "name": "Contributors",
       "homepage": "https://github.com/sergeyklay/awesome-phalcon/graphs/contributors"
     }
-  ],
-  "minimum-stability": "dev"
+  ]
 }
