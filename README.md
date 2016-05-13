@@ -371,7 +371,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/s
 
 ### Tutorials
 
-* [Blog Tutorial](https://github.com/phalcon/blog-tutorial) - Blog Tutorial (source code for [Blog Tutorial](https://blog.phalconphp.com/post/tutorial-your-first-encounter-with-phalcon-part-2)
+* [Blog Tutorial](https://github.com/phalcon/blog-tutorial) - Blog Tutorial (source code for [Blog Tutorial](https://blog.phalconphp.com/post/tutorial-your-first-encounter-with-phalcon-part-2))
 * [Phalcon Documentation](https://docs.phalconphp.com/en/latest/index.html) - Phalcon Documentation
 * [Phalcon Tips](http://phalcontip.com) - Phalcon Tips
 * [Phalcon.io](http://phalcon.io) - Articles, tutorials, tips, documentation and much more
