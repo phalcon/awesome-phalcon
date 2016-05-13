@@ -215,6 +215,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/s
 *These libraries were placed here because none of the other categories seemed to fit*
 
 * [Breadcrumbs](https://github.com/phalcongelist/breadcrumbs) - Powerful and flexible component for building site breadcrumbs in Phalcon 2+.
+* [Feedback](quasipickle.github.io/feedback/) - Is intended to be used as a replacement for Phalcon's built-in Flash and Message functionality
 * [Incubator](https://github.com/phalcon/incubator) - Repository to publish/share/experiment with new adapters, prototypes or functionality that can potentially be incorporated into the Phalcon PHP Framework
 * [phalcon-demo](https://github.com/Codeception/phalcon-demo) - A modified Phalcon INVO Application to demonstrate basics of Codeception testing.
 * [phalcon-recaptcha](https://github.com/pavlosadovyi/phalcon-recaptcha) - Minimalist wrapper with which you can easily integrate reCAPTCHA
