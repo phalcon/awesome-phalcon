@@ -133,7 +133,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/s
 * [PDW](https://github.com/jymboche/phalcon-debug-widget) - Frontend Debugger for Phalcon Applications
 * [Phalcon Console](https://github.com/vanchelo/phalcon-console) - AJAX console to execute PHP code in the browser with light, the ability to save the last code execution
 * [Phalcon Debugbar](https://github.com/snowair/phalcon-debugbar) - Integrates [PHP Debug Bar](http://phpdebugbar.com) with Phalcon PHP Framework
-* [Phalcon Whoops](https://github.com/whoops-php/phalcon) - Integrating [Whoops](http://filp.github.io/whoops/) with Phalcon
+* [Phalcon Whoops](https://github.com/whoops-php/phalcon) - Integrating [Whoops](https://filp.github.io/whoops/) with Phalcon
 * [Prophiler](https://github.com/fabfuel/prophiler) - PHP Profiler & Developer Toolbar (built for Phalcon)
 
 
@@ -215,7 +215,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/s
 *These libraries were placed here because none of the other categories seemed to fit*
 
 * [Breadcrumbs](https://github.com/phalcongelist/breadcrumbs) - Powerful and flexible component for building site breadcrumbs in Phalcon 2+.
-* [Feedback](quasipickle.github.io/feedback/) - Is intended to be used as a replacement for Phalcon's built-in Flash and Message functionality
+* [Feedback](https://quasipickle.github.io/feedback/) - Is intended to be used as a replacement for Phalcon's built-in Flash and Message functionality
 * [Incubator](https://github.com/phalcon/incubator) - Repository to publish/share/experiment with new adapters, prototypes or functionality that can potentially be incorporated into the Phalcon PHP Framework
 * [phalcon-demo](https://github.com/Codeception/phalcon-demo) - A modified Phalcon INVO Application to demonstrate basics of Codeception testing.
 * [phalcon-recaptcha](https://github.com/pavlosadovyi/phalcon-recaptcha) - Minimalist wrapper with which you can easily integrate reCAPTCHA
@@ -376,5 +376,5 @@ Please take a quick gander at the [contribution guidelines](https://github.com/s
 * [Phalcon Tips](http://phalcontip.com) - Phalcon Tips
 * [Phalcon.io](http://phalcon.io) - Articles, tutorials, tips, documentation and much more
 * [Sitepoint](http://www.sitepoint.com/?s=phalcon) - Articles, tutorials and so more
-* [StackOverflow](http://stackoverflow.com/questions/tagged/phalcon) - StackOverflow Tagged Questions
+* [StackOverflow](https://stackoverflow.com/questions/tagged/phalcon) - StackOverflow Tagged Questions
 * [Tutsplus](http://code.tutsplus.com/categories/phalcon/courses) - Tutsplus Code Courses
