@@ -376,6 +376,6 @@ Please take a quick gander at the [contribution guidelines](https://github.com/s
 * [Phalcon Documentation](https://docs.phalconphp.com/en/latest/index.html) - Phalcon Documentation
 * [Phalcon Tips](http://phalcontip.com) - Phalcon Tips
 * [Phalcon.io](http://phalcon.io) - Articles, tutorials, tips, documentation and much more
-* [Sitepoint](http://www.sitepoint.com/?s=phalcon) - Articles, tutorials and so more
+* [Sitepoint](https://www.sitepoint.com/?s=phalcon) - Articles, tutorials and so more
 * [StackOverflow](https://stackoverflow.com/questions/tagged/phalcon) - StackOverflow Tagged Questions
 * [Tutsplus](http://code.tutsplus.com/categories/phalcon/courses) - Tutsplus Code Courses
