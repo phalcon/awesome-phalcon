@@ -287,6 +287,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/s
 
 * [phalcon_cart](https://github.com/uno-de-piera/phalcon_cart) - Complete cart system for Phalcon PHP Framework
 * [phasty](https://github.com/chaban/phasty) - Shopping Cart on Phalcon PHP Framework
+* [Cashier](https://github.com/duythien/cashier) - Phalcon cashier
 
 ## SMS
 
