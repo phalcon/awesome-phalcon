@@ -335,6 +335,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/s
 
 * [ansible-phalcon-role](https://github.com/sarrubia/ansible-phalcon-role) - Ansible Role to install Phalcon PHP Framework in Debian/Ubuntu
 * [perfect-php-vagrant](https://github.com/ovr/perfect-php-vagrant) - Web development Vagrant machine with PHP + Phalcon/Lynx/Zephir, Nginx, Node+Bower/Gulp/Grunt
+* [phalcon-ansible](https://github.com/ch3k1/phalcon-ansible) - Install Phalcon using Vagrant and Ansible playbook
 * [phalcon-ci-installer](https://github.com/techpivot/phalcon-ci-installer) - Composer integration for PHP applications to install the Phalcon framework as an extension in the PHP runtime for various hosted CI services
 * [phalcon-compose](https://github.com/sergeyklay/phalcon-compose) - Open-source and community-driven boilerplate for Phalcon projects that run on Docker
 * [phalcon2-compose](https://github.com/linxlad/phalcon2-compose) - Docker Phalcon 2 development environment
