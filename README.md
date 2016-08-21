@@ -11,7 +11,7 @@ A curated list of awesome Phalcon libraries and resources. Inspired by [awesome-
 
 Please take a quick gander at the [contribution guidelines](https://github.com/sergeyklay/awesome-phalcon/blob/master/CONTRIBUTING.md) first. Thanks to all [contributors](https://github.com/sergeyklay/awesome-phalcon/graphs/contributors); you rock!
 
-[Join us on Slack](http://chat.phalcontip.com) to chat with other awesome-phalcon maintainers!
+[Join us on Slack](https://slack.phalconphp.com) to chat with other awesome-phalcon maintainers!
 
 
 ### Contents
@@ -262,7 +262,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/s
 
 *Various routing libraries & extensions.*
 
-* [Phalcon-autorouter](https://github.com/softdream/Phalcon-autorouter) - Simple way to auto load modules without complicate definition of routes
+* [Phalcon-autorouter](https://github.com/kamilhurajt/Phalcon-autorouter) - Simple way to auto load modules without complicate definition of routes
 
 
 ## Scaffolding
@@ -337,6 +337,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/s
 # Server Applications
 
 * [ansible-phalcon-role](https://github.com/sarrubia/ansible-phalcon-role) - Ansible Role to install Phalcon PHP Framework in Debian/Ubuntu
+* [packagecloud](https://github.com/phalcongelist/packagecloud) - Phalcon distribution hosted on PackageCloud
 * [perfect-php-vagrant](https://github.com/ovr/perfect-php-vagrant) - Web development Vagrant machine with PHP + Phalcon/Lynx/Zephir, Nginx, Node+Bower/Gulp/Grunt
 * [phalcon-ansible](https://github.com/ch3k1/phalcon-ansible) - Install Phalcon using Vagrant and Ansible playbook
 * [phalcon-ci-installer](https://github.com/techpivot/phalcon-ci-installer) - Composer integration for PHP applications to install the Phalcon framework as an extension in the PHP runtime for various hosted CI services
