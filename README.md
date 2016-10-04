@@ -43,7 +43,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/s
     - [Shopping](#shopping)
     - [SMS](#sms)
     - [Talks](#talks)
-    - [Template Engines](#template-engines)
+    - [Templating](#templating)
     - [Validators](#validators)
     - [Web Tools](#web-tools)
 
@@ -80,7 +80,6 @@ Please take a quick gander at the [contribution guidelines](https://github.com/s
 * [Phalcon HMVC Skeleton](https://github.com/zekiunal/PhalconHMVCSkeletonApplication) - Phalcon HMVC Skeleton with Mustache
 * [Phalcon Jumpstart](https://github.com/nguyenducduy/phalcon-jumpstart) - Fast development web apps with CRUD code generator
 * [Phalcon Module Skeleton](https://github.com/ovr/phalcon-module-skeleton) - Application template for building beauty applications on Phalcon PHP Framework
-* [phalcon-skeleton](https://github.com/oleksandr-torosh/phalcon-skeleton) - Phalcon PHP Framework Modular Application with Oleksandr Torosh best practices of development
 * [phalcon.angular.bootstrap](https://github.com/zhegwood/phalcon.angular.bootstrap) - Boilerplate for a non single page implementation of Angular, Phalcon, and Bootstrap
 * [PhalconPHP-Setup-Example](https://github.com/ewartx/PhalconPHP-Setup-Example) - Phalcon PHP Framework + Grunt + Composer + Bower
 * [Slayer](https://github.com/phalconslayer/slayer) - Slayer a re-structured phalcon framework that supports modular applications and inspired with Symfony, Laravel and Ruby on Rails folder structure
@@ -102,7 +101,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/s
 *Content management systems & blogs.*
 
 * [blog](https://github.com/duythien/blog) - Blog project with multi-lingual support
-* [giada-www](https://github.com/monocasual/giada-www) - Official website of [Giada Loop Machine](http://www.giadamusic.com)
+* [giada-www](https://github.com/monocasual/giada-www) - Official website of [Giada Loop Machine](https://www.giadamusic.com/)
 * [phalconBlog](https://github.com/eristoddle/phalconBlog) - A blog using the Phalcon PHP Framework
 * [PhalconEye](https://github.com/PhalconEye/cms) - PhalconEye CMS
 * [Skopy Blog Engine](https://github.com/yuriygr/skopy) - A simple blog engine for those who want to start learning Phalcon
@@ -290,6 +289,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/s
 * [phalcon_cart](https://github.com/uno-de-piera/phalcon_cart) - Complete cart system for Phalcon PHP Framework
 * [phasty](https://github.com/chaban/phasty) - Shopping Cart on Phalcon PHP Framework
 * [Cashier](https://github.com/duythien/cashier) - Phalcon cashier
+* [Yona E-commerce](https://github.com/oleksandr-torosh/yona-ecommerce) - E-commerce CMF based on Phalcon PHP Framework
 
 ## SMS
 
@@ -314,6 +314,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/s
 
 * [jade-phalcon](https://github.com/kylekatarnls/jade-phalcon) - Jade Template Engine for Phalcon PHP Framework
 * [phalcon-xslt-view-engine](https://github.com/racztiborzoltan/phalcon-xslt-view-engine) - Adapter to use XSLT as templating engine for Phalcon PHP Framework
+* [xgettext-template](https://github.com/gmarty/xgettext) - Extracts translatable strings from source. Identical to [xgettext(1)](http://www.gnu.org/software/gettext/manual/gettext.html#xgettext-Invocation) but for template languages.
 
 
 ## Validators
@@ -384,4 +385,4 @@ Please take a quick gander at the [contribution guidelines](https://github.com/s
 * [Phalcon.io](http://phalcon.io) - Articles, tutorials, tips, documentation and much more
 * [Sitepoint](https://www.sitepoint.com/?s=phalcon) - Articles, tutorials and so more
 * [StackOverflow](https://stackoverflow.com/questions/tagged/phalcon) - StackOverflow Tagged Questions
-* [Tutsplus](http://code.tutsplus.com/categories/phalcon/courses) - Tutsplus Code Courses
+* [Tutsplus](https://code.tutsplus.com/categories/phalcon/courses) - Tutsplus Code Courses
