@@ -289,6 +289,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/s
 * [phalcon_cart](https://github.com/uno-de-piera/phalcon_cart) - Complete cart system for Phalcon PHP Framework
 * [phasty](https://github.com/chaban/phasty) - Shopping Cart on Phalcon PHP Framework
 * [Cashier](https://github.com/duythien/cashier) - Phalcon cashier
+* [Yona E-commerce](https://github.com/oleksandr-torosh/yona-ecommerce) - E-commerce CMF based on Phalcon PHP Framework
 
 ## SMS
 
@@ -384,4 +385,4 @@ Please take a quick gander at the [contribution guidelines](https://github.com/s
 * [Phalcon.io](http://phalcon.io) - Articles, tutorials, tips, documentation and much more
 * [Sitepoint](https://www.sitepoint.com/?s=phalcon) - Articles, tutorials and so more
 * [StackOverflow](https://stackoverflow.com/questions/tagged/phalcon) - StackOverflow Tagged Questions
-* [Tutsplus](https://code.tutsplus.com/categories/phalcon/course) - Tutsplus Code Courses
+* [Tutsplus](https://code.tutsplus.com/categories/phalcon/courses) - Tutsplus Code Courses
