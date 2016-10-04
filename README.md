@@ -43,7 +43,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/s
     - [Shopping](#shopping)
     - [SMS](#sms)
     - [Talks](#talks)
-    - [Template Engines](#template-engines)
+    - [Templating](#templating)
     - [Validators](#validators)
     - [Web Tools](#web-tools)
 
@@ -314,6 +314,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/s
 
 * [jade-phalcon](https://github.com/kylekatarnls/jade-phalcon) - Jade Template Engine for Phalcon PHP Framework
 * [phalcon-xslt-view-engine](https://github.com/racztiborzoltan/phalcon-xslt-view-engine) - Adapter to use XSLT as templating engine for Phalcon PHP Framework
+* [xgettext-template](https://github.com/gmarty/xgettext) - Extracts translatable strings from source. Identical to [xgettext(1)](http://www.gnu.org/software/gettext/manual/gettext.html#xgettext-Invocation) but for template languages.
 
 
 ## Validators
