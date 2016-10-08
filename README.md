@@ -9,7 +9,7 @@ A curated list of awesome Phalcon libraries and resources. Inspired by [awesome-
 
 ### Contributing
 
-Please take a quick gander at the [contribution guidelines](https://github.com/sergeyklay/awesome-phalcon/blob/master/CONTRIBUTING.md) first. Thanks to all [contributors](https://github.com/sergeyklay/awesome-phalcon/graphs/contributors); you rock!
+Please take a quick gander at the [contribution guidelines][contrib-1] first. Thanks to all [contributors][contrib-2]; you rock!
 
 [Join us on Slack](https://slack.phalconphp.com) to chat with other awesome-phalcon maintainers!
 
@@ -61,7 +61,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/s
 
 *Access control list.*
 
-* [PhalconUserPlugin](https://github.com/calinrada/PhalconUserPlugin) - Plugin based on Vokuro ACL idea
+* [PhalconUserPlugin](https://github.com/calinrada/PhalconUserPlugin) - Plugin based on Vökuró ACL idea
 
 
 ## Application Skeleton
@@ -114,7 +114,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/s
 
 *Command line applications & tools.*
 
-* [phalcon-console](https://github.com/viebig/phalcon-console) - Sample boostraping application for command line applications using the outstanding Phalcon PHP Framework
+* [phalcon-console](https://github.com/viebig/phalcon-console) - Sample bootstraping application for command line applications using the outstanding Phalcon PHP Framework
 * [phalcon-cron](https://github.com/SidRoberts/phalcon-cron) - Cron component for Phalcon
 * [phalcon_cron](https://github.com/temafey/phalcon_cron) - Cron manager library based on Phalcon PHP Framework
 * [php-cli-app-phalcon](https://github.com/jeteokeeffe/php-cli-app-phalcon) - Command Line Application built using Phalcon PHP Framework
@@ -184,6 +184,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/s
 *List of i18n and l10n libraries and services.*
 
 * [Phalcon Translate Service](https://github.com/stanislav-web/phalcon-translate) - Phalcon Translate Service. Simple way to translate your custom part of templates
+* [xgettext-template](https://github.com/gmarty/xgettext) - Extracts translatable strings from source. Identical to [xgettext(1)](http://www.gnu.org/software/gettext/manual/gettext.html#xgettext-Invocation) but for template languages.
 * [xgettext-volt](https://github.com/perchlayer/xgettext-webird) - Get translatable strings from templates into [Poedit](https://poedit.net/)
 
 
@@ -315,7 +316,6 @@ Please take a quick gander at the [contribution guidelines](https://github.com/s
 
 * [jade-phalcon](https://github.com/kylekatarnls/jade-phalcon) - Jade Template Engine for Phalcon PHP Framework
 * [phalcon-xslt-view-engine](https://github.com/racztiborzoltan/phalcon-xslt-view-engine) - Adapter to use XSLT as templating engine for Phalcon PHP Framework
-* [xgettext-template](https://github.com/gmarty/xgettext) - Extracts translatable strings from source. Identical to [xgettext(1)](http://www.gnu.org/software/gettext/manual/gettext.html#xgettext-Invocation) but for template languages.
 
 
 ## Validators
@@ -346,6 +346,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/s
 * [phalcon-compose](https://github.com/sergeyklay/phalcon-compose) - Open-source and community-driven boilerplate for Phalcon projects that run on Docker
 * [phalcon2-compose](https://github.com/linxlad/phalcon2-compose) - Docker Phalcon 2 development environment
 * [vagrant](https://github.com/phalcon/vagrant) - Simple Vagrant setup to get loaded with core development tools to build a powerful PHP application focused on Phalcon PHP Framework
+* [vagrant-dev](https://github.com/oscarmolinadev/vagrant-dev) - Environment for contribute all projects of Phalcon / Zephir
 
 # Resources
 
@@ -387,3 +388,6 @@ Please take a quick gander at the [contribution guidelines](https://github.com/s
 * [Sitepoint](https://www.sitepoint.com/?s=phalcon) - Articles, tutorials and so more
 * [StackOverflow](https://stackoverflow.com/questions/tagged/phalcon) - StackOverflow Tagged Questions
 * [Tutsplus](https://code.tutsplus.com/categories/phalcon/courses) - Tutsplus Code Courses
+
+[contrib-1]: https://github.com/sergeyklay/awesome-phalcon/blob/master/CONTRIBUTING.md
+[contrib-2]: https://github.com/sergeyklay/awesome-phalcon/graphs/contributors
