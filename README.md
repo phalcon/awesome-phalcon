@@ -346,6 +346,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/s
 * [phalcon-compose](https://github.com/sergeyklay/phalcon-compose) - Open-source and community-driven boilerplate for Phalcon projects that run on Docker
 * [phalcon2-compose](https://github.com/linxlad/phalcon2-compose) - Docker Phalcon 2 development environment
 * [vagrant](https://github.com/phalcon/vagrant) - Simple Vagrant setup to get loaded with core development tools to build a powerful PHP application focused on Phalcon PHP Framework
+* [vagrant-dev](https://github.com/oscarmolinadev/vagrant-dev) - Environment for contribute all projects of Phalcon / Zephir
 
 # Resources
 
