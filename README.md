@@ -103,7 +103,7 @@ Please take a quick gander at the [contribution guidelines][contrib-1] first. Th
 * [blog](https://github.com/duythien/blog) - Blog project with multi-lingual support
 * [giada-www](https://github.com/monocasual/giada-www) - Official website of [Giada Loop Machine](https://www.giadamusic.com/)
 * [phalconBlog](https://github.com/eristoddle/phalconBlog) - A blog using the Phalcon PHP Framework
-* [PhalconEye](https://github.com/PhalconEye/cms) - PhalconEye CMS
+* [PhalconEye](https://github.com/PhalconEye/phalconeye) - PhalconEye CMS
 * [Skopy Blog Engine](https://github.com/yuriygr/skopy) - A simple blog engine for those who want to start learning Phalcon
 * [Talon](https://github.com/adamdama/Talon) - CMS built on Phalcon PHP Framework
 * [Vegas CMF](https://github.com/vegas-cmf) - Vegas CMF for Phalcon PHP Framework
@@ -131,6 +131,7 @@ Please take a quick gander at the [contribution guidelines][contrib-1] first. Th
 
 *Debug & profiling tools.*
 
+* [dd](https://github.com/phalcongelist/dd) - This package will add the `dd` helper to your Phalcon application
 * [PDW](https://github.com/jymboche/phalcon-debug-widget) - Frontend Debugger for Phalcon Applications
 * [Phalcon Console](https://github.com/vanchelo/phalcon-console) - AJAX console to execute PHP code in the browser with light, the ability to save the last code execution
 * [Phalcon Debugbar](https://github.com/snowair/phalcon-debugbar) - Integrates [PHP Debug Bar](http://phpdebugbar.com) with Phalcon PHP Framework
@@ -383,7 +384,7 @@ Please take a quick gander at the [contribution guidelines][contrib-1] first. Th
 
 * [Blog Tutorial](https://github.com/phalcon/blog-tutorial) - Blog Tutorial (source code for [Blog Tutorial](https://blog.phalconphp.com/post/tutorial-your-first-encounter-with-phalcon-part-2))
 * [Phalcon Documentation](https://docs.phalconphp.com/en/latest/index.html) - Phalcon Documentation
-* [Phalcon Tips](http://phalcontip.com) - Phalcon Tips
+* [Phalcon Tips](https://phalcontip.com) - Phalcon Tips
 * [Phalcon.io](http://phalcon.io) - Articles, tutorials, tips, documentation and much more
 * [Sitepoint](https://www.sitepoint.com/?s=phalcon) - Articles, tutorials and so more
 * [StackOverflow](https://stackoverflow.com/questions/tagged/phalcon) - StackOverflow Tagged Questions
