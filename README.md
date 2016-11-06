@@ -131,6 +131,7 @@ Please take a quick gander at the [contribution guidelines][contrib-1] first. Th
 
 *Debug & profiling tools.*
 
+* [dd](https://github.com/phalcongelist/dd) - This package will add the `dd` helper to your Phalcon application
 * [PDW](https://github.com/jymboche/phalcon-debug-widget) - Frontend Debugger for Phalcon Applications
 * [Phalcon Console](https://github.com/vanchelo/phalcon-console) - AJAX console to execute PHP code in the browser with light, the ability to save the last code execution
 * [Phalcon Debugbar](https://github.com/snowair/phalcon-debugbar) - Integrates [PHP Debug Bar](http://phpdebugbar.com) with Phalcon PHP Framework
