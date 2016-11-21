@@ -187,7 +187,7 @@ Please take a quick gander at the [contribution guidelines][contrib-1] first. Th
 
 * [Phalcon Translate Service](https://github.com/stanislav-web/phalcon-translate) - Phalcon Translate Service. Simple way to translate your custom part of templates
 * [xgettext-template](https://github.com/gmarty/xgettext) - Extracts translatable strings from template source. Identical to [xgettext](http://www.gnu.org/software/gettext/manual/gettext.html#xgettext-Invocation) but for template languages.
-* [xgettext-volt](https://github.com/perchlayer/xgettext-volt) - Volt language parser for xgettext-template.
+* [gettext-volt](https://github.com/perchlayer/gettext-volt) - Volt language parser for xgettext-template.
 
 
 ## Integration
