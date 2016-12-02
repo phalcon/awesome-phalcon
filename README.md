@@ -320,7 +320,7 @@ Please take a quick gander at the [contribution guidelines][contrib-1] first. Th
 
 * [jade-phalcon](https://github.com/kylekatarnls/jade-phalcon) - Jade Template Engine for Phalcon PHP Framework
 * [phalcon-xslt-view-engine](https://github.com/racztiborzoltan/phalcon-xslt-view-engine) - Adapter to use XSLT as templating engine for Phalcon PHP Framework
-
+* [twig-phalcon](https://github.com/vinyvicente/phalcon-twig) - Twig Template Engine for Phalcon PHP Framework
 
 ## Validators
 
