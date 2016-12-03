@@ -85,7 +85,7 @@ Please take a quick gander at the [contribution guidelines][contrib-1] first. Th
 * [Slayer](https://github.com/phalconslayer/slayer) - Slayer a re-structured phalcon framework that supports modular applications and inspired with Symfony, Laravel and Ruby on Rails folder structure
 * [Vökuró](https://github.com/phalcon/vokuro) - Sample application for Phalcon PHP Framework (Acl, Auth, Security)
 * [Webird](https://github.com/perchlayer/webird) - Webird was created to merge the latest PHP and Node.js innovations into a single application stack
-* [phalconMvc](https://github.com/kcloze/phalconMvc) - a simple Phalcon skeleton with sub controller,cli,mvc +service 
+* [phalconMvc](https://github.com/kcloze/phalconMvc) - a simple Phalcon skeleton with sub controller,cli,mvc +service
 
 
 
@@ -186,8 +186,7 @@ Please take a quick gander at the [contribution guidelines][contrib-1] first. Th
 *List of i18n and l10n libraries and services.*
 
 * [Phalcon Translate Service](https://github.com/stanislav-web/phalcon-translate) - Phalcon Translate Service. Simple way to translate your custom part of templates
-* [xgettext-template](https://github.com/gmarty/xgettext) - Extracts translatable strings from template source. Identical to [xgettext](http://www.gnu.org/software/gettext/manual/gettext.html#xgettext-Invocation) but for template languages.
-* [gettext-volt](https://github.com/perchlayer/gettext-volt) - Volt language parser for xgettext-template.
+* [xgettext-template](https://github.com/gmarty/xgettext) - Extract gettext messages from Volt templates using a command line program that is identical to the [xgettext invocation](http://www.gnu.org/software/gettext/manual/gettext.html#xgettext-Invocation).
 
 
 ## Integration
