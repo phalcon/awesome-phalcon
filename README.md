@@ -96,6 +96,7 @@ Please take a quick gander at the [contribution guidelines][contrib-1] first. Th
 * [phalcon-authmiddleware](https://github.com/SidRoberts/phalcon-authmiddleware) - Add middleware events to the dispatcher. Generic design that's compatible with ACL or a custom auth library.
 * [phalcon-oauth2-server](https://github.com/nueko/phalcon-oauth2-server) - Phalcon wrapper for oAuth2 [thephpleague/oauth2-server](https://github.com/thephpleague/oauth2-server)
 
+
 ## CMS & Blogs
 
 *Content management systems & blogs.*
@@ -165,13 +166,6 @@ Please take a quick gander at the [contribution guidelines][contrib-1] first. Th
 * [Phact](https://github.com/wandersonwhcr/phact) -  A Simple Event Propagation with Phalcon PHP Framework
 
 
-## Exception
-
-*Exception and error handlers.*
-
-* [Pretty Exceptions](https://github.com/phalcon/pretty-exceptions) - Utility to show exceptions/errors/warnings/notices using a nicely visualization.
-
-
 ## Forms
 
 *Libraries for working with forms.*
@@ -229,11 +223,13 @@ Please take a quick gander at the [contribution guidelines][contrib-1] first. Th
 * [PhalconPoll](https://github.com/touhonoob/PhalconPoll) - Simple PHP Poll Service Built With Phalcon PHP Framework + MySQL + Redis
 * [Phalcony](https://github.com/ovr/phalcony) - Library for expansion the base functional of Phalcon PHP Framework
 
+
 ## Networking
 
 *Libraries for working with various layers of the network*
 
 * [phalcon-expressive](https://github.com/theDisco/phalcon-expressive) - Phalcon 2 integration for Zend Expressive
+
 
 ## ORM
 
@@ -297,6 +293,7 @@ Please take a quick gander at the [contribution guidelines][contrib-1] first. Th
 * [Cashier](https://github.com/duythien/cashier) - Phalcon cashier
 * [Yona E-commerce](https://github.com/oleksandr-torosh/yona-ecommerce) - E-commerce CMF based on Phalcon PHP Framework
 
+
 ## SMS
 
 *SMS services & libraries.*
@@ -322,6 +319,7 @@ Please take a quick gander at the [contribution guidelines][contrib-1] first. Th
 * [phalcon-xslt-view-engine](https://github.com/racztiborzoltan/phalcon-xslt-view-engine) - Adapter to use XSLT as templating engine for Phalcon PHP Framework
 * [twig-phalcon](https://github.com/vinyvicente/phalcon-twig) - Twig Template Engine for Phalcon PHP Framework
 
+
 ## Validators
 
 *ORM and Forms validators.*
@@ -341,6 +339,7 @@ Please take a quick gander at the [contribution guidelines][contrib-1] first. Th
 
 
 # Server Applications
+
 * [ansible-phalcon-role](https://github.com/sarrubia/ansible-phalcon-role) - Ansible Role to install Phalcon PHP Framework in Debian/Ubuntu
 * [ansible-phalcon](https://github.com/HanXHX/ansible-phalcon) - Ansible Role to install Phalcon PHP Framework in Debian (provides PHP 5.6 and PHP 7.0 packages)
 * [packagecloud](https://github.com/phalcongelist/packagecloud) - Phalcon distribution hosted on PackageCloud
@@ -353,6 +352,7 @@ Please take a quick gander at the [contribution guidelines][contrib-1] first. Th
 * [phalcon2-compose](https://github.com/linxlad/phalcon2-compose) - Docker Phalcon 2 development environment
 * [vagrant](https://github.com/phalcon/vagrant) - Simple Vagrant setup to get loaded with core development tools to build a powerful PHP application focused on Phalcon PHP Framework
 * [vagrant-dev](https://github.com/oscarmolinadev/vagrant-dev) - Environment for contribute all projects of Phalcon / Zephir
+
 
 # Resources
 
