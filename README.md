@@ -351,7 +351,7 @@ Please take a quick gander at the [contribution guidelines][contrib-1] first. Th
 * [phalcon-vm](https://github.com/eugene-manuilov/phalcon-vm) - Vagrant configuration for Phalcon 3.x and PHP7.0 development + MySQL/PostgreSQL/MongoDB, Redis/Memcached, Gearman/RabbitMQ, Elasticsearch/Sphinxsearch on your choice
 * [phalcon2-compose](https://github.com/linxlad/phalcon2-compose) - Docker Phalcon 2 development environment
 * [vagrant](https://github.com/phalcon/vagrant) - Simple Vagrant setup to get loaded with core development tools to build a powerful PHP application focused on Phalcon PHP Framework
-* [vagrant-dev](https://github.com/oscarmolinadev/vagrant-dev) - Environment for contribute all projects of Phalcon / Zephir
+* [phalcon-vagrant-dev](https://github.com/oscarmolinadev/phalcon-vagrant-dev) - Environment for contribute all projects of Phalcon / Zephir
 
 
 # Resources
