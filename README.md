@@ -182,6 +182,7 @@ Please take a quick gander at the [contribution guidelines][contrib-1] first. Th
 
 * [Phalcon Translate Service](https://github.com/stanislav-web/phalcon-translate) - Phalcon Translate Service. Simple way to translate your custom part of templates
 * [xgettext-template](https://github.com/gmarty/xgettext) - Extract gettext messages from Volt templates using a command line program that is identical to the [xgettext invocation](http://www.gnu.org/software/gettext/manual/gettext.html#xgettext-Invocation).
+* [Phalcon Translation Module](https://github.com/uLow/phalcon-translate) - Phalcon Translation Module. Easy way to have translations for your projects. Includes volt integration.
 
 
 ## Integration
