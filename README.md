@@ -148,7 +148,6 @@ Please take a quick gander at the [contribution guidelines][contrib-1] first. Th
 * [phalcon-autoload-services](https://github.com/JimmDiGrizli/phalcon-autoload-services) - Components for automatic registration services in Dependency Injection
 * [phalcon-service-loader](https://github.com/serebro/phalcon-service-loader) - Service loader for Phalcon PHP Framework
 * [pidic](https://github.com/phalette/pidic) - Nette Dependency Injection/Container for Phalcon
-* [Prs\Di](https://github.com/phalcongelist/psr-di) - A PSR-11 compatible Dependency Injection/Service Location component for Phalcon projects
 
 
 ## Docs
@@ -189,7 +188,7 @@ Please take a quick gander at the [contribution guidelines][contrib-1] first. Th
 
 *Integration with third party services*
 
-* [phalcon-logentries](https://github.com/sergeyklay/phalcon-logentries) - Sends log messages to the [Logentries](https://logentries.com/) log management service
+* [phalcon-logentries](https://github.com/phalcon/phalcon-logentries) - Sends log messages to the [Logentries](https://logentries.com/) log management service
 
 ## Mail
 
@@ -347,7 +346,7 @@ Please take a quick gander at the [contribution guidelines][contrib-1] first. Th
 * [perfect-php-vagrant](https://github.com/ovr/perfect-php-vagrant) - Web development Vagrant machine with PHP + Phalcon/Lynx/Zephir, Nginx, Node+Bower/Gulp/Grunt
 * [phalcon-ansible](https://github.com/ch3k1/phalcon-ansible) - Install Phalcon using Vagrant and Ansible playbook
 * [phalcon-ci-installer](https://github.com/techpivot/phalcon-ci-installer) - Composer integration for PHP applications to install the Phalcon framework as an extension in the PHP runtime for various hosted CI services
-* [phalcon-compose](https://github.com/sergeyklay/phalcon-compose) - Open-source and community-driven boilerplate for Phalcon projects that run on Docker
+* [phalcon-compose](https://github.com/phalcon/phalcon-compose) - Open-source and community-driven boilerplate for Phalcon projects that run on Docker
 * [phalcon-docker-nginx](https://github.com/viebig/phalcon-docker-nginx) - Phalcon 3, PHP7, Docker sample starter application
 * [phalcon-vm](https://github.com/eugene-manuilov/phalcon-vm) - Vagrant configuration for Phalcon 3.x and PHP7.0 development + MySQL/PostgreSQL/MongoDB, Redis/Memcached, Gearman/RabbitMQ, Elasticsearch/Sphinxsearch on your choice
 * [phalcon2-compose](https://github.com/linxlad/phalcon2-compose) - Docker Phalcon 2 development environment
