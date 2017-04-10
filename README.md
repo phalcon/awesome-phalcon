@@ -212,7 +212,7 @@ Please take a quick gander at the [contribution guidelines][contrib-1] first. Th
 
 *These libraries were placed here because none of the other categories seemed to fit*
 
-* [Breadcrumbs](https://github.com/phalcongelist/breadcrumbs) - Powerful and flexible component for building site breadcrumbs in Phalcon 2+.
+* [Breadcrumbs](https://github.com/phalcon/breadcrumbs) - Powerful and flexible component for building site breadcrumbs in Phalcon 2+.
 * [Feedback](https://quasipickle.github.io/feedback/) - Is intended to be used as a replacement for Phalcon's built-in Flash and Message functionality
 * [Incubator](https://github.com/phalcon/incubator) - Repository to publish/share/experiment with new adapters, prototypes or functionality that can potentially be incorporated into the Phalcon PHP Framework
 * [Phalcon Enterprise](https://github.com/techpivot/phalcon-enterprise) - Provides extended enterprise functionality for the Phalcon PHP framework
