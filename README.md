@@ -381,7 +381,7 @@ Please take a quick gander at the [contribution guidelines][contrib-1] first. Th
 
 * [Built With](https://builtwith.phalconphp.com/) - Gallery of applications, demos and projects built with Phalcon PHP Framework
 * [Phalcon Blog](https://blog.phalconphp.com/) - Phalcon Blog
-* [Phalconist](https://github.com/phalconist/phalconist) - Resources catalog for Phalcon PHP Framework on [Phalconist](https://phalconist.com/)
+* [Phalconist](https://github.com/phalcon/phalconist) - Resources catalog for Phalcon PHP Framework on [Phalconist](https://phalconist.com/)
 
 
 ### Tutorials
