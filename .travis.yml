@@ -13,6 +13,8 @@ cache:
     timeout: 691200
     directories:
         - vendor/bundle
+        - $GOPATH/src
+        - $GOPATH/pkg
 
 install:
     - gem install awesome_bot
