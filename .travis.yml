@@ -4,23 +4,28 @@ sudo: false
 dist: trusty
 
 go:
-  - 1.7
+    - 1.7
 
 git:
-  depth: 1
+    depth: 1
+
+cache:
+    timeout: 691200
+    directories:
+        - vendor/bundle
 
 install:
-  - gem install awesome_bot
-  - go get github.com/russross/blackfriday
-  - go get github.com/PuerkitoBio/goquery
-  - go get github.com/gorilla/mux
+    - gem install awesome_bot
+    - go get github.com/russross/blackfriday
+    - go get github.com/PuerkitoBio/goquery
+    - go get github.com/gorilla/mux
 
 script:
-  - awesome_bot README.md
+    - awesome_bot README.md
 
 notifications:
-  email:
-    recipients:
-      - serghei@phalconphp.com
-    on_success: change
-    on_failure: always
+    email:
+        recipients:
+            - bild@phalconphp.com
+        on_success: change
+        on_failure: always
