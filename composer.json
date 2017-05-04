@@ -1,19 +1,34 @@
 {
-  "name": "sergeyklay/awesome-phalcon",
-  "type": "library",
-  "description": "A curated list of awesome Phalcon libraries and resources",
-  "homepage": "https://github.com/sergeyklay/awesome-phalcon",
-  "keywords": ["phalcon", "libraries", "resources", "links", "doc"],
-  "license": "MIT",
-  "authors": [
-    {
-      "name": "Serghei Iakovlev",
-      "email": "serghei@phalconphp.com",
-      "role": "maintainer"
-    },
-    {
-      "name": "Contributors",
-      "homepage": "https://github.com/sergeyklay/awesome-phalcon/graphs/contributors"
+    "name": "phalcon/awesome-phalcon",
+    "type": "library",
+    "description": "A curated list of awesome Phalcon libraries and resources",
+    "homepage": "https://github.com/phalcon/awesome-phalcon",
+    "keywords": [
+        "phalcon",
+        "libraries",
+        "resources",
+        "awesome",
+        "links",
+        "list",
+        "doc"
+    ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Phalcon Team",
+            "email": "team@phalconphp.com",
+            "homepage": "http://phalconphp.com/en/team"
+        },
+        {
+            "name": "Contributors",
+            "homepage": "https://github.com/phalcon/awesome-phalcon/graphs/contributors"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/phalcon/awesome-phalcon/issues",
+        "source": "https://github.com/phalcon/awesome-phalcon",
+        "forum": "https://forum.phalconphp.com/",
+        "docs": "https://docs.phalconphp.com/",
+        "rss" : "https://blog.phalconphp.com/rss"
     }
-  ]
 }

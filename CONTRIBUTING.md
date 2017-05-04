@@ -1,4 +1,4 @@
-This resource was made by the Phalcon community and wouldn't be possible without you! We appreciate and recognize all [contributors](https://github.com/sergeyklay/awesome-phalcon/graphs/contributors).
+This resource was made by the Phalcon community and wouldn't be possible without you! We appreciate and recognize all [contributors](https://github.com/phalcon/awesome-phalcon/graphs/contributors).
 
 
 # Contribution Guidelines
