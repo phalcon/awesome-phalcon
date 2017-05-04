@@ -1,7 +1,7 @@
 # Awesome Phalcon
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-[![Build Status](https://api.travis-ci.org/sergeyklay/awesome-phalcon.svg?branch=master)](https://travis-ci.org/sergeyklay/awesome-phalcon)
+[![Build Status](https://api.travis-ci.org/phalcon/awesome-phalcon.svg?branch=master)](https://travis-ci.org/phalcon/awesome-phalcon)
 
 
 A curated list of awesome Phalcon libraries and resources. Inspired by [awesome-go](https://github.com/avelino/awesome-go).
@@ -403,5 +403,5 @@ Please take a quick gander at the [contribution guidelines][contrib-1] first. Th
 * [StackOverflow](https://stackoverflow.com/questions/tagged/phalcon) - StackOverflow Tagged Questions
 * [Tutsplus](https://code.tutsplus.com/categories/phalcon/courses) - Tutsplus Code Courses
 
-[contrib-1]: https://github.com/sergeyklay/awesome-phalcon/blob/master/CONTRIBUTING.md
-[contrib-2]: https://github.com/sergeyklay/awesome-phalcon/graphs/contributors
+[contrib-1]: https://github.com/phalcon/awesome-phalcon/blob/master/CONTRIBUTING.md
+[contrib-2]: https://github.com/phalcon/awesome-phalcon/graphs/contributors
