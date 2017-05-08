@@ -9,7 +9,7 @@ A curated list of awesome Phalcon libraries and resources. Inspired by [awesome-
 
 ### Contributing
 
-Please take a quick gander at the [contribution guidelines][contrib-1] first. Thanks to all [contributors][contrib-2]; you rock!
+Please take a quick gander at the [contribution guidelines](CONTRIBUTING.md) first. Thanks to all [contributors](https://github.com/phalcon/awesome-phalcon/graphs/contributors); you rock!
 
 Join us on [Slack](https://slack.phalconphp.com) or [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other awesome-phalcon maintainers!
 
@@ -400,6 +400,3 @@ Join us on [Slack](https://slack.phalconphp.com) or [Discord](https://discordapp
 * [Sitepoint](https://www.sitepoint.com/?s=phalcon) - Articles, tutorials and so more
 * [StackOverflow](https://stackoverflow.com/questions/tagged/phalcon) - StackOverflow Tagged Questions
 * [Tutsplus](https://code.tutsplus.com/categories/phalcon/courses) - Tutsplus Code Courses
-
-[contrib-1]: https://github.com/phalcon/awesome-phalcon/blob/master/CONTRIBUTING.md
-[contrib-2]: https://github.com/phalcon/awesome-phalcon/graphs/contributors
