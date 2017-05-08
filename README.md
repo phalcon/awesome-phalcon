@@ -11,7 +11,7 @@ A curated list of awesome Phalcon libraries and resources. Inspired by [awesome-
 
 Please take a quick gander at the [contribution guidelines][contrib-1] first. Thanks to all [contributors][contrib-2]; you rock!
 
-[Join us on Slack](https://slack.phalconphp.com) to chat with other awesome-phalcon maintainers!
+Join us on [Slack](https://slack.phalconphp.com) or [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other awesome-phalcon maintainers!
 
 
 ### Contents
