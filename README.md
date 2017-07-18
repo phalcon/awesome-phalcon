@@ -11,7 +11,7 @@ A curated list of awesome Phalcon libraries and resources. Inspired by [awesome-
 
 Please take a quick gander at the [contribution guidelines](CONTRIBUTING.md) first. Thanks to all [contributors](https://github.com/phalcon/awesome-phalcon/graphs/contributors); you rock!
 
-Join us on [Slack](https://slack.phalconphp.com) or [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other awesome-phalcon maintainers!
+Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other awesome-phalcon maintainers!
 
 
 ### Contents
@@ -394,7 +394,7 @@ Join us on [Slack](https://slack.phalconphp.com) or [Discord](https://discordapp
 ### Tutorials
 
 * [Blog Tutorial](https://github.com/phalcon/blog-tutorial) - Blog Tutorial (source code for [Blog Tutorial](https://blog.phalconphp.com/post/tutorial-your-first-encounter-with-phalcon-part-2))
-* [Phalcon Documentation](https://docs.phalconphp.com/en/latest/index.html) - Phalcon Documentation
+* [Phalcon Documentation](https://docs.phalconphp.com/en/latest) - Phalcon Documentation
 * [Phalcon Tips](https://phalcontip.com) - Phalcon Tips
 * [Phalcon.io](http://phalcon.io) - Articles, tutorials, tips, documentation and much more
 * [Sitepoint](https://www.sitepoint.com/?s=phalcon) - Articles, tutorials and so more
