@@ -35,6 +35,7 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
     - [Miscellaneous](#miscellaneous)
     - [Networking](#networking)
     - [ORM](#orm)
+    - [ODM](#odm)
     - [RESTful](#restful)
     - [Routing](#routing)
     - [Scaffolding](#scaffolding)
@@ -238,6 +239,11 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 * [phalcon-mssql](https://github.com/fishjerky/phalcon-mssql) - A Phalcon PHP Framework MSSQL PDO db adapter
 * [phalcon-seeder](https://github.com/SidRoberts/phalcon-seeder) - Database seeder component for Phalcon
 
+## ODM
+
+*Libraries that implement Object-Document Mapper techniques.*
+
+[phalcon-collection-paginator](https://github.com/angelxmoreno/phalcon-collection-paginator) - A [pagination adapter](https://olddocs.phalconphp.com/en/3.0.0/reference/pagination.html#data-adapters) for classes that extend `Phalcon\Mvc\Collection`
 
 ## RESTful
 
