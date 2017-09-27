@@ -127,6 +127,7 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 *Admin Panels & Dashboards.*
 
 * [dasshy](https://github.com/phalcon/dasshy) - Statistics dashboard with Mongo/Phalcon
+* [PhalconTime](https://github.com/Videles/PhalconTime) - TimeKeeping tool / Dashboard skeleton
 
 
 ## Debug
