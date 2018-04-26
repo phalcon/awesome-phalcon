@@ -53,7 +53,6 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 - [Resources](#resources)
     - [Conferences](#conferences)
     - [E-Books](#e-books)
-    - [Twitter](#twitter)
     - [Websites](#websites)
         - [Tutorials](#tutorials)
 
