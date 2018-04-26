@@ -314,7 +314,7 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 
 * [phalcon-chat](https://github.com/sintsov/phalcon-chat) - Sample classic chat development using Phalcon PHP Framework
 * [phalcon-tip](https://github.com/duythien/phalcon-tip) - The source for code Phalcon Tip website
-* [phanbook](https://github.com/phanbook/phanbook/) - The source for code phanbook.com website
+* [Phanbook](https://github.com/phanbook/phanbook/) - The source for code phanbook.com website
 * [Phosphorum](https://github.com/phalcon/forum) - The source for official Phalcon Forum
 
 
@@ -377,19 +377,17 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 
 *Conferences, IRC, Forums, etc..*
 
+* [Facebook](https://www.facebook.com/Phalcon-Framework-134230726685897) - Phalcon on Facebook
+* [Gab.ai](https://gab.ai/phalcon) - Phalcon on Gab.ai
+* [Google+](https://plus.google.com/+PhalconPHP) - Phalcon on Google+
 * [Phalcon Forums](https://forum.phalconphp.com/) - Phalcon Forums
 * [Phalcon Russian Community Chat](https://gitter.im/phalcon-rus/chat) - Russian Community Chat in Gitter.im
-* [Phanbook](http://phanbook.com/en/) - A platform for community discussion, answer question and more
-
+* [Stack Overflow](https://stackoverflow.com/questions/tagged/phalcon) - StackOverflow Tagged Questions
+* [Twitter](https://twitter.com/phalconphp) - Phalcon on Twitter
 
 ## E-Books
 
 * [Phalcon PDF Documentation](https://media.readthedocs.org/pdf/phalcon-php-framework-documentation/latest/phalcon-php-framework-documentation.pdf) - Phalcon PHP Framework Documentation
-
-
-## Twitter
-
-* [@phalconphp](https://twitter.com/phalconphp) - Phalcon Twitter
 
 
 ## Websites
@@ -406,5 +404,4 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 * [Phalcon Tips](https://phalcontip.com) - Phalcon Tips
 * [Phalcon.io](http://phalcon.io) - Articles, tutorials, tips, documentation and much more
 * [Sitepoint](https://www.sitepoint.com/?s=phalcon) - Articles, tutorials and so more
-* [StackOverflow](https://stackoverflow.com/questions/tagged/phalcon) - StackOverflow Tagged Questions
 * [Tutsplus](https://code.tutsplus.com/categories/phalcon/courses) - Tutsplus Code Courses
