@@ -239,6 +239,7 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 
 * [phalcon-boundmodels](https://github.com/SidRoberts/phalcon-boundmodels) - Automatically get models based on dispatcher parameters within the Phalcon framework
 * [phalcon-mssql](https://github.com/fishjerky/phalcon-mssql) - A Phalcon PHP Framework MSSQL PDO db adapter
+* [phalcon-repositories](https://github.com/micheleangioni/phalcon-repositories) - Easy Repository pattern for Phalcon
 * [phalcon-seeder](https://github.com/SidRoberts/phalcon-seeder) - Database seeder component for Phalcon
 
 ## ODM
