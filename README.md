@@ -67,23 +67,23 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 
 *Various application skeletons.*
 
-* [Album O'Rama](https://github.com/phalcon/album-o-rama) - Sample modular application for the Phalcon PHP Framework
-* [Base App](https://github.com/mruz/base-app) - The base application in Phalcon PHP Framework
-* [INVO Application](https://github.com/phalcon/invo) - Sample application for the Phalcon PHP Framework
+* [Album O'Rama](https://github.com/phalcon/album-o-rama) - Sample modular application for the Phalcon Framework
+* [Base App](https://github.com/mruz/base-app) - The base application in Phalcon Framework
+* [INVO Application](https://github.com/phalcon/invo) - Sample application for the Phalcon Framework
 * [Lightning](https://github.com/zxz054321/lightning/) - Lightning is a high performance framework with elegant syntax that sits on top of Phalcon.
 * [MVC](https://github.com/phalcon/mvc) - Examples of Phalcon MVC file structures
 * [nest](https://github.com/nexik/nest) - Phalcon SOLID Bootstrap for Rapid Application Development
-* [phalanx](https://github.com/Swader/phalanx) - A starter app with Phalcon PHP Framework and Angular
+* [phalanx](https://github.com/Swader/phalanx) - A starter app with Phalcon Framework and Angular
 * [Phalcon Boilerplate](https://github.com/mikegioia/phalcon-boilerplate) - Template for building large-scale Phalcon Applications
 * [Phalcon Composer](https://github.com/xxtime/phalcon) - Phalcon with Composer support MySql MongoDb Redis, clean + beauty
-* [Phalcon Framework App](https://github.com/eristoddle/phalcon-gumby2-experiment) - A project currently using Phalcon PHP Framework and Gumby 2 for RAD
+* [Phalcon Framework App](https://github.com/eristoddle/phalcon-gumby2-experiment) - A project currently using Phalcon Framework and Gumby 2 for RAD
 * [Phalcon HMVC Skeleton](https://github.com/zekiunal/PhalconHMVCSkeletonApplication) - Phalcon HMVC Skeleton with Mustache
 * [Phalcon Jumpstart](https://github.com/nguyenducduy/phalcon-jumpstart) - Fast development web apps with CRUD code generator
-* [Phalcon Module Skeleton](https://github.com/ovr/phalcon-module-skeleton) - Application template for building beauty applications on Phalcon PHP Framework
+* [Phalcon Module Skeleton](https://github.com/ovr/phalcon-module-skeleton) - Application template for building beauty applications on Phalcon Framework
 * [phalcon.angular.bootstrap](https://github.com/zhegwood/phalcon.angular.bootstrap) - Boilerplate for a non single page implementation of Angular, Phalcon, and Bootstrap
-* [PhalconPHP-Setup-Example](https://github.com/ewartx/PhalconPHP-Setup-Example) - Phalcon PHP Framework + Grunt + Composer + Bower
-* [Solid Layer](https://github.com/solid-layer/solid-layer) - A framework/large wrapper built under Phalcon PHP Framework
-* [Vökuró](https://github.com/phalcon/vokuro) - Sample application for Phalcon PHP Framework (Acl, Auth, Security)
+* [PhalconPHP-Setup-Example](https://github.com/ewartx/PhalconPHP-Setup-Example) - Phalcon Framework + Grunt + Composer + Bower
+* [Solid Layer](https://github.com/solid-layer/solid-layer) - A framework/large wrapper built under Phalcon Framework
+* [Vökuró](https://github.com/phalcon/vokuro) - Sample application for Phalcon Framework (Acl, Auth, Security)
 * [Webird](https://github.com/perchlayer/webird) - Webird was created to merge the latest PHP and Node.js innovations into a single application stack
 * [phalconMvc](https://github.com/kcloze/phalconMvc) - a simple Phalcon skeleton with sub controller,cli,mvc +service
 
@@ -104,23 +104,23 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 
 * [blog](https://github.com/duythien/blog) - Blog project with multi-lingual support
 * [giada-www](https://github.com/monocasual/giada-www) - Official website of [Giada Loop Machine](https://www.giadamusic.com/)
-* [phalconBlog](https://github.com/eristoddle/phalconBlog) - A blog using the Phalcon PHP Framework
+* [phalconBlog](https://github.com/eristoddle/phalconBlog) - A blog using the Phalcon Framework
 * [PhalconEye](https://github.com/PhalconEye/phalconeye) - PhalconEye CMS
 * [Skopy Blog Engine](https://github.com/yuriygr/skopy) - A simple blog engine for those who want to start learning Phalcon
-* [Talon](https://github.com/adamdama/Talon) - CMS built on Phalcon PHP Framework
-* [Vegas CMF](https://github.com/vegas-cmf) - Vegas CMF for Phalcon PHP Framework
-* [Yona CMS](https://github.com/oleksandr-torosh/yona-cms) - CMS based on Phalcon PHP Framework with modular structure
-* [PhalconCMS](https://github.com/KevinJay/PhalconCMS) - A blog built on Phalcon PHP Framework
+* [Talon](https://github.com/adamdama/Talon) - CMS built on Phalcon Framework
+* [Vegas CMF](https://github.com/vegas-cmf) - Vegas CMF for Phalcon Framework
+* [Yona CMS](https://github.com/oleksandr-torosh/yona-cms) - CMS based on Phalcon Framework with modular structure
+* [PhalconCMS](https://github.com/KevinJay/PhalconCMS) - A blog built on Phalcon Framework
 
 
 ## Command Line
 
 *Command line applications & tools.*
 
-* [phalcon-console](https://github.com/viebig/phalcon-console) - Sample bootstraping application for command line applications using the outstanding Phalcon PHP Framework
+* [phalcon-console](https://github.com/viebig/phalcon-console) - Sample bootstraping application for command line applications using the outstanding Phalcon Framework
 * [phalcon-cron](https://github.com/SidRoberts/phalcon-cron) - Cron component for Phalcon
-* [phalcon_cron](https://github.com/temafey/phalcon_cron) - Cron manager library based on Phalcon PHP Framework
-* [php-cli-app-phalcon](https://github.com/jeteokeeffe/php-cli-app-phalcon) - Command Line Application built using Phalcon PHP Framework
+* [phalcon_cron](https://github.com/temafey/phalcon_cron) - Cron manager library based on Phalcon Framework
+* [php-cli-app-phalcon](https://github.com/jeteokeeffe/php-cli-app-phalcon) - Command Line Application built using Phalcon Framework
 
 
 ## Dashboard
@@ -138,7 +138,7 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 * [dd](https://github.com/phalcon/dd) - This package will add the `dd` and `dump` helpers to your Phalcon application
 * [PDW](https://github.com/jymboche/phalcon-debug-widget) - Frontend Debugger for Phalcon Applications
 * [Phalcon Console](https://github.com/vanchelo/phalcon-console) - AJAX console to execute PHP code in the browser with light, the ability to save the last code execution
-* [Phalcon Debugbar](https://github.com/snowair/phalcon-debugbar) - Integrates [PHP Debug Bar](http://phpdebugbar.com) with Phalcon PHP Framework
+* [Phalcon Debugbar](https://github.com/snowair/phalcon-debugbar) - Integrates [PHP Debug Bar](http://phpdebugbar.com) with Phalcon Framework
 * [Phalcon Whoops](https://github.com/whoops-php/phalcon) - Integrating [Whoops](https://filp.github.io/whoops/) with Phalcon
 * [Prophiler](https://github.com/fabfuel/prophiler) - PHP Profiler & Developer Toolbar (built for Phalcon)
 
@@ -148,7 +148,7 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 *Dependency Injection.*
 
 * [phalcon-autoload-services](https://github.com/JimmDiGrizli/phalcon-autoload-services) - Components for automatic registration services in Dependency Injection
-* [phalcon-service-loader](https://github.com/serebro/phalcon-service-loader) - Service loader for Phalcon PHP Framework
+* [phalcon-service-loader](https://github.com/serebro/phalcon-service-loader) - Service loader for Phalcon Framework
 * [pidic](https://github.com/phalette/pidic) - Nette Dependency Injection/Container for Phalcon
 
 
@@ -164,7 +164,7 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 
 *Event management.*
 
-* [Phact](https://github.com/wandersonwhcr/phact) -  A Simple Event Propagation with Phalcon PHP Framework
+* [Phact](https://github.com/wandersonwhcr/phact) -  A Simple Event Propagation with Phalcon Framework
 
 
 ## Forms
@@ -172,7 +172,7 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 *Libraries for working with forms.*
 
 * [Phalcon Preserve Post](https://github.com/JREAM/phalcon-preserve-post) - Preserve Form Data after a `POST` and redirect
-* [phalcon-form-decorators](https://github.com/Michal-St/phalcon-form-decorators) - Form decorators to Phalcon PHP Framework
+* [phalcon-form-decorators](https://github.com/Michal-St/phalcon-form-decorators) - Form decorators to Phalcon Framework
 * [phalconCssForm](https://github.com/Zheness/phalconCssForm) - Generate a form with a CSS Framework (Bootstrap, Foundation, Pure, etc.)
 * [Superform](https://github.com/encodez/superform) - Simple way to create and validate Phalcon 2 form inspired by the Laravel request
 
@@ -199,14 +199,14 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 * [Phalcon Mailer](https://github.com/vanchelo/phalcon-mailer) - Phalcon Mailer Service
 * [Phalcon Mailer](https://github.com/phalcon-ext/mailer) - Mailer component wrapper over SwiftMailer for Phalcon Framework
 * [phalconphp-mandrill](https://bitbucket.org/tartan/phalconphp-mandrill) - Mandrill wrapper for Phalcon Framework
-* [sendmail](https://github.com/duythien/sendmail) - Sending Confirmation Emails with Phalcon PHP Framework and Swift
+* [sendmail](https://github.com/duythien/sendmail) - Sending Confirmation Emails with Phalcon Framework and Swift
 
 
 ## Media
 
 *Libraries for manipulating images & other media.*
 
-* [nova](https://github.com/nohatssir/nova) - A media manager project in PHP and Phalcon PHP Framework
+* [nova](https://github.com/nohatssir/nova) - A media manager project in PHP and Phalcon Framework
 * [Phalcon File Uploader](https://github.com/stanislav-web/phalcon-uploader) - Handling and downloading files for Phalcon projects. Allowed multiple files, filters etc
 
 
@@ -216,13 +216,13 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 
 * [Breadcrumbs](https://github.com/phalcon/breadcrumbs) - Powerful and flexible component for building site breadcrumbs in Phalcon 2+.
 * [Feedback](https://quasipickle.github.io/feedback/) - Is intended to be used as a replacement for Phalcon's built-in Flash and Message functionality
-* [Incubator](https://github.com/phalcon/incubator) - Repository to publish/share/experiment with new adapters, prototypes or functionality that can potentially be incorporated into the Phalcon PHP Framework
-* [Phalcon Enterprise](https://github.com/techpivot/phalcon-enterprise) - Provides extended enterprise functionality for the Phalcon PHP framework
+* [Incubator](https://github.com/phalcon/incubator) - Repository to publish/share/experiment with new adapters, prototypes or functionality that can potentially be incorporated into the Phalcon Framework
+* [Phalcon Enterprise](https://github.com/techpivot/phalcon-enterprise) - Provides extended enterprise functionality for the Phalcon framework
 * [phalcon-recaptcha](https://github.com/kahurangitama/phalcon-recaptcha) - Minimalist wrapper with which you can easily integrate reCAPTCHA
 * [phalcon-widget](https://github.com/serebro/phalcon-widget) - Widgets for Phalcon apps
 * [PhalconBlacklist](https://github.com/touhonoob/PhalconBlacklist) - PHP IP/CIDR Blacklist Library Built With Phalcon + MySQL
-* [PhalconPoll](https://github.com/touhonoob/PhalconPoll) - Simple PHP Poll Service Built With Phalcon PHP Framework + MySQL + Redis
-* [Phalcony](https://github.com/ovr/phalcony) - Library for expansion the base functional of Phalcon PHP Framework
+* [PhalconPoll](https://github.com/touhonoob/PhalconPoll) - Simple PHP Poll Service Built With Phalcon Framework + MySQL + Redis
+* [Phalcony](https://github.com/ovr/phalcony) - Library for expansion the base functional of Phalcon Framework
 * [yarak](https://github.com/zachleigh/yarak) - Laravel inspired Phalcon devtools
 
 
@@ -238,7 +238,7 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 *Libraries that implement Object-Relational Mapping or datamapping techniques.*
 
 * [phalcon-boundmodels](https://github.com/SidRoberts/phalcon-boundmodels) - Automatically get models based on dispatcher parameters within the Phalcon framework
-* [phalcon-mssql](https://github.com/fishjerky/phalcon-mssql) - A Phalcon PHP Framework MSSQL PDO db adapter
+* [phalcon-mssql](https://github.com/fishjerky/phalcon-mssql) - A Phalcon Framework MSSQL PDO db adapter
 * [phalcon-repositories](https://github.com/micheleangioni/phalcon-repositories) - Easy Repository pattern for Phalcon
 * [phalcon-seeder](https://github.com/SidRoberts/phalcon-seeder) - Database seeder component for Phalcon
 
@@ -252,18 +252,19 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 
 *Representational state transfer.*
 
-* [Phalcon Development Boards](https://github.com/stanislav-web/Phalcon-development) - An example development of the REST application by Phalcon PHP Framework
+* [Phalcon API](https://github.com/phalcon/phalcon-api) - Implementation of an API application using the Phalcon
+* [Phalcon Development Boards](https://github.com/stanislav-web/Phalcon-development) - An example development of the REST application by Phalcon Framework
 * [Phalcon REST](https://github.com/redound/phalcon-rest) - Phalcon REST Library
 * [Phalcon Rest JWT](https://github.com/nerfe/phalconphp-rest-jwt-acl) - This project uses Phalcon Micro Framework for REST API with JWT and ACL
-* [Phalcon Restful Webservice](https://github.com/praswicaksono/phalcon-restful-webservice) - Base project for creating powerful webservice based on Phalcon PHP Framework
+* [Phalcon Restful Webservice](https://github.com/praswicaksono/phalcon-restful-webservice) - Base project for creating powerful webservice based on Phalcon Framework
 * [phalcon-api-oauth2](https://github.com/goors/phalcon-api-oauth2) - Full Phalcon REST API example with is own OAuth2 server
 * [phalcon-rest-boilerplate](https://github.com/redound/phalcon-rest-boilerplate) - Phalcon REST Boilerplate
 * [phalcon-json-api](https://github.com/gte451f/phalcon-json-api) - A reference application combining Phalcon + JSON:API + Composer
 * [phalcon-json-api-package](https://github.com/gte451f/phalcon-json-api-package) - A composer package designed to help you create a JSON:API in Phalcon
-* [PhalconRest](https://github.com/cmoore4/phalcon-rest) - A Base project for APIs using the Phalcon PHP Framework
+* [PhalconRest](https://github.com/cmoore4/phalcon-rest) - A Base project for APIs using the Phalcon Framework
 * [phest](https://github.com/ovide/phest) - REST API library for Phalcon
 * [php-hmac-rest-api](https://github.com/jeteokeeffe/php-hmac-rest-api) - PHP HMAC Restful API that uses Phalcon Micro Application
-* [PhREST API](https://github.com/phrest/api) - Phalcon PHP Framework REST API Package
+* [PhREST API](https://github.com/phrest/api) - Phalcon Framework REST API Package
 * [rest-seed](https://github.com/michaelkrone/rest-seed) - Scaffold a REST API Application Phalcon (multi module), Angular and Bootstrap (using Yeoman, Bower and Grunt)
 
 
@@ -279,7 +280,7 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 *Various scaffolding tools.*
 
 * [generator-phalcon](https://github.com/michaelkrone/generator-phalcon) - Yeoman generator for Phalcon Multi-Module Applications
-* [phalcon-bootstrap](https://github.com/JimmDiGrizli/phalcon-bootstrap) - Bootstrap component for a quick start developing applications on Phalcon PHP Framework
+* [phalcon-bootstrap](https://github.com/JimmDiGrizli/phalcon-bootstrap) - Bootstrap component for a quick start developing applications on Phalcon Framework
 
 
 ## Searching
@@ -289,17 +290,17 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 * [ElasticsearchIndexer](https://github.com/SidRoberts/phalcon-elasticsearchindexer) - Elasticsearch indexer component for Phalcon
 * [phalcon-datatables](https://github.com/m1ome/phalcon-datatables) - Phalcon adapter for DataTables
 * [phalcon-elasticsearch](https://github.com/ovr/phalcon-elasticsearch) - Phalcon + Elastic
-* [Searcher](https://github.com/stanislav-web/Searcher) - Database searcher for Phalcon PHP Framework
+* [Searcher](https://github.com/stanislav-web/Searcher) - Database searcher for Phalcon Framework
 
 
 ## Shopping
 
 *Shopping carts and online store services.*
 
-* [phalcon_cart](https://github.com/uno-de-piera/phalcon_cart) - Complete cart system for Phalcon PHP Framework
-* [phasty](https://github.com/chaban/phasty) - Shopping Cart on Phalcon PHP Framework
+* [phalcon_cart](https://github.com/uno-de-piera/phalcon_cart) - Complete cart system for Phalcon Framework
+* [phasty](https://github.com/chaban/phasty) - Shopping Cart on Phalcon Framework
 * [Cashier](https://github.com/duythien/cashier) - Phalcon cashier
-* [Yona E-commerce](https://github.com/oleksandr-torosh/yona-ecommerce) - E-commerce CMF based on Phalcon PHP Framework
+* [Yona E-commerce](https://github.com/oleksandr-torosh/yona-ecommerce) - E-commerce CMF based on Phalcon Framework
 
 
 ## SMS
@@ -313,7 +314,7 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 
 *Conferences, Chats, Forums, etc..*
 
-* [phalcon-chat](https://github.com/sintsov/phalcon-chat) - Sample classic chat development using Phalcon PHP Framework
+* [phalcon-chat](https://github.com/sintsov/phalcon-chat) - Sample classic chat development using Phalcon Framework
 * [phalcon-tip](https://github.com/duythien/phalcon-tip) - The source for code Phalcon Tip website
 * [Phanbook](https://github.com/phanbook/phanbook/) - The source for code phanbook.com website
 * [Phosphorum](https://github.com/phalcon/forum) - The source for official Phalcon Forum
@@ -323,9 +324,9 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 
 *Libraries and tools for templating.*
 
-* [jade-phalcon](https://github.com/kylekatarnls/jade-phalcon) - Jade Template Engine for Phalcon PHP Framework
-* [phalcon-xslt-view-engine](https://github.com/racztiborzoltan/phalcon-xslt-view-engine) - Adapter to use XSLT as templating engine for Phalcon PHP Framework
-* [twig-phalcon](https://github.com/vinyvicente/phalcon-twig) - Twig Template Engine for Phalcon PHP Framework
+* [jade-phalcon](https://github.com/kylekatarnls/jade-phalcon) - Jade Template Engine for Phalcon Framework
+* [phalcon-xslt-view-engine](https://github.com/racztiborzoltan/phalcon-xslt-view-engine) - Adapter to use XSLT as templating engine for Phalcon Framework
+* [twig-phalcon](https://github.com/vinyvicente/phalcon-twig) - Twig Template Engine for Phalcon Framework
 
 
 ## Testing
@@ -339,8 +340,8 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 
 *ORM and Forms validators.*
 
-* [Phalcon Validators](https://github.com/renatoneto/phalcon-validators) - Extra validators for Phalcon PHP Framework
-* [phalswag](https://github.com/tomi20v/phalswag) - Validate request input against swagger config in Phalcon PHP Framework
+* [Phalcon Validators](https://github.com/renatoneto/phalcon-validators) - Extra validators for Phalcon Framework
+* [phalswag](https://github.com/tomi20v/phalswag) - Validate request input against swagger config in Phalcon Framework
 * [PHP Request Validator](https://github.com/progsmile/request-validator) - Easy PHP validation with the Phalcon support
 * [zvps-phalcon-validators](https://github.com/zVPS/zvps-phalcon-validators) - Additional form and data validators extending the inbuilt Phalcon validate interface
 
@@ -355,8 +356,8 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 
 # Server Applications
 
-* [ansible-phalcon-role](https://github.com/sarrubia/ansible-phalcon-role) - Ansible Role to install Phalcon PHP Framework in Debian/Ubuntu
-* [ansible-phalcon](https://github.com/HanXHX/ansible-phalcon) - Ansible Role to install Phalcon PHP Framework in Debian (provides PHP 5.6 and PHP 7.0 packages)
+* [ansible-phalcon-role](https://github.com/sarrubia/ansible-phalcon-role) - Ansible Role to install Phalcon Framework in Debian/Ubuntu
+* [ansible-phalcon](https://github.com/HanXHX/ansible-phalcon) - Ansible Role to install Phalcon Framework in Debian (provides PHP 5.6 and PHP 7.0 packages)
 * [Maker](https://github.com/phalcon/maker) - The project that build the Phalcon Box development environment
 * [packagecloud](https://github.com/phalcongelist/packagecloud) - Phalcon distribution hosted on PackageCloud
 * [perfect-php-vagrant](https://github.com/ovr/perfect-php-vagrant) - Web development Vagrant machine with PHP + Phalcon/Lynx/Zephir, Nginx, Node+Bower/Gulp/Grunt
@@ -388,14 +389,14 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 
 ## E-Books
 
-* [Phalcon PDF Documentation](https://media.readthedocs.org/pdf/phalcon-php-framework-documentation/latest/phalcon-php-framework-documentation.pdf) - Phalcon PHP Framework Documentation
+* [Phalcon PDF Documentation](https://media.readthedocs.org/pdf/phalcon-php-framework-documentation/latest/phalcon-php-framework-documentation.pdf) - Phalcon Framework Documentation
 
 
 ## Websites
 
-* [Built With](https://builtwith.phalconphp.com/) - Gallery of applications, demos and projects built with Phalcon PHP Framework
+* [Built With](https://builtwith.phalconphp.com/) - Gallery of applications, demos and projects built with Phalcon Framework
 * [Phalcon Blog](https://blog.phalconphp.com/) - Phalcon Blog
-* [Phalconist](https://github.com/phalcon/phalconist) - Resources catalog for Phalcon PHP Framework on [Phalconist](https://phalconist.phalconphp.com/)
+* [Phalconist](https://github.com/phalcon/phalconist) - Resources catalog for Phalcon Framework on [Phalconist](https://phalconist.phalconphp.com/)
 
 
 ### Tutorials
