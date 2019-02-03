@@ -248,8 +248,9 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 * [phalcon-collection-paginator](https://github.com/angelxmoreno/phalcon-collection-paginator) - A [pagination adapter](https://docs.phalconphp.com/3.4/en/db-pagination#data-adapters) for classes that extend `Phalcon\Mvc\Collection`
 
 ## Provisioning
-*Tools for provisioning a system for a Phalcon application
-[setupify](https://github.com/perch-foundation/setupify) - A collection of bash scripts for provisioning a Zephir and Phalcon based system for deployement or development.
+*Tools for provisioning a system for a Phalcon application.*
+
+* [setupify](https://github.com/perch-foundation/setupify) - A collection of bash scripts for provisioning a Zephir and Phalcon based system for deployement or development
 
 ## RESTful
 
