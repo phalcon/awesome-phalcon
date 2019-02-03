@@ -244,7 +244,7 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 
 *Libraries that implement Object-Document Mapper techniques.*
 
-[phalcon-collection-paginator](https://github.com/angelxmoreno/phalcon-collection-paginator) - A [pagination adapter](https://olddocs.phalconphp.com/en/3.0.0/reference/pagination.html#data-adapters) for classes that extend `Phalcon\Mvc\Collection`
+* [phalcon-collection-paginator](https://github.com/angelxmoreno/phalcon-collection-paginator) - A [pagination adapter](https://docs.phalconphp.com/3.4/en/db-pagination#data-adapters) for classes that extend `Phalcon\Mvc\Collection`
 
 ## RESTful
 
@@ -356,16 +356,13 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 
 * [ansible-phalcon-role](https://github.com/sarrubia/ansible-phalcon-role) - Ansible Role to install Phalcon Framework in Debian/Ubuntu
 * [ansible-phalcon](https://github.com/HanXHX/ansible-phalcon) - Ansible Role to install Phalcon Framework in Debian (provides PHP 5.6 and PHP 7.0 packages)
-* [Maker](https://github.com/phalcon/maker) - The project that build the Phalcon Box development environment
 * [packagecloud](https://github.com/phalcongelist/packagecloud) - Phalcon distribution hosted on PackageCloud
 * [perfect-php-vagrant](https://github.com/ovr/perfect-php-vagrant) - Web development Vagrant machine with PHP + Phalcon/Lynx/Zephir, Nginx, Node+Bower/Gulp/Grunt
-* [Phalcon Box](https://github.com/phalcon/box) - Phalcon Box is an official, pre-packaged Vagrant box that provides you a wonderful development environment
 * [phalcon-ci-installer](https://github.com/techpivot/phalcon-ci-installer) - Composer integration for PHP applications to install the Phalcon framework as an extension in the PHP runtime for various hosted CI services
-* [phalcon-compose](https://github.com/phalcon/phalcon-compose) - Open-source and community-driven boilerplate for Phalcon projects that run on Docker
 * [phalcon-docker-nginx](https://github.com/viebig/phalcon-docker-nginx) - Phalcon 3, PHP7, Docker sample starter application
 * [phalcon-vm](https://github.com/eugene-manuilov/phalcon-vm) - Vagrant configuration for Phalcon 3.x and PHP7.0 development + MySQL/PostgreSQL/MongoDB, Redis/Memcached, Gearman/RabbitMQ, Elasticsearch/Sphinxsearch on your choice
 * [phalcon3-compose](https://github.com/linxlad/phalcon3-compose) - Docker Phalcon 3 development environment
-* [phalcon-vagrant-dev](https://github.com/oscarmolinadev/phalcon-vagrant-dev) - Environment for contribute all projects of Phalcon / Zephir
+* [phalcon-vagrant-dev](https://github.com/OMSmolina/phalcon-vagrant-dev) - Environment for contribute all projects of Phalcon / Zephir
 
 
 # Resources
@@ -394,14 +391,11 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 
 * [Built With](https://builtwith.phalconphp.com/) - Gallery of applications, demos and projects built with Phalcon Framework
 * [Phalcon Blog](https://blog.phalconphp.com/) - Phalcon Blog
-* [Phalconist](https://github.com/phalcon/phalconist) - Resources catalog for Phalcon Framework on [Phalconist](https://phalconist.phalconphp.com/)
+* [Phalconist](https://github.com/phalcon/phalconist) - Resources catalog for Phalcon Framework on Phalconist
 
 
 ### Tutorials
 
-* [Blog Tutorial](https://github.com/phalcon/blog-tutorial) - Blog Tutorial (source code for [Blog Tutorial](https://blog.phalconphp.com/post/tutorial-your-first-encounter-with-phalcon-part-2))
-* [Phalcon Documentation](https://docs.phalconphp.com/en/latest) - Phalcon Documentation
-* [Phalcon Tips](https://phalcontip.com) - Phalcon Tips
-* [Phalcon.io](http://phalcon.io) - Articles, tutorials, tips, documentation and much more
+* [Phalcon Documentation](https://docs.phalconphp.com/3.4/en/) - Phalcon Documentation
 * [Sitepoint](https://www.sitepoint.com/?s=phalcon) - Articles, tutorials and so more
 * [Tutsplus](https://code.tutsplus.com/categories/phalcon/courses) - Tutsplus Code Courses
