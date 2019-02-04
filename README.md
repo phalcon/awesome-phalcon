@@ -250,6 +250,8 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 ## Provisioning
 *Tools for provisioning a system for a Phalcon application.*
 
+* [ansible-phalcon-role](https://github.com/sarrubia/ansible-phalcon-role) - Ansible Role to install Phalcon Framework in Debian/Ubuntu
+* [ansible-phalcon](https://github.com/HanXHX/ansible-phalcon) - Ansible Role to install Phalcon Framework in Debian (provides PHP 5.6 and PHP 7.0 packages)
 * [setupify](https://github.com/perch-foundation/setupify) - A collection of bash scripts for provisioning a Zephir and Phalcon based system for deployement or development
 
 ## RESTful
@@ -360,8 +362,6 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 
 # Server Applications
 
-* [ansible-phalcon-role](https://github.com/sarrubia/ansible-phalcon-role) - Ansible Role to install Phalcon Framework in Debian/Ubuntu
-* [ansible-phalcon](https://github.com/HanXHX/ansible-phalcon) - Ansible Role to install Phalcon Framework in Debian (provides PHP 5.6 and PHP 7.0 packages)
 * [packagecloud](https://github.com/phalcongelist/packagecloud) - Phalcon distribution hosted on PackageCloud
 * [perfect-php-vagrant](https://github.com/ovr/perfect-php-vagrant) - Web development Vagrant machine with PHP + Phalcon/Lynx/Zephir, Nginx, Node+Bower/Gulp/Grunt
 * [phalcon-ci-installer](https://github.com/techpivot/phalcon-ci-installer) - Composer integration for PHP applications to install the Phalcon framework as an extension in the PHP runtime for various hosted CI services
