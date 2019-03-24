@@ -137,6 +137,7 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 
 * [dd](https://github.com/phalcon/dd) - This package will add the `dd` and `dump` helpers to your Phalcon application
 * [PDW](https://github.com/jymboche/phalcon-debug-widget) - Frontend Debugger for Phalcon Applications
+* [Phalcon BB Debugger](https://github.com/ismail0234/Phalcon-BB-Debugger) - Phalcon BB Debugger Strong and easy install.
 * [Phalcon Console](https://github.com/vanchelo/phalcon-console) - AJAX console to execute PHP code in the browser with light, the ability to save the last code execution
 * [Phalcon Debugbar](https://github.com/snowair/phalcon-debugbar) - Integrates [PHP Debug Bar](http://phpdebugbar.com) with Phalcon Framework
 * [Phalcon Whoops](https://github.com/whoops-php/phalcon) - Integrating [Whoops](https://filp.github.io/whoops/) with Phalcon
