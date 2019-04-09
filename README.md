@@ -123,6 +123,11 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 * [php-cli-app-phalcon](https://github.com/jeteokeeffe/php-cli-app-phalcon) - Command Line Application built using Phalcon Framework
 
 
+## Config
+
+* [Phalcon Config Loader for Yaml](https://github.com/ienaga/PhalconConfig) - Loads all the yml in the directory of the app/config.
+
+
 ## Dashboard
 
 *Admin Panels & Dashboards.*
@@ -241,6 +246,7 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 * [phalcon-mssql](https://github.com/fishjerky/phalcon-mssql) - A Phalcon Framework MSSQL PDO db adapter
 * [phalcon-repositories](https://github.com/micheleangioni/phalcon-repositories) - Easy Repository pattern for Phalcon
 * [phalcon-seeder](https://github.com/SidRoberts/phalcon-seeder) - Database seeder component for Phalcon
+* [phalcon-redis-model](https://github.com/ienaga/RedisPlugin) - redis based ORM and Easy Criteria (The correspondence of MySQL sharding.)
 
 ## ODM
 
@@ -280,6 +286,7 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 *Various routing libraries & extensions.*
 
 * [Phalcon-autorouter](https://github.com/kamilhurajt/Phalcon-autorouter) - Simple way to auto load modules without complicate definition of routes
+* [Phalcon Routering for Yaml](https://github.com/ienaga/PhalconRouter) - Routing can be easily configured with yaml
 
 
 ## Scaffolding
