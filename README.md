@@ -383,7 +383,6 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 
 * [Facebook](https://www.facebook.com/Phalcon-Framework-134230726685897) - Phalcon on Facebook
 * [Gab](https://gab.com/phalcon) - Phalcon on Gab
-* [Google+](https://plus.google.com/+PhalconPHP) - Phalcon on Google+
 * [Phalcon Forums](https://forum.phalconphp.com/) - Phalcon Forums
 * [Phalcon Russian Community Chat](https://gitter.im/phalcon-rus/chat) - Russian Community Chat in Gitter.im
 * [Stack Overflow](https://stackoverflow.com/questions/tagged/phalcon) - StackOverflow Tagged Questions
