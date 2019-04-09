@@ -85,7 +85,7 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 * [PhalconPHP-Setup-Example](https://github.com/ewartx/PhalconPHP-Setup-Example) - Phalcon Framework + Grunt + Composer + Bower
 * [Solid Layer](https://github.com/solid-layer/solid-layer) - A framework/large wrapper built under Phalcon Framework
 * [Vökuró](https://github.com/phalcon/vokuro) - Sample application for Phalcon Framework (Acl, Auth, Security)
-* [Webird](https://github.com/perchlayer/webird) - Webird was created to merge the latest PHP and Node.js innovations into a single application stack
+* [Webird](https://github.com/perchlabs/webird) - Webird was created to merge the latest PHP and Node.js innovations into a single application stack
 * [phalconMvc](https://github.com/kcloze/phalconMvc) - a simple Phalcon skeleton with sub controller,cli,mvc +service
 
 
@@ -109,7 +109,7 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 * [Skopy Blog Engine](https://github.com/yuriygr/skopy) - A simple blog engine for those who want to start learning Phalcon
 * [Talon](https://github.com/adamdama/Talon) - CMS built on Phalcon Framework
 * [Vegas CMF](https://github.com/vegas-cmf) - Vegas CMF for Phalcon Framework
-* [Yona CMS](https://github.com/oleksandr-torosh/yona-cms) - CMS based on Phalcon Framework with modular structure
+* [Yona CMS](https://github.com/alexander-torosh/yona-cms) - CMS based on Phalcon Framework with modular structure
 * [PhalconCMS](https://github.com/KevinJay/PhalconCMS) - A blog built on Phalcon Framework
 
 
@@ -253,7 +253,7 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 
 * [ansible-phalcon-role](https://github.com/sarrubia/ansible-phalcon-role) - Ansible Role to install Phalcon Framework in Debian/Ubuntu
 * [ansible-phalcon](https://github.com/HanXHX/ansible-phalcon) - Ansible Role to install Phalcon Framework in Debian (provides PHP 5.6 and PHP 7.0 packages)
-* [setupify](https://github.com/perch-foundation/setupify) - A collection of bash scripts for provisioning a Zephir and Phalcon based system for deployement or development
+* [setupify](https://github.com/perchlabs/setupify) - A collection of bash scripts for provisioning a Zephir and Phalcon based system for deployement or development
 
 ## RESTful
 
@@ -307,7 +307,7 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 * [phalcon_cart](https://github.com/uno-de-piera/phalcon_cart) - Complete cart system for Phalcon Framework
 * [phasty](https://github.com/chaban/phasty) - Shopping Cart on Phalcon Framework
 * [Cashier](https://github.com/duythien/cashier) - Phalcon cashier
-* [Yona E-commerce](https://github.com/oleksandr-torosh/yona-ecommerce) - E-commerce CMF based on Phalcon Framework
+* [Yona E-commerce](https://github.com/alexander-torosh/yona-ecommerce) - E-commerce CMF based on Phalcon Framework
 
 
 ## SMS
@@ -382,7 +382,7 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 *Conferences, IRC, Forums, etc..*
 
 * [Facebook](https://www.facebook.com/Phalcon-Framework-134230726685897) - Phalcon on Facebook
-* [Gab.ai](https://gab.ai/phalcon) - Phalcon on Gab.ai
+* [Gab](https://gab.com/phalcon) - Phalcon on Gab
 * [Google+](https://plus.google.com/+PhalconPHP) - Phalcon on Google+
 * [Phalcon Forums](https://forum.phalconphp.com/) - Phalcon Forums
 * [Phalcon Russian Community Chat](https://gitter.im/phalcon-rus/chat) - Russian Community Chat in Gitter.im
@@ -391,7 +391,7 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 
 ## E-Books
 
-* [Phalcon PDF Documentation](https://media.readthedocs.org/pdf/phalcon-php-framework-documentation/latest/phalcon-php-framework-documentation.pdf) - Phalcon Framework Documentation
+* [Phalcon PDF Documentation](https://buildmedia.readthedocs.org/media/pdf/phalcon-php-framework-documentation/latest/phalcon-php-framework-documentation.pdf) - Phalcon Framework Documentation
 
 
 ## Websites
@@ -403,6 +403,6 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 
 ### Tutorials
 
-* [Phalcon Documentation](https://docs.phalconphp.com/3.4/en/) - Phalcon Documentation
+* [Phalcon Documentation](https://docs.phalconphp.com/3.4/en/introduction) - Phalcon Documentation
 * [Sitepoint](https://www.sitepoint.com/?s=phalcon) - Articles, tutorials and so more
 * [Tutsplus](https://code.tutsplus.com/categories/phalcon/courses) - Tutsplus Code Courses
