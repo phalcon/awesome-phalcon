@@ -229,6 +229,7 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 * [PhalconBlacklist](https://github.com/touhonoob/PhalconBlacklist) - PHP IP/CIDR Blacklist Library Built With Phalcon + MySQL
 * [Phalcony](https://github.com/ovr/phalcony) - Library for expansion the base functional of Phalcon Framework
 * [yarak](https://github.com/zachleigh/yarak) - Laravel inspired Phalcon devtools
+* [phalcon-data-table](https://github.com/maslo2017/phalcon-data-table) - Allows you to simplify the interaction with the bootstrap-table in the Phalcon
 
 
 ## Networking
