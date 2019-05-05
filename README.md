@@ -132,7 +132,7 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 
 *Admin Panels & Dashboards.*
 
-* [dasshy](https://github.com/phalcon/dasshy) - Statistics dashboard with Mongo/Phalcon
+* [dasshy](https://github.com/phalcon-orphanage/dasshy) - Statistics dashboard with Mongo/Phalcon
 * [PhalconTime](https://github.com/Videles/PhalconTime) - TimeKeeping tool / Dashboard skeleton
 
 
@@ -196,7 +196,7 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 
 *Integration with third party services*
 
-* [phalcon-logentries](https://github.com/phalcon/phalcon-logentries) - Sends log messages to the [Logentries](https://logentries.com/) log management service
+* [phalcon-logentries](https://github.com/phalcon-orphanage/phalcon-logentries) - Sends log messages to the [Logentries](https://logentries.com/) log management service
 
 ## Mail
 
@@ -204,7 +204,7 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 
 * [Phalcon Mailer](https://github.com/vanchelo/phalcon-mailer) - Phalcon Mailer Service
 * [Phalcon Mailer](https://github.com/phalcon-ext/mailer) - Mailer component wrapper over SwiftMailer for Phalcon Framework
-* [phalconphp-mandrill](https://bitbucket.org/tartan/phalconphp-mandrill) - Mandrill wrapper for Phalcon Framework
+* [phalconphp-mandrill](https://bitbucket.org/tartan/phalconphp-mandrill/src) - Mandrill wrapper for Phalcon Framework
 * [sendmail](https://github.com/duythien/sendmail) - Sending Confirmation Emails with Phalcon Framework and Swift
 
 
@@ -220,7 +220,7 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 
 *These libraries were placed here because none of the other categories seemed to fit*
 
-* [Breadcrumbs](https://github.com/phalcon/breadcrumbs) - Powerful and flexible component for building site breadcrumbs in Phalcon 2+.
+* [Breadcrumbs](https://github.com/phalcon-orphanage/breadcrumbs) - Powerful and flexible component for building site breadcrumbs in Phalcon 2+.
 * [Feedback](https://quasipickle.github.io/feedback/) - Is intended to be used as a replacement for Phalcon's built-in Flash and Message functionality
 * [Incubator](https://github.com/phalcon/incubator) - Repository to publish/share/experiment with new adapters, prototypes or functionality that can potentially be incorporated into the Phalcon Framework
 * [Phalcon Enterprise](https://github.com/techpivot/phalcon-enterprise) - Provides extended enterprise functionality for the Phalcon framework
