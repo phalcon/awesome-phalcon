@@ -254,7 +254,7 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 
 *Libraries that implement Object-Document Mapper techniques.*
 
-* [phalcon-collection-paginator](https://github.com/angelxmoreno/phalcon-collection-paginator) - A [pagination adapter](https://docs.phalconphp.com/3.4/en/db-pagination#data-adapters) for classes that extend `Phalcon\Mvc\Collection`
+* [phalcon-collection-paginator](https://github.com/angelxmoreno/phalcon-collection-paginator) - A [pagination adapter](https://docs.phalcon.io/3.4/en/db-pagination#data-adapters) for classes that extend `Phalcon\Mvc\Collection`
 
 ## Provisioning
 *Tools for provisioning a system for a Phalcon application.*
@@ -378,7 +378,6 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 * [phalcon-docker-nginx](https://github.com/viebig/phalcon-docker-nginx) - Phalcon 3, PHP7, Docker sample starter application
 * [phalcon-vm](https://github.com/eugene-manuilov/phalcon-vm) - Vagrant configuration for Phalcon 3.x and PHP7.0 development + MySQL/PostgreSQL/MongoDB, Redis/Memcached, Gearman/RabbitMQ, Elasticsearch/Sphinxsearch on your choice
 * [phalcon3-compose](https://github.com/linxlad/phalcon3-compose) - Docker Phalcon 3 development environment
-* [phalcon-vagrant-dev](https://github.com/OMSmolina/phalcon-vagrant-dev) - Environment for contribute all projects of Phalcon / Zephir
 
 
 # Resources
@@ -392,7 +391,7 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 
 * [Facebook](https://www.facebook.com/Phalcon-Framework-134230726685897) - Phalcon on Facebook
 * [Gab](https://gab.com/phalcon) - Phalcon on Gab
-* [Phalcon Forums](https://forum.phalconphp.com/) - Phalcon Forums
+* [Phalcon Forums](https://forum.phalcon.io/) - Phalcon Forums
 * [Phalcon Russian Community Chat](https://gitter.im/phalcon-rus/chat) - Russian Community Chat in Gitter.im
 * [Stack Overflow](https://stackoverflow.com/questions/tagged/phalcon) - StackOverflow Tagged Questions
 * [Twitter](https://twitter.com/phalconphp) - Phalcon on Twitter
@@ -404,13 +403,13 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 
 ## Websites
 
-* [Built With](https://builtwith.phalconphp.com/) - Gallery of applications, demos and projects built with Phalcon Framework
-* [Phalcon Blog](https://blog.phalconphp.com/) - Phalcon Blog
+* [Built With](https://builtwith.phalcon.io/) - Gallery of applications, demos and projects built with Phalcon Framework
+* [Phalcon Blog](https://blog.phalcon.io/) - Phalcon Blog
 * [Phalconist](https://github.com/phalcon/phalconist) - Resources catalog for Phalcon Framework on Phalconist
 
 
 ### Tutorials
 
-* [Phalcon Documentation](https://docs.phalconphp.com/3.4/en/introduction) - Phalcon Documentation
+* [Phalcon Documentation](https://docs.phalcon.io/3.4/en/introduction) - Phalcon Documentation
 * [Sitepoint](https://www.sitepoint.com/?s=phalcon) - Articles, tutorials and so more
 * [Tutsplus](https://code.tutsplus.com/categories/phalcon/courses) - Tutsplus Code Courses
