@@ -104,6 +104,7 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 
 * [blog](https://github.com/duythien/blog) - Blog project with multi-lingual support
 * [giada-www](https://github.com/monocasual/giada-www) - Official website of [Giada Loop Machine](https://www.giadamusic.com/)
+* [KikCMS](https://github.com/krazzer/kikcms) - CMS built on Phalcon Framework
 * [phalconBlog](https://github.com/eristoddle/phalconBlog) - A blog using the Phalcon Framework
 * [PhalconEye](https://github.com/PhalconEye/phalconeye) - PhalconEye CMS
 * [Skopy Blog Engine](https://github.com/yuriygr/skopy) - A simple blog engine for those who want to start learning Phalcon
