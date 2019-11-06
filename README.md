@@ -34,6 +34,7 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
     - [RESTful](#restful)
     - [Routing](#routing)
     - [Searching](#searching)
+    - [Shop & Ecommerce](#shop)
     - [Talks](#talks)
     - [Templating](#templating)
     - [Testing](#testing)
@@ -183,6 +184,11 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 *Searching tools & libraries.*
 
 * [ElasticsearchIndexer](https://github.com/SidRoberts/phalcon-elasticsearchindexer) - Elasticsearch indexer component for Phalcon
+
+## Shop & Ecommerce
+
+* [Shopping Cart](https://github.com/sinbadxiii/phalcon-cart) - Simple cart for online store
+
 
 
 ## Talks
