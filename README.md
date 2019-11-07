@@ -165,9 +165,9 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 
 *Representational state transfer.*
 
-* [Phalcon API](https://github.com/phalcon/phalcon-api) - Implementation of an API application using the Phalcon
 * [phalcon-json-api-package](https://github.com/gte451f/phalcon-json-api-package) - A composer package designed to help you create a JSON:API in Phalcon
 * [PhREST API](https://github.com/phrest/api) - Phalcon Framework REST API Package
+* [REST API](https://github.com/phalcon/rest-api) - Implementation of an API application using the Phalcon
 
 
 ## Routing
