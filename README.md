@@ -34,7 +34,7 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
     - [RESTful](#restful)
     - [Routing](#routing)
     - [Searching](#searching)
-    - [Shop & Ecommerce](#shop)
+    - [Shop & Ecommerce](#shop--ecommerce)
     - [Talks](#talks)
     - [Templating](#templating)
     - [Testing](#testing)
