@@ -43,10 +43,7 @@ jobs:
       - name: Install dependencies
         run: |
           go version
-
-          go get github.com/russross/blackfriday
-          go get github.com/PuerkitoBio/goquery
-          go get github.com/gorilla/mux
+          go build
 
       - name: Run Tests
         run: awesome_bot README.md
