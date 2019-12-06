@@ -40,9 +40,9 @@ jobs:
 
       - name: Bundle install
         run: |
-          gem install bundler
+          command -v bundler || gem install bundler
           bundle config path vendor/bundle
           bundle install --jobs "$(getconf _NPROCESSORS_ONLN)" --retry 10
 
       - name: Run Tests
-        run: awesome_bot README.md
+        run: bundle exec awesome_bot README.md
