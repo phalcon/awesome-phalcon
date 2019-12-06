@@ -43,6 +43,7 @@ jobs:
       - name: Install dependencies
         run: |
           go version
+          gem install awesome_bot
           go build
 
       - name: Run Tests
