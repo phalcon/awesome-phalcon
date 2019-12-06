@@ -1,0 +1,52 @@
+name: CI
+
+on:
+  push:
+    branches-ignore:
+      - 'wip-*'
+  pull_request:
+    branches:
+      - 'master'
+
+jobs:
+  ci:
+    env:
+      GO111MODULE: on
+
+    strategy:
+      fail-fast: false
+
+      matrix:
+        go-version: [1.13.x]
+        platform: [ubuntu-latest]
+
+    runs-on: ${{ matrix.platform }}
+
+    steps:
+      - uses: actions/checkout@v2-beta
+        with:
+          fetch-depth: 1
+
+      - name: Setup Go Packages Cache
+        uses: actions/cache@v1
+        with:
+          path: ~/go/pkg/mod
+          key: ${{ runner.os }}-go-${{ hashFiles('**/go.sum') }}
+          restore-keys: |
+            ${{ runner.os }}-go-
+
+      - name: Install Go
+        uses: actions/setup-go@v1
+        with:
+          go-version: ${{ matrix.go-version }}
+
+      - name: Install dependencies
+        run: |
+          go version
+
+          go get github.com/russross/blackfriday
+          go get github.com/PuerkitoBio/goquery
+          go get github.com/gorilla/mux
+
+      - name: Run Tests
+        run: awesome_bot README.md
