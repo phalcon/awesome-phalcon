@@ -34,6 +34,7 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
     - [RESTful](#restful)
     - [Routing](#routing)
     - [Searching](#searching)
+    - [SEO](#seo)
     - [Shop & Ecommerce](#shop--ecommerce)
     - [Talks](#talks)
     - [Templating](#templating)
@@ -184,6 +185,14 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 *Searching tools & libraries.*
 
 * [ElasticsearchIndexer](https://github.com/SidRoberts/phalcon-elasticsearchindexer) - Elasticsearch indexer component for Phalcon
+
+
+## SEO
+
+*Seo tools.*
+
+* [Phalcon meta tags](https://github.com/izica/phalcon-meta-tags) - Tools for work with meta tags.
+
 
 ## Shop & Ecommerce
 
