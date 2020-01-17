@@ -130,7 +130,11 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 
 * [phalcon-logentries](https://github.com/phalcon-orphanage/phalcon-logentries) - Sends log messages to the [Logentries](https://logentries.com/) log management service
 
-
+ # IDE
+ * extensions vs code for Volt Phalcon Language*
+ 
+ * [volt-phalcon-language](https://marketplace.visualstudio.com/items?itemName=fbclol.volt-phalcon-language)
+ 
 ## Miscellaneous
 
 *These libraries were placed here because none of the other categories seemed to fit*
