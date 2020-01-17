@@ -27,6 +27,7 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
     - [Debug](#debug)
     - [i18n](#i18n)
     - [Integration](#integration)
+    - [IDE](#ide)
     - [Miscellaneous](#miscellaneous)
     - [ORM](#orm)
     - [ODM](#odm)
@@ -130,10 +131,10 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 
 * [phalcon-logentries](https://github.com/phalcon-orphanage/phalcon-logentries) - Sends log messages to the [Logentries](https://logentries.com/) log management service
 
- # IDE
- * extensions vs code for Volt Phalcon Language*
+ ## IDE
+ *List of extensions for IDE*
  
- * [volt-phalcon-language](https://marketplace.visualstudio.com/items?itemName=fbclol.volt-phalcon-language)
+ * [volt-phalcon-language](https://marketplace.visualstudio.com/items?itemName=fbclol.volt-phalcon-language) - Extensions `VS code` for Volt Phalcon Language
  
 ## Miscellaneous
 
