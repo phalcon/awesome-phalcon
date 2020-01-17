@@ -134,8 +134,9 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
  ## IDE
  *List of extensions for IDE*
  
- * [volt-phalcon-language](https://marketplace.visualstudio.com/items?itemName=fbclol.volt-phalcon-language) - Extensions `VS code` for Volt Phalcon Language
+ * [volt-phalcon-language](https://marketplace.visualstudio.com/items?itemName=fbclol.volt-phalcon-language) - An extension for VS Code which provides support for the Phalcon Volt syntax and completion-auto
  
+
 ## Miscellaneous
 
 *These libraries were placed here because none of the other categories seemed to fit*
