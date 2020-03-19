@@ -45,7 +45,6 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 
 - [Resources](#resources)
     - [Conferences](#conferences)
-    - [Books](#books)
     - [E-Books](#e-books)
     - [Websites](#websites)
         - [Tutorials](#tutorials)
@@ -68,7 +67,6 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 * [Phalcon Composer](https://github.com/xxtime/phalcon) - Phalcon with Composer support MySql MongoDb Redis, clean + beauty
 * [Vökuró](https://github.com/phalcon/vokuro) - Sample application for Phalcon Framework (Acl, Auth, Security)
 * [Webird](https://github.com/perchlabs/webird) - Webird was created to merge the latest PHP and Node.js innovations into a single application stack
-* [NovaMOOC](https://github.com/les-enovateurs/phalcon-nova-mooc) - Sample application with API/BackEnd and FrontEnd + Authentication with JWT + Cypress tests with GitHub Actions + Docker compose.
 
 
 ## Authentication & OAuth
@@ -255,13 +253,10 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 * [Stack Overflow](https://stackoverflow.com/questions/tagged/phalcon) - StackOverflow Tagged Questions
 * [Twitter](https://twitter.com/phalconphp) - Phalcon on Twitter
 
-## Books
-
-* [Phalcon Book (in French)](https://www.editions-eni.fr/livre/phalcon-3-developpez-des-applications-web-complexes-et-performantes-en-php-9782409022746) - Phalcon : Develop complex and powerful web applications in PHP
-
 ## E-Books
 
 * [Phalcon PDF Documentation](https://buildmedia.readthedocs.org/media/pdf/phalcon-php-framework-documentation/latest/phalcon-php-framework-documentation.pdf) - Phalcon Framework Documentation
+
 
 ## Websites
 
