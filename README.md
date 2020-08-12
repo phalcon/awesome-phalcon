@@ -45,8 +45,11 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 
 - [Resources](#resources)
     - [Conferences](#conferences)
+        - [Communities](#communities)
+        - [Slides](#slides)
     - [Books](#books)
     - [E-Books](#e-books)
+    - [Magazines](#magazines)
     - [Websites](#websites)
         - [Tutorials](#tutorials)
 
@@ -249,12 +252,18 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 
 *Conferences, IRC, Forums, etc..*
 
+### Communities
+
 * [Facebook](https://www.facebook.com/Phalcon-Framework-134230726685897) - Phalcon on Facebook
 * [Gab](https://gab.com/phalcon) - Phalcon on Gab
 * [Phalcon Forums](https://forum.phalcon.io/) - Phalcon Forums
 * [Phalcon Russian Community Chat](https://gitter.im/phalcon-rus/chat) - Russian Community Chat in Gitter.im
 * [Stack Overflow](https://stackoverflow.com/questions/tagged/phalcon) - StackOverflow Tagged Questions
 * [Twitter](https://twitter.com/phalconphp) - Phalcon on Twitter
+
+### Slides 
+
+* [Phalcon - Develop powerful web applications in PHP](https://les-enovateurs.com/talks/HumanTalks2020/#/) - Slide used to present Phalcon V4 to the Human Talks Lyon - 11 february 2020
 
 ## Books
 
@@ -263,6 +272,11 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 ## E-Books
 
 * [Phalcon PDF Documentation](https://buildmedia.readthedocs.org/media/pdf/phalcon-php-framework-documentation/latest/phalcon-php-framework-documentation.pdf) - Phalcon Framework Documentation
+
+## Magazines
+
+* [French magazine - Programmez n°239](https://www.programmez.com/magazine/article/les-10-commandements-de-lecoconception) - The 10 commandments of eco-design (article that mention Phalcon as a light and ecological Framework)
+* [French magazine - Programmez n°241](https://www.programmez.com/magazine/article/phalcon-un-framework-performant-et-robuste-compile-en-c) - Phalcon : the new PHP framework to know
 
 ## Websites
 
