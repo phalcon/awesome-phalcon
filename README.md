@@ -263,7 +263,7 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 
 ### Slides 
 
-* [Phalcon - Develop powerful web applications in PHP](https://les-enovateurs.com/talks/HumanTalks2020/#/) - Slide used to present Phalcon V4 to the Human Talks Lyon - 11 february 2020
+* [Phalcon - Develop powerful web applications in PHP](https://les-enovateurs.com/talks/HumanTalks2020/#/) - Slides used to present Phalcon V4 during the Human Talks Lyon - 11 february 2020
 
 ## Books
 
@@ -275,8 +275,8 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 
 ## Magazines
 
-* [French magazine - Programmez n°239](https://www.programmez.com/magazine/article/les-10-commandements-de-lecoconception) - The 10 commandments of eco-design (article that mention Phalcon as a light and ecological Framework)
-* [French magazine - Programmez n°241](https://www.programmez.com/magazine/article/phalcon-un-framework-performant-et-robuste-compile-en-c) - Phalcon : the new PHP framework to know
+* [French magazine - Programmez n°239](https://www.programmez.com/magazine/article/les-10-commandements-de-lecoconception) - The 10 commandments of eco-design (article mentioning Phalcon as a light and ecological Framework)
+* [French magazine - Programmez n°241](https://www.programmez.com/magazine/article/phalcon-un-framework-performant-et-robuste-compile-en-c) - Phalcon : the new must-know PHP framework
 
 ## Websites
 
