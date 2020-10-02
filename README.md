@@ -12,7 +12,7 @@ A curated list of awesome Phalcon libraries and resources. Inspired by [awesome-
 
 Please take a quick gander at the [contribution guidelines](CONTRIBUTING.md) first. Thanks to all [contributors](https://github.com/phalcon/awesome-phalcon/graphs/contributors); you rock!
 
-Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other awesome-phalcon maintainers!
+Join us on [Discord](https://discord.com/invite/kRc2N2M) to chat with other awesome-phalcon maintainers!
 
 
 ### Contents
