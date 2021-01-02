@@ -47,6 +47,7 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
     - [Conferences](#conferences)
     - [Books](#books)
     - [E-Books](#e-books)
+    - [Magazine](#magazine)
     - [Websites](#websites)
         - [Tutorials](#tutorials)
 
@@ -264,6 +265,11 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 
 * [Phalcon PDF Documentation](https://buildmedia.readthedocs.org/media/pdf/phalcon-php-framework-documentation/latest/phalcon-php-framework-documentation.pdf) - Phalcon Framework Documentation
 
+## Magazine
+
+* [Programmez n°241 (in French)](https://www.programmez.com/magazine/programmez-241-pdf) - Phalcon : the new PHP framework to know
+* [PHPMagazin n°1.21 (in German)](https://kiosk.entwickler.de/php-magazin/php-magazin-1-2021/) - The Phalcon among the PHP frameworks
+
 ## Websites
 
 * [Built With](https://builtwith.phalcon.io/) - Gallery of applications, demos and projects built with Phalcon Framework
@@ -273,6 +279,6 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 
 ### Tutorials
 
-* [Phalcon Documentation](https://docs.phalcon.io/3.4/en/introduction) - Phalcon Documentation
+* [Phalcon Documentation](https://docs.phalcon.io/4.0/en/introduction) - Phalcon Documentation
 * [Sitepoint](https://www.sitepoint.com/?s=phalcon) - Articles, tutorials and so more
 * [Tutsplus](https://code.tutsplus.com/categories/phalcon/courses) - Tutsplus Code Courses
