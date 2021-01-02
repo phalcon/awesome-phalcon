@@ -189,7 +189,7 @@ Join us on [Discord](https://discord.com/invite/kRc2N2M) to chat with other awes
 
 *Various routing libraries & extensions.*
 
-* [Phalcon-autorouter](https://github.com/kamilhurajt/Phalcon-autorouter) - Simple way to auto load modules without complicate definition of routes
+* [Phalcon-autorouter](https://github.com/kahur/Phalcon-autorouter) - Simple way to auto load modules without complicate definition of routes
 * [Phalcon Routing for Yaml](https://github.com/ienaga/PhalconRouter) - Routing can be easily configured with yaml
 
 
