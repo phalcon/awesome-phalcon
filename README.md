@@ -189,7 +189,7 @@ Join us on [Discord](https://discord.com/invite/kRc2N2M) to chat with other awes
 
 *Various routing libraries & extensions.*
 
-* [Phalcon-autorouter](https://github.com/kamilhurajt/Phalcon-autorouter) - Simple way to auto load modules without complicate definition of routes
+* [Phalcon-autorouter](https://github.com/kahur/Phalcon-autorouter) - Simple way to auto load modules without complicate definition of routes
 * [Phalcon Routing for Yaml](https://github.com/ienaga/PhalconRouter) - Routing can be easily configured with yaml
 
 
@@ -277,6 +277,7 @@ Join us on [Discord](https://discord.com/invite/kRc2N2M) to chat with other awes
 
 * [French magazine - Programmez n°239](https://www.programmez.com/magazine/article/les-10-commandements-de-lecoconception) - The 10 commandments of eco-design (article mentioning Phalcon as a light and ecological Framework)
 * [French magazine - Programmez n°241](https://www.programmez.com/magazine/article/phalcon-un-framework-performant-et-robuste-compile-en-c) - Phalcon : the new must-know PHP framework
+* [German magazine - PHPMagazin n°1.21](https://kiosk.entwickler.de/php-magazin/php-magazin-1-2021/) - The Phalcon among the PHP frameworks
 
 ## Websites
 
@@ -287,6 +288,6 @@ Join us on [Discord](https://discord.com/invite/kRc2N2M) to chat with other awes
 
 ### Tutorials
 
-* [Phalcon Documentation](https://docs.phalcon.io/3.4/en/introduction) - Phalcon Documentation
+* [Phalcon Documentation](https://docs.phalcon.io/4.0/en/introduction) - Phalcon Documentation
 * [Sitepoint](https://www.sitepoint.com/?s=phalcon) - Articles, tutorials and so more
 * [Tutsplus](https://code.tutsplus.com/categories/phalcon/courses) - Tutsplus Code Courses
