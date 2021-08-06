@@ -81,6 +81,7 @@ Join us on [Discord](https://discord.com/invite/kRc2N2M) to chat with other awes
 
 * [Padlock](https://github.com/tegaphilip/padlock) - A docker-based phalcon authentication server built on top of the PHP OAuth 2.0 Server
 * [phalcon-authmiddleware](https://github.com/SidRoberts/phalcon-authmiddleware) - Add middleware events to the dispatcher. Generic design that's compatible with ACL or a custom auth library.
+* [Phalcon Auth](https://github.com/sinbadxiii/phalcon-auth) - Out-of-the-box authentication component based on guards and providers
 
 
 ## CMS & Blogs
