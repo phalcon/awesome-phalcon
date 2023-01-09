@@ -152,6 +152,7 @@ Join us on [Discord](https://discord.com/invite/kRc2N2M) to chat with other awes
 * [Breadcrumbs](https://github.com/sergeyklay/breadcrumbs) - Powerful and flexible component for building site breadcrumbs in Phalcon 2+.
 * [Feedback](https://quasipickle.github.io/feedback/) - Is intended to be used as a replacement for Phalcon's built-in Flash and Message functionality
 * [Incubator](https://github.com/phalcon/incubator) - Repository to publish/share/experiment with new adapters, prototypes or functionality that can potentially be incorporated into the Phalcon Framework
+* [Upgrade Adviser](https://github.com/diplopito/Phalcon-Upgrade-Adviser) - Command line tool to help upgrading Phalcon Applications from 3.4.x to 4.1.3, 3.4.x to 5.1.3, 4.1.3 to 5.1.3.
 * [yarak](https://github.com/zachleigh/yarak) - Laravel inspired Phalcon devtools
 * [phalcon-data-table](https://github.com/maslo2017/phalcon-data-table) - Allows you to simplify the interaction with the bootstrap-table in the Phalcon
 
