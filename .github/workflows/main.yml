@@ -18,13 +18,16 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Install Ruby
       - uses: actions/checkout@v3
-      - uses: ruby/setup-ruby@v1
+
+      - name: 'Install Ruby'
+        uses: ruby/setup-ruby@v1
         with:
           ruby-version: '3.0' # Not needed with a .ruby-version file
           bundler-cache: true # runs 'bundle install' and caches installed gems automatically
-      - run: |
+
+      - name: 'Update gems'
+        run: |
           command -v bundler || gem install bundler
           bundle config path vendor/bundle
           bundle install --jobs "$(getconf _NPROCESSORS_ONLN)" --retry 10
