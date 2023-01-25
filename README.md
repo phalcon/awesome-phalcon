@@ -94,6 +94,7 @@ Join us on [Discord](https://discord.com/invite/kRc2N2M) to chat with other awes
 * [Yona CMS](https://github.com/alexander-torosh/yona-cms) - CMS based on Phalcon Framework with modular structure
 * [PhalconCMS](https://github.com/KevinJay/PhalconCMS) - A blog built on Phalcon Framework
 * [Hummingbird CMS](https://github.com/mvanvu/hummingbird-cms) - A CMS based on Phalcon 4 with many powerful features
+* [Element CMF](https://github.com/odvapro/element) - Admin panel for everything [Demo](https://element-demo.odva.pro/element/) (admin | adminpass)
 
 
 ## Command Line
