@@ -36,4 +36,5 @@ jobs:
         run: |
           bundle exec awesome_bot \
             -w https://github.com/phalcon/awesome-phalcon/actions \
+            -w https://gab.com/phalcon \
             -f README.md
