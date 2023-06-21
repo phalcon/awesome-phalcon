@@ -12,7 +12,7 @@ A curated list of awesome Phalcon libraries and resources. Inspired by [awesome-
 
 Please take a quick gander at the [contribution guidelines](CONTRIBUTING.md) first. Thanks to all [contributors](https://github.com/phalcon/awesome-phalcon/graphs/contributors); you rock!
 
-Join us on [Discord](https://discord.gg/kRc2N2M) to chat with other awesome-phalcon maintainers!
+Join us on [Discord](https://discord.com/invite/kRc2N2M) to chat with other awesome-phalcon maintainers!
 
 ### Contents
 
@@ -253,7 +253,7 @@ Join us on [Discord](https://discord.gg/kRc2N2M) to chat with other awesome-phal
 ### Communities
 
 * [Gab](https://gab.com/phalcon) - Phalcon on Gab
-* [MeWe](https://mewe.com/join/phalcon) - Phalcon on MeWe
+* [MeWe](https://mewe.com/join-front/phalcon) - Phalcon on MeWe
 * [Phalcon Forums](https://forum.phalcon.io/) - Phalcon Forums
 * [Phalcon Russian Community Chat](https://app.gitter.im/#/room/#phalcon-rus_chat:gitter.im) - Russian Community Chat in Gitter.im
 * [Stack Overflow](https://stackoverflow.com/questions/tagged/phalcon) - StackOverflow Tagged Questions
