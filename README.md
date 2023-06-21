@@ -12,7 +12,7 @@ A curated list of awesome Phalcon libraries and resources. Inspired by [awesome-
 
 Please take a quick gander at the [contribution guidelines](CONTRIBUTING.md) first. Thanks to all [contributors](https://github.com/phalcon/awesome-phalcon/graphs/contributors); you rock!
 
-Join us on [Discord](https://discord.com/invite/kRc2N2M) to chat with other awesome-phalcon maintainers!
+Join us on [Discord](https://phalcon.io/discord) to chat with other awesome-phalcon maintainers!
 
 
 ### Contents
@@ -72,7 +72,6 @@ Join us on [Discord](https://discord.com/invite/kRc2N2M) to chat with other awes
 * [Vökuró](https://github.com/phalcon/vokuro) - Sample application for Phalcon Framework (Acl, Auth, Security)
 * [Webird](https://github.com/perchlabs/webird) - Webird was created to merge the latest PHP and Node.js innovations into a single application stack
 * [NovaMOOC](https://github.com/les-enovateurs/phalcon-nova-mooc) - Sample application with API/BackEnd and FrontEnd + Authentication with JWT + Cypress tests with GitHub Actions + Docker compose.
-* [Sakura Panel](https://github.com/yassinrais/sakura-panel) - A Phalcon Panel created to install plugins Without Editing the Panel Source Code (Auth, ACL, Lite Bootstrap Template, And more...).
 
 
 ## Authentication & OAuth
@@ -240,7 +239,6 @@ Join us on [Discord](https://discord.com/invite/kRc2N2M) to chat with other awes
 
 # Server Applications
 
-* [packagecloud](https://github.com/phalcongelist/packagecloud) - Phalcon distribution hosted on PackageCloud
 * [phalcon-docker-nginx](https://github.com/viebig/phalcon-docker-nginx) - Phalcon 3, PHP7, Docker sample starter application
 * [phalcon-vm](https://github.com/eugene-manuilov/phalcon-vm) - Vagrant configuration for Phalcon 3.x and PHP7.0 development + MySQL/PostgreSQL/MongoDB, Redis/Memcached, Gearman/RabbitMQ, Elasticsearch/Sphinxsearch on your choice
 * [phalcon3-compose](https://github.com/linxlad/phalcon3-compose) - Docker Phalcon 3 development environment
@@ -257,20 +255,21 @@ Join us on [Discord](https://discord.com/invite/kRc2N2M) to chat with other awes
 
 ### Communities
 
-* [Facebook](https://www.facebook.com/Phalcon-Framework-134230726685897) - Phalcon on Facebook
-* [Gab](https://gab.com/phalcon) - Phalcon on Gab
+* [Gab](https://phalcon.io/gab) - Phalcon on Gab
+* [MeWe](https://phalcon.io/mewe) - Phalcon on MeWe
 * [Phalcon Forums](https://forum.phalcon.io/) - Phalcon Forums
 * [Phalcon Russian Community Chat](https://gitter.im/phalcon-rus/chat) - Russian Community Chat in Gitter.im
 * [Stack Overflow](https://stackoverflow.com/questions/tagged/phalcon) - StackOverflow Tagged Questions
-* [Twitter](https://twitter.com/phalconphp) - Phalcon on Twitter
+* [Telegram](https://phalcon.io/telegram) - Phalcon on Telegram
+* [Twitter](https://phalcon.io/twitter) - Phalcon on Twitter
 
 ### Slides 
 
-* [Phalcon - Develop powerful web applications in PHP](https://les-enovateurs.com/talks/HumanTalks2020/#/) - Slides used to present Phalcon V4 during the Human Talks Lyon - 11 february 2020
+* [Phalcon - Develop powerful web applications in PHP](https://les-enovateurs.com/talks/HumanTalks2020) - Slides used to present Phalcon V4 during the Human Talks Lyon - 11 february 2020
 
 ## Books
 
-* [Phalcon Book (in French)](https://www.editions-eni.fr/livre/phalcon-3-developpez-des-applications-web-complexes-et-performantes-en-php-9782409022746) - Phalcon : Develop complex and powerful web applications in PHP
+* [Phalcon Book (in French)](https://www.editions-eni.fr/livre/phalcon-3-developpez-des-applications-web-complexes-et-performantes-en-php-version-en-ligne-9782409022753) - Phalcon : Develop complex and powerful web applications in PHP
 
 ## E-Books
 
@@ -280,7 +279,7 @@ Join us on [Discord](https://discord.com/invite/kRc2N2M) to chat with other awes
 
 * [French magazine - Programmez n°239](https://www.programmez.com/magazine/article/les-10-commandements-de-lecoconception) - The 10 commandments of eco-design (article mentioning Phalcon as a light and ecological Framework)
 * [French magazine - Programmez n°241](https://www.programmez.com/magazine/article/phalcon-un-framework-performant-et-robuste-compile-en-c) - Phalcon : the new must-know PHP framework
-* [German magazine - PHPMagazin n°1.21](https://kiosk.entwickler.de/php-magazin/php-magazin-1-2021/) - The Phalcon among the PHP frameworks
+* [German magazine - PHPMagazin n°1.21](https://entwickler.de/php-magazin/php-magazin-1-2021/) - The Phalcon among the PHP frameworks
 
 ## Websites
 
