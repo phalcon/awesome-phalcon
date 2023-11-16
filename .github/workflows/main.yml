@@ -25,8 +25,7 @@ jobs:
           docker run \
             --rm \
             -v $PWD:/mnt:ro dkhamsing/awesome_bot \
-            --white-list "https://gab.com/phalcon" \
-            --white-list "https://twitter.com/phalconphp" \
+            -w "https://gab.com/phalcon,https://twitter.com/phalconphp" \
             --allow-dupe \
             --allow-redirect \
             --skip-save-results \
