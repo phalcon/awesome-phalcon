@@ -23,7 +23,6 @@ jobs:
       - name: Run Tests
         run: |
           docker run \
-            -ti \
             --rm \
             -v $PWD:/mnt:ro dkhamsing/awesome_bot \
             --white-list "test.com" \
