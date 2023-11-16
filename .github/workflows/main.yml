@@ -20,22 +20,14 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      - name: 'Install Ruby'
-        uses: ruby/setup-ruby@v1
-        with:
-          ruby-version: '3.0' # Not needed with a .ruby-version file
-          bundler-cache: true # runs 'bundle install' and caches installed gems automatically
-
-      - name: 'Update gems'
-        run: |
-          command -v bundler || gem install bundler
-          bundle config path vendor/bundle
-          bundle install --jobs "$(getconf _NPROCESSORS_ONLN)" --retry 10
-
       - name: Run Tests
         run: |
-          bundle exec awesome_bot \
-            -w https://github.com/phalcon/awesome-phalcon/actions \
-            -w https://gab.com/phalcon \
-            -w https://twitter.com/phalconphp 
+          docker run \
+            -ti \
+            --rm \
+            -v $PWD:/mnt:ro dkhamsing/awesome_bot \
+            --white-list "test.com" \
+            --allow-dupe \
+            --allow-redirect \
+            --skip-save-results \
             -f README.md
