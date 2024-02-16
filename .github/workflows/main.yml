@@ -25,7 +25,7 @@ jobs:
           docker run \
             --rm \
             -v $PWD:/mnt:ro dkhamsing/awesome_bot \
-            -w "https://gab.com/phalcon,https://twitter.com/phalconphp" \
+            -w "https://gab.com/phalcon,https://twitter.com/phalconphp,https://stackoverflow.com/questions/tagged/phalcon" \
             --allow-dupe \
             --allow-redirect \
             --skip-save-results \
